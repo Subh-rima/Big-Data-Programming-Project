@@ -1,0 +1,3476 @@
+DISPLAY_NAME,REPUTATION,answer_score,tag_name, git_login_name, git_followers, git_total_count, git_repo_count,email,git_fuzzy_name
+antogerva,906,0,angular,antogerva,79,9783,20,antogerva@gmail.com,antogerva
+Adam,2710,105,android,souzaonofre,86,8481,122,souzaonofre@gmail.com,stan
+Adam,22283,860,php,souzaonofre,86,8481,122,souzaonofre@gmail.com,shaobin0604
+Adam,323,0,debian,souzaonofre,86,8481,122,souzaonofre@gmail.com,tcurdt
+Adam,6535,343,jquery,souzaonofre,86,8481,122,souzaonofre@gmail.com,erichocean
+Adam,83,3,javascript,souzaonofre,86,8481,122,souzaonofre@gmail.com,Chaz6
+stan,906,0,angular,stan,52,7906,47,,willi
+John Lord,1736,45,c#,itsnotvalid,92,7887,40,,rmoriz
+shaobin0604,906,0,angular,shaobin0604,168,6942,107,bin.shao0604@gmail.com,delonnewman
+Kais,39,1,python,kaichen,378,5606,52,,inem
+Thomas,1121,8,python,stigkj,90,5311,260,from.github@nisgits.net,slmingol
+Thomas,95,0,tsql,stigkj,90,5311,260,from.github@nisgits.net,etng
+Thomas,13,0,regression,stigkj,90,5311,260,from.github@nisgits.net,jens-a-e
+tcurdt,906,0,angular,tcurdt,194,4868,51,,elazar
+erichocean,906,0,angular,erichocean,110,4749,42,,zipme
+Chaz6,906,0,angular,Chaz6,47,4747,51,chaz@chaz6.com,ELLIOTTCABLE
+Patrick,197,2,excel,halbtuerke,40,4331,73,,include
+Patrick,779,0,r,halbtuerke,40,4331,73,,Bengt
+Patrick,583,0,java,halbtuerke,40,4331,73,,brsma
+Patrick,2057,156,android,halbtuerke,40,4331,73,,antage
+willi,906,0,angular,willi,171,4287,2,,igungor
+Glen Smith,1,0,html,slashdotdash,349,4104,68,,jsmestad
+rmoriz,906,0,angular,rmoriz,174,3950,81,,leandroo
+Jake Miller,2314,22,java,bensie,114,3901,41,bensie@gmail.com,gberenfield
+delonnewman,906,0,angular,delonnewman,75,3848,96,contact@delonnewman.name,mtakuya
+inem,906,0,angular,inem,191,3770,196,nemytchenko@gmail.com,jauderho
+elena,3390,62,puppeteer,igrigorik,8390,3592,75,ilya@igvita.com,reeze
+slmingol,906,0,angular,slmingol,35,3430,392,github@lamolabs.org,kergoth
+etng,906,0,angular,etng,88,3318,142,,joshprice
+clemens,15626,359,postgresql,cbx,35,3066,48,,ewheeler
+Soon,501,0,r,phuson,25,2587,37,phuson@gmail.com,blueyed
+Thomas Yu,55,0,laravel,arpunk,106,2566,65,arpunk@fatelectron.net,dudeman
+Mario,177,0,html,mjurincic,35,2429,131,,dinamic
+Mario,1136,23,python,mjurincic,35,2429,131,,tlockney
+mhery,1829,0,java,walkah,174,2379,52,walkah@walkah.net,Thorsson
+jens-a-e,906,0,angular,jens-a-e,67,2355,116,jens@lea.io,khoerling
+elazar,906,0,angular,elazar,288,2251,58,me@matthewturland.com,ilpoldo
+Yan Zhang,341,0,python,adam12,67,2217,165,,smakinson
+zipme,906,0,angular,zipme,116,2191,51,gk@reteq.com,ericol
+ELLIOTTCABLE,906,0,angular,ELLIOTTCABLE,392,2145,219,github@elliottcable.name,arnonmoscona
+include,906,0,angular,include,93,2135,24,,scottm
+Joonseo Lee,212,0,spring-boot,seouri,21,2035,49,seouri@gmail.com,jessedc
+Bengt,906,0,angular,Bengt,39,2027,125,Bengt.Lueers@gmail.com,katylava
+Mike,1241,0,swift,zygote,13,2008,5,,morhekil
+Mike,1241,0,swift,zygote,13,2008,5,,flesch
+Mike,731,1,r,zygote,13,2008,5,,reluctant
+Mike,731,1,r,zygote,13,2008,5,,hernad
+Mike,37,0,c++,zygote,13,2008,5,,voxxit
+Mike,37,0,c++,zygote,13,2008,5,,cotumaccio
+Mike,447,7,visual-studio,zygote,13,2008,5,,dmreiland
+Mike,447,7,visual-studio,zygote,13,2008,5,,pawaca
+Mike,1278,49,javascript,zygote,13,2008,5,,ronilocarr
+Mike,1278,49,javascript,zygote,13,2008,5,,chirayu
+brsma,906,0,angular,brsma,13,2007,5,,sj26
+David D,1455,0,python,newtonapple,64,1975,31,david.github@gmail.com,jpoley
+antage,906,0,angular,antage,55,1957,54,antage@gmail.com,wukerplank
+igungor,906,0,angular,igungor,98,1909,64,,esaul
+Richard Hu,659,11,android,rh,17,1846,19,richard.hubers@gmail.com,matjaz
+Danny,2346,0,angularjs,dann,197,1781,77,techmemo@gmail.com,incanus
+Athena,73,0,performance,davvid,278,1773,70,davvid@gmail.com,cheeyeo
+Athena,73,0,unity3d,davvid,278,1773,70,davvid@gmail.com,mborgerson
+jsmestad,906,0,angular,jsmestad,112,1716,253,,neofreko
+Chris,21,0,airflow,goatslacker,808,1688,154,josh@goatslacker.com,colszowka
+Chris,25936,730,asp.net,goatslacker,808,1688,154,josh@goatslacker.com,mickdelaney
+Chris,1347,3,iphone,goatslacker,808,1688,154,josh@goatslacker.com,lpereira
+Chris,21,0,blazor-server-side,goatslacker,808,1688,154,josh@goatslacker.com,jmbr
+Chris,13,0,html,goatslacker,808,1688,154,josh@goatslacker.com,ghiden
+Chris,35,0,c#,goatslacker,808,1688,154,josh@goatslacker.com,iecker
+Chris,775,5,c#,goatslacker,808,1688,154,josh@goatslacker.com,ryan-allen
+Chris,1291,26,flutter,goatslacker,808,1688,154,josh@goatslacker.com,andrehjr
+Chris,244,6,macos,goatslacker,808,1688,154,josh@goatslacker.com,mikeatlas
+Chris,43,0,c#,goatslacker,808,1688,154,josh@goatslacker.com,jamshid
+Chris,769,1,jquery,goatslacker,808,1688,154,josh@goatslacker.com,eethann
+Chris,3953,69,laravel,goatslacker,808,1688,154,josh@goatslacker.com,ereslibre
+Chris,547,8,postgresql,goatslacker,808,1688,154,josh@goatslacker.com,andrewdisley
+Chris,13,0,python,goatslacker,808,1688,154,josh@goatslacker.com,bmihelac
+Chris,25945,170,c#,goatslacker,808,1688,154,josh@goatslacker.com,actsasflinn
+leandroo,906,0,angular,leandroo,15,1649,14,ol.leandro@gmail.com,d18s
+gberenfield,906,0,angular,gberenfield,9,1645,41,,whitesided
+mtakuya,906,0,angular,mtakuya,28,1627,8,,rsgranne
+Apri,851,0,android,auser,931,1612,366,me@ari.io,Wraecca
+Michael Bay,21,1,cuda,bumi,382,1548,168,hello@michaelbumann.com,madsonviana
+M.K,1211,5,python,melz,14,1539,17,,elliot
+jauderho,906,0,angular,jauderho,28,1509,169,,rspeicher
+Matthew Herbst,26768,482,javascript,HGebhardt,16,1495,15,,yinhm
+Krishna,291,0,unit-testing,Krishna,27,1458,97,,oki
+reeze,906,0,angular,reeze,1161,1456,151,reeze@php.net,npaton
+kergoth,906,0,angular,kergoth,67,1441,111,kergoth@gmail.com,luisdelarosa
+joshprice,906,0,angular,joshprice,110,1433,125,josh@alembic.com.au,berberich
+ewheeler,906,0,angular,ewheeler,103,1425,66,evanmwheeler@gmail.com,netcarver
+Nate,201,0,python,ashmckenzie,43,1405,232,,kyc
+Paritosh,4106,43,asp.net,jasherai,29,1399,127,pritesh@phatforge.com,touv
+blueyed,906,0,angular,blueyed,422,1379,593,github@thequod.de,anlek
+mhery,1829,0,java,szimek,382,1352,127,szimek@gmail.com,wprater
+daniel,2072,8,ios,duck1123,53,1339,87,duck@kronkltd.net,laduke
+Martin S,91,0,docker,martinx,37,1338,286,martin.xus@gmail.com,kennethkalmer
+David Leal,1517,26,r,davidbgk,181,1320,37,,ripta
+Kais,39,1,python,luxus,12,1305,24,luxuspur@gmail.com,baron
+Christian ,47,1,apache-beam,rhaamo,86,1303,64,dashie@otter.sh,andymason
+dudeman,906,0,angular,dudeman,16,1302,27,,kylecordes
+Joe Dow,150,2,android,jdoss,80,1286,44,,britg
+Joe Dow,150,2,android,jdoss,80,1286,44,,grosser
+Andrew,1971,50,css,mcandre,136,1284,661,andrew.pennebaker@gmail.com,ahx
+Andrew,3720,59,python,mcandre,136,1284,661,andrew.pennebaker@gmail.com,huerlisi
+Andrew,3720,59,python,mcandre,136,1284,661,andrew.pennebaker@gmail.com,rija
+dinamic,906,0,angular,dinamic,46,1281,223,dinamic@gmail.com,jdevoo
+tlockney,906,0,angular,tlockney,105,1271,65,thomas@lockney.net,cduv
+Justin Palme,56321,52,javascript,caged,2285,1230,161,encytemedia@gmail.com,taylanpince
+Justin Palme,484,0,python,caged,2285,1230,161,encytemedia@gmail.com,rainux
+Justin Palme,181,0,python,caged,2285,1230,161,encytemedia@gmail.com,rauanmayemir
+Paul A,331,1,javascript,suttree,49,1229,60,,nacht
+Thorsson,906,0,angular,Thorsson,50,1223,105,ivan.turkovic@gmail.com,holidayworking
+Christopher,1,0,uml,shanev,182,1198,54,shanev@gmail.com,webid
+Christopher,3329,30,laravel,shanev,182,1198,54,shanev@gmail.com,pyykkis
+Jonathan Dunne,189,0,dataframe,daikini,25,1180,32,jonathan@daikini.com,kar8nga
+khoerling,906,0,angular,khoerling,51,1151,21,keith@hoerling.com,jpoz
+ilpoldo,906,0,angular,ilpoldo,19,1148,30,,ajneok
+Ben,631,0,postgresql,benbonnet,28,1144,11,,ShiningRay
+Ben,21,0,puppeteer,benbonnet,28,1144,11,,jhelwig
+Ben,807,0,c#,benbonnet,28,1144,11,,alepane21
+Ben,18321,161,r,benbonnet,28,1144,11,,brimbrom
+Ben,2483,48,javascript,benbonnet,28,1144,11,,buntine
+Ben,333,9,javascript,benbonnet,28,1144,11,,logudotcom
+Ben,976,9,postgresql,benbonnet,28,1144,11,,drw
+Ben,480,0,angular,benbonnet,28,1144,11,,jeshuaborges
+smakinson,906,0,angular,smakinson,13,1139,25,,nuomi
+John,1653,5,r,lgastako,51,1138,213,lgastako@gmail.com,MadRabbit
+John,101,0,google-cloud-platform,lgastako,51,1138,213,lgastako@gmail.com,pcdavid
+John,77,0,c++,lgastako,51,1138,213,lgastako@gmail.com,edevil
+John,87,0,css,lgastako,51,1138,213,lgastako@gmail.com,mager
+John,2779,9,c++,lgastako,51,1138,213,lgastako@gmail.com,timloo0710
+John,11,0,c#,lgastako,51,1138,213,lgastako@gmail.com,ramonrails
+John,1479,38,azure-logic-apps,lgastako,51,1138,213,lgastako@gmail.com,Kimtaro
+John,2364,65,scala,lgastako,51,1138,213,lgastako@gmail.com,fastman
+John,21,0,vimeo,lgastako,51,1138,213,lgastako@gmail.com,Br3nda
+John,693,27,java,lgastako,51,1138,213,lgastako@gmail.com,danmaispace
+Glen Smith,1,0,html,gene-smith,20,1136,72,me@genesmith.org,bcse
+Chris Jones,2510,5,powershell,findchris,22,1117,30,chris@truex.com,akaihola
+ericol,906,0,angular,ericol,14,1082,14,erico@idibu.com,nachokb
+arnonmoscona,906,0,angular,arnonmoscona,15,1082,25,arnonmoscona@gmail.com,singpolyma
+scottm,906,0,angular,scottm,6,1047,1,,philipp
+jessedc,906,0,angular,jessedc,166,1037,83,,Calamitous
+MIchael Dearing,21,0,python,mdeering,84,1035,47,,gsmcwhirter
+Victor,423,0,angularjs,victortolbert,27,1029,60,,kael
+Victor,110,5,html,victortolbert,27,1029,60,,markmc
+katylava,906,0,angular,katylava,95,1025,36,,millnitz
+morhekil,906,0,angular,morhekil,31,999,58,,pwnall
+flesch,906,0,angular,flesch,27,993,68,john@fles.ch,tsuka
+reluctant,906,0,angular,reluctant,10,992,2,,netzflechter
+hernad,906,0,angular,hernad,32,990,341,hernad@bring.out.ba,manjilab
+voxxit,906,0,angular,voxxit,72,986,163,,maiha
+cotumaccio,906,0,angular,cotumaccio,18,984,31,cotumaccio@gmail.com,olliekav
+Paul D Smith,571,0,git,paulsmith,211,972,105,paulsmith@gmail.com,martinrehfeld
+Chris Lees,2090,0,resharper,chrisledet,112,972,35,me@chrisledet.com,voipscout
+dmreiland,906,0,angular,dmreiland,8,966,503,dmreiland@unixsherpa.com,cashplk
+Peter F,2968,191,android,piclez,48,964,38,,openface
+Jason L.,41,0,windows,huacnlee,4678,960,116,huacnlee@gmail.com,aojes
+pawaca,906,0,angular,pawaca,8,956,2,,technoweenie
+Simon,226,8,php,siong1987,118,953,133,siong1987@gmail.com,dsisnero
+ronilocarr,906,0,angular,ronilocarr,13,948,4,,marrone
+Sridhar Srinivasan,27,1,google-bigquery,krishna2,13,942,10,,kotobuki
+chirayu,906,0,angular,chirayu,6,940,22,chirayu@chirayu.org,nirvdrum
+sj26,906,0,angular,sj26,296,933,305,sj26@sj26.com,timdorr
+Sam,329,0,javascript,jadonk,449,930,255,,simongroenewolt
+Sam,93,0,spring-boot,jadonk,449,930,255,,kascote
+Sam,13514,74,angularjs,jadonk,449,930,255,,elomarns
+Sam,1126,15,python,jadonk,449,930,255,,bisho
+jpoley,906,0,angular,jpoley,60,925,278,,phirefly
+Charlie Parker,11385,242,python,mvz,119,924,163,matijs@matijs.net,davidwinter
+wukerplank,906,0,angular,wukerplank,10,923,23,,earakaki
+Roberto Teresa,33,0,c#,rrees,66,923,283,,electrum
+esaul,906,0,angular,esaul,10,921,290,,pangloss
+Jack Phillips,43,0,javascript,jicksta,88,921,54,,simenbrekken
+matjaz,906,0,angular,matjaz,91,895,105,,evandeaubl
+incanus,906,0,angular,incanus,370,893,95,incanus@codesorcery.net,kr
+cheeyeo,906,0,angular,cheeyeo,44,876,120,,gleuch
+Andrew Walker,39268,599,python,northrup,54,876,21,john@8bitwizard.net,nicolasblanco
+Andrew Walker,63,0,php,northrup,54,876,21,john@8bitwizard.net,razrichter
+mborgerson,906,0,angular,mborgerson,400,865,108,,chneeb
+neofreko,906,0,angular,neofreko,26,858,86,,Kahn
+Chris,21,0,airflow,karbassi,135,852,341,,ony
+Chris,25936,730,asp.net,karbassi,135,852,341,,indeyets
+Chris,1347,3,iphone,karbassi,135,852,341,,naoya
+Chris,21,0,blazor-server-side,karbassi,135,852,341,,enoki
+Chris,13,0,html,karbassi,135,852,341,,rdp
+Chris,35,0,c#,karbassi,135,852,341,,Ferada
+Chris,775,5,c#,karbassi,135,852,341,,ikej
+Chris,1291,26,flutter,karbassi,135,852,341,,ates
+Chris,244,6,macos,karbassi,135,852,341,,dlwh
+Chris,43,0,c#,karbassi,135,852,341,,enure
+Chris,769,1,jquery,karbassi,135,852,341,,j1n3l0
+Chris,3953,69,laravel,karbassi,135,852,341,,coiscir
+Chris,547,8,postgresql,karbassi,135,852,341,,eddanger
+Chris,13,0,python,karbassi,135,852,341,,PotHix
+Chris,25945,170,c#,karbassi,135,852,341,,kolber
+colszowka,906,0,angular,colszowka,251,844,63,,alexkojin
+mickdelaney,906,0,angular,mickdelaney,61,842,179,,phedders
+davin,11,0,python,smashwilson,395,836,212,smashwilson@github.com,weisjohn
+Harry,117,3,html,smith,111,836,229,smith@nlsmith.com,willdrew
+Harry,12363,88,django,smith,111,836,229,smith@nlsmith.com,cybertoast
+Carlos Padron,43,0,ios,infernalsirius,7,836,78,,worst
+Michael A,5662,17,android,erbmicha,14,833,11,michael@erbmicha.com,josephwilk
+lpereira,906,0,angular,lpereira,725,826,80,l@tia.mat.br,takatoshiono
+jmbr,906,0,angular,jmbr,75,823,28,,davidgarsan
+ghiden,906,0,angular,ghiden,37,823,66,,kuccello
+iecker,906,0,angular,iecker,18,822,7,bruno.iecker+git.hub@gmail.com,briansmith
+Andy,9417,189,javascript,jschementi,108,820,61,jimmy@schementi.com,TylerRick
+Andy,649,0,linux,jschementi,108,820,61,jimmy@schementi.com,toto
+Andy,21,0,jquery,jschementi,108,820,61,jimmy@schementi.com,ktsugita
+ryan-allen,906,0,angular,ryan-allen,134,816,59,,ttilley
+andrehjr,906,0,angular,andrehjr,105,812,33,andrehjr@gmail.com,alejoduque
+John Lord,1736,45,c#,deedubs,97,811,109,me@deedubs.com,joshkerr
+mikeatlas,906,0,angular,mikeatlas,29,798,49,,angantyr
+jamshid,906,0,angular,jamshid,12,784,15,,ashebanow
+eethann,906,0,angular,eethann,23,783,58,,yautah
+ereslibre,906,0,angular,ereslibre,148,779,121,ereslibre@ereslibre.es,kuenishi
+andrewdisley,906,0,angular,andrewdisley,73,772,32,,teefax
+Robert,303,4,selenium,phugee,23,770,14,lance.duc.nguyen@gmail.com,mushtaq
+Robert,13,0,pyspark,phugee,23,770,14,lance.duc.nguyen@gmail.com,zubin
+Robert,55,0,if-statement,phugee,23,770,14,lance.duc.nguyen@gmail.com,linjian
+Robert,11,0,javascript,phugee,23,770,14,lance.duc.nguyen@gmail.com,okr
+Robert,23,0,javascript,phugee,23,770,14,lance.duc.nguyen@gmail.com,crazycode
+anbu subramanian,43,0,python,gen2brain,218,766,43,gen2brain@gmail.com,zarknight
+bmihelac,906,0,angular,bmihelac,83,763,166,bmihelac@mihelac.org,Zelnox
+Sebi,3712,142,c#,dcrec1,136,761,155,dc.rec1@gmail.com,newx
+actsasflinn,906,0,angular,actsasflinn,35,760,48,,nsb
+Chris Newton,11,0,csv,pgeraghty,6,756,58,,phillc
+Chris Newton,11,0,csv,pgeraghty,6,756,58,,membogg
+d18s,906,0,angular,d18s,15,750,14,david.andrew.matthews@gmail.com,vbabiy
+Michael Johansen,4140,118,javascript,whalesalad,49,749,60,michael@whalesalad.com,demimismo
+whitesided,906,0,angular,whitesided,9,746,13,whiteside@acm.org,hdhoang
+rsgranne,906,0,angular,rsgranne,25,743,16,scott@websanity.com,rpl
+Wraecca,906,0,angular,Wraecca,41,739,11,,coryodaniel
+Marcos Casagrande,34638,1614,node.js,MiloCasagrande,23,739,43,milo@foundries.io,Grabber
+Michael,943,2,qt,lux,18,726,20,john@flipsidexr.com,ehamberg
+Michael,1200,0,reactjs,lux,18,726,20,john@flipsidexr.com,msheakoski
+Michael,25,0,javascript,lux,18,726,20,john@flipsidexr.com,billsinc
+Michael,196,1,python,lux,18,726,20,john@flipsidexr.com,mog
+Michael,196,1,python,lux,18,726,20,john@flipsidexr.com,cbguder
+Michael,7974,3,ansible,lux,18,726,20,john@flipsidexr.com,outcassed
+Michael,55,0,dax,lux,18,726,20,john@flipsidexr.com,hollow
+Michael,918,0,pip,lux,18,726,20,john@flipsidexr.com,hirose31
+Prashanth Srinivasan,1,0,splunk,jeradsloan,8,722,1,,kakra
+madsonviana,906,0,angular,madsonviana,33,715,21,me@madsonviana.info,jhh
+elliot,906,0,angular,elliot,41,714,62,,cecilkootz
+rspeicher,906,0,angular,rspeicher,66,714,47,rspeicher@gmail.com,rystyle
+yinhm,906,0,angular,yinhm,108,709,64,,Jonesy
+oki,906,0,angular,oki,33,708,56,oki@md6.org,larryli
+npaton,906,0,angular,npaton,33,704,43,,adamw523
+luisdelarosa,906,0,angular,luisdelarosa,22,703,103,,rorrego
+berberich,906,0,angular,berberich,9,702,46,,jbeisser
+netcarver,906,0,angular,netcarver,71,686,129,,martint
+CF Walker,11,0,excel,walker,55,684,87,,henriquebastos
+Simon D,5007,193,snowflake-cloud-data-platform,sduff,14,680,56,,greymouser
+Michael Boyer,975,51,opencl,map7,33,679,107,michael@dtcorp.com.au,bpollack
+kyc,906,0,angular,kyc,14,674,27,,afex
+touv,906,0,angular,touv,25,674,63,nthouvenin@gmail.com,marcopompei
+anlek,906,0,angular,anlek,38,673,18,andrew.kalek@anlek.com,chico
+wprater,906,0,angular,wprater,47,671,99,@wprater,pkufranky
+Alexey,306,1,java,closer,43,671,76,,tom-c
+Alexey,306,1,java,closer,43,671,76,,rcoder
+Rick,204,0,javascript,ajsharp,72,661,168,,kennon
+Rick,65,0,wpf,ajsharp,72,661,168,,rhyolight
+Rick,1238,0,sql-server,ajsharp,72,661,168,,heathkit
+Marvin,2075,30,python,marvin,57,661,82,dnoelte@gmail.com,lukego
+Michael Dugas,65,0,php,michaeldwan,143,656,72,,tobyclemson
+Jeff Coe,422,6,chef-infra,cornexo,12,647,23,,natsumi
+laduke,906,0,angular,laduke,32,641,31,travisladuke@gmail.com,binarycrayon
+kennethkalmer,906,0,angular,kennethkalmer,179,639,111,kenneth.kalmer@gmail.com,sergiobuj
+Tom,15113,0,visual-studio,bakkdoor,121,638,64,,pixelcort
+Tom,285,4,python,bakkdoor,121,638,64,,kraudio
+Tom,1233,0,c#,bakkdoor,121,638,64,,takai
+Tom,2453,47,symfony,bakkdoor,121,638,64,,giorni
+Tom,6736,314,c++,bakkdoor,121,638,64,,heedley
+Tom,63,0,node.js,bakkdoor,121,638,64,,robtillotson
+Tom,6768,0,asp.net,bakkdoor,121,638,64,,triumph
+Tom,153,10,android-studio,bakkdoor,121,638,64,,MarcinGil
+Nathan,10355,151,c#,myobie,194,637,160,me@nathanherald.com,adamflorin
+ripta,906,0,angular,ripta,30,633,138,,tylerkovacs
+baron,906,0,angular,baron,41,619,24,,FND
+James Harrington,83,0,r,JamesHarrison,74,617,64,,realityforge
+Michael Mano,3224,41,laravel,momerath42,19,612,18,michael.warnock@gmail.com,blaisdellk
+andymason,906,0,angular,andymason,39,611,48,github@andrew.coderonfire.com,andeplane
+Matt,7813,3,javascript,invalidusrname,28,601,55,,nalin
+Matt,6036,6,c#,invalidusrname,28,601,55,,davidhq
+kylecordes,906,0,angular,kylecordes,83,600,44,kyle@kylecordes.com,Searle
+Jason L.,41,0,windows,jlsync,27,597,83,,pkeane
+KSK,626,0,java,rwl,104,596,152,r.w.lincoln@gmail.com,jkrall
+britg,906,0,angular,britg,70,595,76,brit@britg.com,cradle
+Mark Johnson,19,0,javascript,omarvelous,17,587,10,,carpeliam
+Bob,11,1,excel,QiBaobin,12,586,12,,btweller
+grosser,906,0,angular,grosser,769,584,517,michael@grosser.it,imakado
+rakk,13,0,java,ceez,14,584,23,chris.o.cowan@gmail.com,luniki
+ahx,906,0,angular,ahx,61,581,26,,jkestr
+Justin Palme,56321,52,javascript,jkk,111,579,43,jkkramer@gmail.com,carlosmcevilly
+Justin Palme,484,0,python,jkk,111,579,43,jkkramer@gmail.com,dtpmalone
+Justin Palme,181,0,python,jkk,111,579,43,jkkramer@gmail.com,kll
+huerlisi,906,0,angular,huerlisi,79,579,128,simon@denteo.ch,tariel
+rija,906,0,angular,rija,31,576,39,,Olli
+Anuj Agrawal,103,0,node.js,arunagw,500,574,99,arun@agrawal.io,danchoi
+jdevoo,906,0,angular,jdevoo,26,570,26,jp@vooght.de,thomcowell
+cduv,906,0,angular,cduv,22,568,24,gllamasy@3llideas.com,dejan
+Patrick Kenny,2466,0,git,scoop,36,563,18,,mixr
+taylanpince,906,0,angular,taylanpince,202,561,54,taylanpince@gmail.com,mmakunas
+rainux,906,0,angular,rainux,339,557,84,rainux@gmail.com,ShaneIsley
+David Fong,1607,25,javascript,rwjblue,1125,555,629,me@rwjblue.com,joshholt
+rauanmayemir,906,0,angular,rauanmayemir,76,545,20,rauan@mayemir.io,autonomous
+nacht,906,0,angular,nacht,11,543,37,,julianbonilla
+Martin S,91,0,docker,haraldmartin,56,542,48,name@my-domain.se,madhusudancs
+holidayworking,906,0,angular,holidayworking,24,534,102,,awendt
+webid,906,0,angular,webid,16,532,15,,cmiles
+pyykkis,906,0,angular,pyykkis,29,531,35,,kga
+Michael Mano,3224,41,laravel,bbpnb,3,531,21,,piyo
+Stephan,457,0,kubernetes,nicolasacchi,7,530,19,sacchi.nicola+git@gmail.com,sebastien
+kar8nga,906,0,angular,kar8nga,8,528,1,,daddz
+Paul,23,0,regex,mattbischoff,207,525,15,mb@matthewbischoff.com,btatnall
+Paul,89,2,javascript,mattbischoff,207,525,15,mb@matthewbischoff.com,cldwalker
+Paul,24962,1,git,mattbischoff,207,525,15,mb@matthewbischoff.com,rikas
+Paul,331,3,macos,mattbischoff,207,525,15,mb@matthewbischoff.com,vivid
+jpoz,906,0,angular,jpoz,55,522,109,,tschacht
+Rodrigo Fulanito,61,1,.net,caffo,319,522,57,,knu
+ajneok,906,0,angular,ajneok,29,519,10,ajneok@gmail.com,tomfast
+ShiningRay,906,0,angular,ShiningRay,401,516,121,,durran
+jhelwig,906,0,angular,jhelwig,80,512,36,jacob@technosorcery.net,brookr
+alepane21,906,0,angular,alepane21,14,510,39,,hfunai
+brimbrom,906,0,angular,brimbrom,13,510,25,ms@zwo56.de,hmason
+meri,11,0,xcode,nexon,16,508,32,alberto.lagos@gmail.com,rawburt
+Konstantin Bodnia,1107,0,php,faryne,22,507,33,,jallen
+Jon,1456,0,wcf,namelessjon,66,498,38,,orlandov
+Jon,379,1,marklogic,namelessjon,66,498,38,,retr0h
+buntine,906,0,angular,buntine,114,498,87,info@bunts.io,fbehrens
+logudotcom,906,0,angular,logudotcom,21,498,2,logudotcom@gmail.com,ryland
+Andrea,89,0,r,Andrea,161,492,160,,mstegmann
+Andrea,108,0,python,Andrea,161,492,160,,zagraves
+Chris Jones,2510,5,powershell,wchrisjohnson,5,492,57,,figital
+drw,906,0,angular,drw,10,491,22,,peterneubauer
+Mike,1241,0,swift,jonahlyn,13,487,37,,renderful
+Mike,731,1,r,jonahlyn,13,487,37,,desi
+Mike,37,0,c++,jonahlyn,13,487,37,,markmansour
+Mike,447,7,visual-studio,jonahlyn,13,487,37,,rectalogic
+Mike,1278,49,javascript,jonahlyn,13,487,37,,jtzemp
+jeshuaborges,906,0,angular,jeshuaborges,36,484,32,,thiyagarajan
+nuomi,906,0,angular,nuomi,15,479,40,,dpw
+MadRabbit,906,0,angular,MadRabbit,283,476,100,,fff
+Stephen Collins,3385,8,javascript,stephencelis,2752,475,122,me@stephencelis.com,wwood
+Rodrigo,791,14,javascript,thiagossampaio,50,473,35,thiago@sampaio.us,oggy
+Rodrigo,47,1,dependencies,thiagossampaio,50,473,35,thiago@sampaio.us,dennisaj
+xyz,3165,16,javascript,jezgomez,20,465,21,,wagenet
+pcdavid,906,0,angular,pcdavid,27,464,20,pcdavid@gmail.com,gary
+Saren,945,25,javascript,originalankur,43,460,16,,alexrothenberg
+edevil,906,0,angular,edevil,57,455,150,,mmorga
+Milan Dobrota,429,0,postgresql,lenart,32,453,30,lenart.rudel@gmail.com,dalton
+mager,906,0,angular,mager,215,449,65,andrew.mager@gmail.com,skimua
+timloo0710,906,0,angular,timloo0710,3,447,41,,nick-b
+ramonrails,906,0,angular,ramonrails,21,446,35,ramonrails@gmail.com,cassiomarques
+Harrison Cox,67,0,python,harrisony,25,445,54,me@harrisony.com,NOLFXceptMe
+Kimtaro,906,0,angular,Kimtaro,189,441,41,kim.ahlstrom@gmail.com,tmancino
+fastman,906,0,angular,fastman,12,438,31,,alecthegeek
+Br3nda,906,0,angular,Br3nda,157,438,533,,buithehoa
+Michael Mano,3224,41,laravel,mmalone,391,436,21,mjmalone@gmail.com,yogione
+danmaispace,906,0,angular,danmaispace,73,435,50,jesse.cai@gmail.com,hns
+Alexander,63,0,javascript,spektroskop,10,434,55,,ozen
+Alexander,4265,1,r,spektroskop,10,434,55,,jflam
+bcse,906,0,angular,bcse,14,433,29,,alanrice
+terry,187,0,windows-phone-7,berry,5,432,13,,sbl
+akaihola,906,0,angular,akaihola,92,430,183,,hamedh
+koto,11,0,trading,etienne,21,429,43,,csamuel
+Jevon Cochran,1089,24,reactjs,idris,70,429,150,,nugend
+John Lord,1736,45,c#,ebow,14,427,7,,Arthur
+nachokb,906,0,angular,nachokb,15,424,31,nachokb@gmail.com,Cueball
+Michele Matera,51,0,django,danielneis,98,423,127,daniel@adapta.online,bbhoss
+singpolyma,906,0,angular,singpolyma,174,420,258,github@singpolyma.net,joehalliwell
+Dan,3318,170,css,jdamick,60,420,63,,jao
+Dan,445,7,php,jdamick,60,420,63,,elight
+philipp,906,0,angular,philipp,11,416,32,,lef
+Calamitous,906,0,angular,Calamitous,32,415,49,,valodzka
+Michal,1925,10,c++,makyox,11,413,17,,sinanduman
+Patrick,197,2,excel,zak,19,401,19,zak.31337@gmail.com,ogyr
+Patrick,779,0,r,zak,19,401,19,zak.31337@gmail.com,raavin
+Patrick,583,0,java,zak,19,401,19,zak.31337@gmail.com,alexbartlow
+Patrick,2057,156,android,zak,19,401,19,zak.31337@gmail.com,nigelsim
+Chris Lees,2090,0,resharper,chrisvest,124,401,31,mr.chrisvest@gmail.com,chilang
+gsmcwhirter,906,0,angular,gsmcwhirter,15,400,49,greg@ideafreemonoid.org,ashleyw
+kael,906,0,angular,kael,14,399,53,,kleetus
+markmc,906,0,angular,markmc,40,398,87,,sousk
+kollin,1,0,php,collin,176,394,236,collintmiller@gmail.com,tolnem
+millnitz,906,0,angular,millnitz,3,394,6,,dogonwheels
+pwnall,906,0,angular,pwnall,1063,394,259,victor@costan.us,hone
+tsuka,906,0,angular,tsuka,33,392,34,,rbriski
+netzflechter,906,0,angular,netzflechter,15,391,10,roman@sladeczek.de,maximum
+manjilab,906,0,angular,manjilab,8,389,4,colonel@manjilab.com,shinobix
+maiha,906,0,angular,maiha,162,389,245,maiha@wota.jp,reedox
+olliekav,906,0,angular,olliekav,26,385,22,olliek@gmail.com,gmcclure
+martinrehfeld,906,0,angular,martinrehfeld,60,385,86,,benzado
+voipscout,906,0,angular,voipscout,8,384,29,,bblimke
+Bruno Monteiro,3743,97,reactjs,BrunoDeBarros,27,384,45,bruno@terraduo.com,igor-akhmetov
+cashplk,906,0,angular,cashplk,29,382,2,cash.zhao@gmail.com,standardpixel
+Jean-Paul Azzopardi,73,0,python,JeanAzzopardi,15,382,59,jean@jeanazzopardi.com,sids
+openface,906,0,angular,openface,19,381,23,,three3q
+aojes,906,0,angular,aojes,10,379,15,crockett.jesse@gmail.com,dball
+technoweenie,906,0,angular,technoweenie,2586,375,178,technoweenie@hey.com,jackross
+dsisnero,906,0,angular,dsisnero,20,375,153,,samlown
+Daniel,2429,127,c++,lgn21st,679,374,92,lgn21st@gmail.com,taiar
+Daniel,201,0,c++,lgn21st,679,374,92,lgn21st@gmail.com,Houdini
+Daniel,12290,172,reactjs,lgn21st,679,374,92,lgn21st@gmail.com,tmaeda
+Daniel,2256,62,macos,lgn21st,679,374,92,lgn21st@gmail.com,delor
+marrone,906,0,angular,marrone,7,371,17,,kbranigan
+kotobuki,906,0,angular,kotobuki,77,370,38,,roolio
+MartinS,111,1,c#,m4n,9,369,7,,claudiob
+David D,1455,0,python,taweili,163,364,26,taweili@gmail.com,Bluebie
+Jonathan Chevalier,665,21,spring-boot,zimbatm,409,362,335,zimbatm@zimbatm.com,maelp
+Jonathan Chevalier,665,21,spring-boot,zimbatm,409,362,335,zimbatm@zimbatm.com,biospank
+nirvdrum,906,0,angular,nirvdrum,192,361,156,,cezarsa
+Rami,474,0,azure,trptcolin,230,360,127,trptcolin@gmail.com,mnichols
+timdorr,906,0,angular,timdorr,1798,356,31,,wallace
+simongroenewolt,906,0,angular,simongroenewolt,8,355,27,,feklee
+kascote,906,0,angular,kascote,21,353,48,g33k@netflux.com.ar,waltz
+elomarns,906,0,angular,elomarns,21,351,9,elomarns@elomarns.com,manat
+bisho,906,0,angular,bisho,34,350,26,,jnovak
+phirefly,906,0,angular,phirefly,47,350,51,,mihserf
+Markus,40,2,c#,mapmarkus,21,350,4,,taq
+Christopher Da Bowig,11,0,sqlite,cbowns,86,349,69,,cesare
+Peter Li,360,11,google-compute-engine,petermin,10,347,3,,rcrowley
+davidwinter,906,0,angular,davidwinter,90,347,41,,veenified
+earakaki,906,0,angular,earakaki,13,347,6,edgard.arakaki@gmail.com,lp741
+Abhishek Pankar,641,14,node.js,parolkar,75,346,50,abhishek[at]parolkar[_dot_]com,chsh
+Mike Laz,21,0,postgresql,gizzmo,12,344,8,justgiz@gmail.com,pvillega
+Daniel Pop,351,0,java,danielvlopes,308,344,65,,oren
+electrum,906,0,angular,electrum,496,339,122,david@acz.org,thomaswinkler
+Matt Welander,7805,135,symfony,nextmat,53,339,62,,seanhess
+pangloss,906,0,angular,pangloss,114,338,112,darrickw@untether.ai,eokyere
+simenbrekken,906,0,angular,simenbrekken,74,338,20,,puttiz
+evandeaubl,906,0,angular,evandeaubl,10,335,14,evan@deaubl.name,YMas
+Aaron,13,0,r,digicyc,21,333,76,digicyc at gmail  (dot) com,scottlaplant
+Aaron,1707,23,aerospike,digicyc,21,333,76,digicyc at gmail  (dot) com,jxa
+kr,906,0,angular,kr,1053,329,138,,stepan
+Vlad,21,0,css,silvester,20,328,27,,ratnikov
+Vlad,10106,654,python,silvester,20,328,27,,fstrozzi
+gleuch,906,0,angular,gleuch,106,325,96,contact@gleu.ch,jawbroken
+nicolasblanco,906,0,angular,nicolasblanco,86,322,98,me@nicolasblan.co,bianster
+razrichter,906,0,angular,razrichter,9,320,13,,koseki
+chneeb,906,0,angular,chneeb,22,319,6,,deadsunrise
+Kahn,906,0,angular,Kahn,34,319,58,,lenary
+ony,906,0,angular,ony,18,319,63,,ibc
+indeyets,906,0,angular,indeyets,110,319,81,alex@thisalex.com,gar
+naoya,906,0,angular,naoya,1162,316,134,i.naoya@gmail.com,evizitei
+enoki,906,0,angular,enoki,2,315,11,,jtrupiano
+Justin,964,40,java,thetacom,7,314,4,justin@thetacom.info,kehh
+Tobias Sid,108,4,mongoose,grobie,250,314,65,,jasonwatkinspdx
+rdp,906,0,angular,rdp,335,312,246,,hofo
+Naveen,7557,29,java,naveen,128,312,36,,nh7a
+Oliver D,2094,3,react-native,bikerduweb,26,311,16,,narkeeso
+Andrew,1971,50,css,ayn,139,309,44,,trevorsmith
+Andrew,3720,59,python,ayn,139,309,44,,erikeldridge
+Andrew,3720,59,python,ayn,139,309,44,,PeeDee
+Ferada,906,0,angular,Ferada,74,309,163,olof+github@macrolet.net,weibel
+ikej,906,0,angular,ikej,11,309,6,iike22@gmail.com,Syd
+ates,906,0,angular,ates,34,307,66,ates@ipv6.dp.ua,hwatkins
+dlwh,906,0,angular,dlwh,295,302,47,david.lw.hall@gmail.com,balgarath
+enure,906,0,angular,enure,12,302,28,,sangeth
+j1n3l0,906,0,angular,j1n3l0,15,301,32,,nicholas-johnson
+Igor Kogan,41,2,ios,knaveofdiamonds,30,300,49,roland.swingler@gmail.com,marvinlemos
+coiscir,906,0,angular,coiscir,37,299,4,,jessehu
+Justin Palme,56321,52,javascript,jdp,94,298,44,justin.d.poliey@gmail.com,iamaleksey
+Justin Palme,484,0,python,jdp,94,298,44,justin.d.poliey@gmail.com,hellowahab
+Justin Palme,181,0,python,jdp,94,298,44,justin.d.poliey@gmail.com,stef
+eddanger,906,0,angular,eddanger,32,298,43,mike@michaelwood.com,fedesoria
+PotHix,906,0,angular,PotHix,484,298,51,pothix@pothix.com,dokshor
+kolber,906,0,angular,kolber,415,297,38,hi@kolber.info,jhs
+Joseph Brenner,634,4,raku,jbrewer,111,297,6,,haslup
+Thor Christensen,3,0,reactjs,fujin,113,296,115,aj@junglistheavy.industries,pmarti
+Chris,21,0,airflow,chriskaukis,16,295,24,,dopin
+Chris,25936,730,asp.net,chriskaukis,16,295,24,,mcmarto
+Chris,1347,3,iphone,chriskaukis,16,295,24,,copyleftdev
+Chris,21,0,blazor-server-side,chriskaukis,16,295,24,,KrisHedges
+Chris,13,0,html,chriskaukis,16,295,24,,benlund
+Chris,35,0,c#,chriskaukis,16,295,24,,majormajors
+Chris,775,5,c#,chriskaukis,16,295,24,,jnwhiteh
+Chris,1291,26,flutter,chriskaukis,16,295,24,,ebi
+Chris,244,6,macos,chriskaukis,16,295,24,,kkubasik
+Chris,43,0,c#,chriskaukis,16,295,24,,marcello
+Chris,769,1,jquery,chriskaukis,16,295,24,,activestylus
+Chris,3953,69,laravel,chriskaukis,16,295,24,,SimianLogic
+Chris,547,8,postgresql,chriskaukis,16,295,24,,clr
+Chris,13,0,python,chriskaukis,16,295,24,,dmitryv
+Chris,25945,170,c#,chriskaukis,16,295,24,,fk2000
+alexkojin,906,0,angular,alexkojin,13,295,30,alexkojin@gmail.com,kalin
+Shiva,473,3,tensorflow,shiva,33,292,107,shiv@shiv.me,tschmidt
+Shiva,195,0,dataframe,shiva,33,292,107,shiv@shiv.me,wiremine
+phedders,906,0,angular,phedders,3,292,59,,ratchetcat
+weisjohn,906,0,angular,weisjohn,68,291,131,weis.john@gmail.com,Nightmare
+willdrew,906,0,angular,willdrew,4,290,17,,staypufd
+cybertoast,906,0,angular,cybertoast,25,290,72,,pete-a
+worst,906,0,angular,worst,7,288,87,,wesrog
+Deano,91,4,tfs,delano,122,288,52,,scottmills
+josephwilk,906,0,angular,josephwilk,528,284,126,joe@josephwilk.net,dsaint
+takatoshiono,906,0,angular,takatoshiono,24,283,51,takatoshi.ono@gmail.com,gisikw
+davidgarsan,906,0,angular,davidgarsan,19,282,26,,apotonick
+Dan,3318,170,css,ngerakines,312,282,165,,dagi3d
+Dan,445,7,php,ngerakines,312,282,165,,zipi
+kuccello,906,0,angular,kuccello,68,281,110,kuccello@gmail.com,AlainODea
+Artem,301,1,nestjs,bdimcheff,55,281,92,brandon.dimcheff@gmail.com,pphetra
+briansmith,906,0,angular,briansmith,516,280,36,brian@briansmith.org,zackham
+Alex K.,23,0,dax,ayb,10,279,111,,thieso2
+TylerRick,906,0,angular,TylerRick,22,278,208,,ricardochimal
+toto,906,0,angular,toto,96,277,75,toto@evenly.io,Ronald439
+Sean,2564,5,python,muddydixon,54,276,107,muddydixon@gmail.com,pjdavis
+ktsugita,906,0,angular,ktsugita,8,274,2,ktsugita@gmail.com,helloluis
+ttilley,906,0,angular,ttilley,40,273,51,ttilley@gmail.com,is73
+alejoduque,906,0,angular,alejoduque,25,273,45,alejoduque@gmail.com,imagine
+joshkerr,906,0,angular,joshkerr,6,273,37,joshkerr@gmail.com,Aupajo
+Andres Barrera,41,4,python,atl,62,273,23,,jonochang
+Alan L,123,0,java,jufemaiz,45,273,99,euphemize@gmail.com,jpoon88
+David Johns,1035,0,reactjs,djones,96,273,56,dgjones@gmail.com,vivaserver
+angantyr,906,0,angular,angantyr,11,271,17,,drohhyn
+Rahul,707,1,selenium-webdriver,threedaymonk,163,271,131,pbattley@gmail.com,cthiel
+Benjamin,57,0,javascript,Arcko,28,269,93,,somic
+ashebanow,906,0,angular,ashebanow,6,269,10,ashebanow@gmail.com,flazz
+John,1653,5,r,ymorimo,20,266,9,,tiagowhite
+John,101,0,google-cloud-platform,ymorimo,20,266,9,,slmnhq
+John,77,0,c++,ymorimo,20,266,9,,tilsammans
+John,87,0,css,ymorimo,20,266,9,,imehesz
+John,2779,9,c++,ymorimo,20,266,9,,pivou
+John,11,0,c#,ymorimo,20,266,9,,chrisconley
+John,1479,38,azure-logic-apps,ymorimo,20,266,9,,ku
+John,2364,65,scala,ymorimo,20,266,9,,joakimk
+John,21,0,vimeo,ymorimo,20,266,9,,jtsom
+John,693,27,java,ymorimo,20,266,9,,bwar01
+Shawn Armstrong,89,0,c,ferblape,247,266,91,fernando@blat.es,computorist
+yautah,906,0,angular,yautah,18,265,54,,zeroth
+Valentin,845,0,android,versus,12,263,319,,woodie
+Valentin,23,0,r,versus,12,263,319,,fleadope
+Valentin,1274,2,tensorflow,versus,12,263,319,,yeah
+Belight,195,-1,c#,kirk-ye,68,262,14,feiyelanghai@gmail.com,sloser
+kuenishi,906,0,angular,kuenishi,163,260,78,,dreeves
+Maria,61,0,php,stiff,10,259,21,,chrisvoll
+teefax,906,0,angular,teefax,7,258,74,eike@unorganized.net,repeatedly
+Jane,25,0,macos,janeylicious,23,258,1,,DouglasMeyer
+mushtaq,906,0,angular,mushtaq,134,257,83,,brice
+zubin,906,0,angular,zubin,14,257,7,,sabotatore
+linjian,906,0,angular,linjian,132,256,7,,detarmstrong
+Nayan,549,10,spring-mvc,ayman,47,256,43,,tobetchi
+okr,906,0,angular,okr,8,255,1,,rjanse
+crazycode,906,0,angular,crazycode,67,255,212,,trevorh
+Davide,81,3,python,leepa,51,255,67,,igorgladkoborodov
+Michael Kniskern,24132,208,c#,Apkawa,38,255,158,,tag
+zarknight,906,0,angular,zarknight,66,253,14,zarknight@gmail.com,pgm
+Jakub,1957,0,javascript,JakubOboza,38,253,107,jakub.oboza@gmail.com,paulbatum
+Alexander Maskalev,104,0,django,pointlessone,41,253,99,,bartv
+Zelnox,906,0,angular,Zelnox,22,252,17,,davidmroth
+newx,906,0,angular,newx,24,251,99,newxhost@gmail.com,almost
+Ray,1709,6,rust,rayzer,2,251,10,ray.leex@gmail.com,DGaffney
+Ray,61,1,html,rayzer,2,251,10,ray.leex@gmail.com,klm
+nsb,906,0,angular,nsb,15,250,44,niels.busch@gmail.com,tarsolya
+William C,83,0,python,rrbaker,75,249,65,rrbaker@gmail.com,rdavila
+Guillaume,449,10,python,djtal,13,248,60,,goomerko
+phillc,906,0,angular,phillc,20,247,103,,LaPingvino
+membogg,906,0,angular,membogg,17,245,4,,yuanying
+vbabiy,906,0,angular,vbabiy,57,244,94,vbabiy86@gmail.com,tekknikk
+demimismo,906,0,angular,demimismo,68,243,24,,probablykabari
+hdhoang,906,0,angular,hdhoang,24,243,63,code@hdhoang.space,stick
+rpl,906,0,angular,rpl,161,242,150,,tomrus88
+coryodaniel,906,0,angular,coryodaniel,168,242,168,github@coryodaniel.com,rmg
+Grabber,906,0,angular,Grabber,24,242,159,grabber@gmail.com,expilo
+ehamberg,906,0,angular,ehamberg,116,242,90,,manlycode
+Richard Hu,659,11,android,Hates,42,241,71,richard@richardhart.me,farra
+Robert,303,4,selenium,blindgaenger,35,240,52,,badchenn
+Robert,13,0,pyspark,blindgaenger,35,240,52,,eedrummer
+Robert,55,0,if-statement,blindgaenger,35,240,52,,sbenhaim
+Robert,11,0,javascript,blindgaenger,35,240,52,,SSDany
+Robert,23,0,javascript,blindgaenger,35,240,52,,jantzeno
+Vector,2756,65,android,diegobernardes,43,240,34,diego.bernardes@outlook.com,doublec
+msheakoski,906,0,angular,msheakoski,15,239,8,,damnpenguins
+billsinc,906,0,angular,billsinc,8,239,18,bill@sinclairs.io,ato
+Justine Mackay,129,0,java,macarthy,11,237,66,justin.maccarthy@gmail.com,justinmchase
+mog,906,0,angular,mog,41,236,22,mog@trbl.at,JosephPecoraro
+cbguder,906,0,angular,cbguder,131,236,34,,mentat
+outcassed,906,0,angular,outcassed,25,235,11,,jeffbrown
+hollow,906,0,angular,hollow,54,235,16,bb@xnull.de,tibbe
+Pete,534,5,typo3,pete,115,234,36,pete@debu.gs,enw
+Pete,4437,8,ios,pete,115,234,36,pete@debu.gs,natedog
+Pete,1253,1,c,pete,115,234,36,pete@debu.gs,mgedigian
+Pete,353,0,typescript,pete,115,234,36,pete@debu.gs,bastih
+hirose31,906,0,angular,hirose31,213,234,174,hirose31@gmail.com,burner
+kakra,906,0,angular,kakra,47,234,57,hurikhan77@gmail.com,raphinou
+jhh,906,0,angular,jhh,9,233,78,jeff@j3ff.io,numerodix
+cecilkootz,906,0,angular,cecilkootz,8,233,76,matt.welch@gmail.com,fvdsn
+rystyle,906,0,angular,rystyle,13,230,17,,Oblomov
+Sreekanth,67,0,urllib,sreeix,81,228,49,,Xuerian
+Jonesy,906,0,angular,Jonesy,37,226,24,joshua@general-metrics.com,kij
+Eric,15,2,laravel,roderik,117,225,115,roderik@settlemint.com,rsimplicio
+Eric,61,0,php,roderik,117,225,115,roderik@settlemint.com,ltackett
+Eric,189,0,vue.js,roderik,117,225,115,roderik@settlemint.com,pk
+larryli,906,0,angular,larryli,87,225,67,larryli@qq.com,famulus
+adamw523,906,0,angular,adamw523,20,225,74,adamw@tbcn.ca,lauri
+Martin,23,0,python,mynyml,160,225,49,mynyml@gmail.com,danhixon
+Simon D,5007,193,snowflake-cloud-data-platform,frahugo,19,224,55,,stalcottsmith
+rorrego,906,0,angular,rorrego,17,224,18,rorrego@gmail.com,Kagemaru
+jbeisser,906,0,angular,jbeisser,9,224,41,jb@caustic.org,markpmiles
+martint,906,0,angular,martint,266,222,92,mtraverso@gmail.com,josepgl
+Michael Johansen,4140,118,javascript,michaeljones,134,222,101,,dim
+Matt Joiner,108709,1606,c,nuance,74,222,50,,kodologist
+Nicholas,429,4,java,TheNicholasNick,14,222,64,the.nicholas.nick@gmail.com,shinems
+Nicolas Raoul,57375,998,ruby,nicolas,20,222,6,,krasio
+henriquebastos,906,0,angular,henriquebastos,1957,221,172,henrique@bastos.net,a2chub
+greymouser,906,0,angular,greymouser,15,221,16,armando@dicianno.org,robinduckett
+bpollack,906,0,angular,bpollack,100,220,33,,akhavr
+afex,906,0,angular,afex,114,220,24,,rollick
+Sven,12607,212,sass,Sen,33,220,40,,aquabu
+marcopompei,906,0,angular,marcopompei,10,219,9,,amaia
+Justin,964,40,java,rocky,798,219,124,,schneckenschnabel
+mana,991,3,netsuite,amandasaurus,53,219,197,amanda@technomancy.org,sma
+chico,906,0,angular,chico,51,218,66,chico.charlesworth@googlemail.com,jkelvie
+Alex Yong,6995,0,javascript,alexyoung,930,218,112,,wisesumo
+Aditya Singh,9481,453,javascript,asanghi,104,218,79,a@godly.cloud,anthony
+pkufranky,906,0,angular,pkufranky,35,216,44,,ehedberg
+David Brown,2886,95,android,tansengming,43,216,61,sengming@sanemen.com,hagmonk
+tom-c,906,0,angular,tom-c,3,214,10,,zeroedin
+Matthew Lowe,1519,0,python,moorage,27,212,31,,sokete
+changey,17475,590,android,aproxacs,13,212,21,aproxacs@gmail.com,agenteo
+rcoder,906,0,angular,rcoder,42,211,76,rcoder@gmail.com,mcarlson
+Chris Lees,2090,0,resharper,clee,60,211,121,clee@mg8.org,wordGeek
+kennon,906,0,angular,kennon,28,210,49,,invisible
+rhyolight,906,0,angular,rhyolight,313,210,196,rhyolight@gmail.com,fhwang
+heathkit,906,0,angular,heathkit,161,209,48,,perlmunger
+mkreis,11,0,apache,kris,24,209,12,mrkris@mrkris.com,malept
+Peter Li,360,11,google-compute-engine,paydro,33,208,39,paydrobui@gmail.com,pjsawicki
+John Barton,1373,0,python,joho,334,205,70,,dwnoble
+lukego,906,0,angular,lukego,391,205,64,lukego@gmail.com,simonmcc
+tobyclemson,906,0,angular,tobyclemson,156,204,44,tobyclemson@gmail.com,mrichardson03
+natsumi,906,0,angular,natsumi,11,203,6,,dche
+binarycrayon,906,0,angular,binarycrayon,14,203,43,,tatum
+ian,11613,616,ruby,Wolfr,137,203,108,work@johanronsse.be,mattsoldo
+sergiobuj,906,0,angular,sergiobuj,42,202,39,,al
+pixelcort,906,0,angular,pixelcort,19,202,28,me@pixelcort.com,dbravender
+aaron,31,0,pip,kataring,28,202,34,,dirceu
+kraudio,906,0,angular,kraudio,9,199,4,,haruska
+Rune,51,0,python,pda,181,199,78,,unpush
+takai,906,0,angular,takai,134,198,53,takai@recompile.net,pedrofaria
+Alain Reve,115,-1,javascript,alainravet,15,198,31,,m0wfo
+Michelle,633,0,windows,mikehale,39,197,124,mike@hales.ws,louiemiranda
+giorni,906,0,angular,giorni,13,195,5,,dpino
+Dong-gyun Kim,411,1,python,superkdk,5,194,5,superkdk@gmail.com,mellon85
+heedley,906,0,angular,heedley,9,193,20,,DrStrngeluv
+robtillotson,906,0,angular,robtillotson,7,193,6,rob@pyrite.org,daniel-kun
+triumph,906,0,angular,triumph,6,192,59,triumph2008@gmail.com,skywill
+MarcinGil,906,0,angular,MarcinGil,39,192,26,marcin.gil@gmail.com,sudharsh
+Christopher Causer,1184,0,tabs,chaupt,39,190,32,chaupt@mobirobo.com,spider-network
+adamflorin,906,0,angular,adamflorin,96,189,26,hey@adamflorin.work,bryantsai
+tylerkovacs,906,0,angular,tylerkovacs,23,189,22,tyler.kovacs@gmail.com,cola-zero
+JamesThomasMoon,5042,0,groovy,plainprogrammer,48,189,63,james@thomps.onl,tih-ra
+yshin,31,0,java,machal,84,188,97,,hank
+FND,906,0,angular,FND,79,186,269,,yenif
+Mark Bridges,7882,315,ios,towski,36,186,102,,yoshuki
+realityforge,906,0,angular,realityforge,111,185,277,peter@realityforge.org,hwork
+blaisdellk,906,0,angular,blaisdellk,6,184,15,,Thibaut
+andeplane,906,0,angular,andeplane,91,184,136,,thejohnny
+Adam,2710,105,android,dmacvicar,151,184,112,duncan@mac-vicar.eu,kobak
+Adam,22283,860,php,dmacvicar,151,184,112,duncan@mac-vicar.eu,chrismcclelland
+Adam,323,0,debian,dmacvicar,151,184,112,duncan@mac-vicar.eu,antonrogov
+Adam,6535,343,jquery,dmacvicar,151,184,112,duncan@mac-vicar.eu,dottedmag
+Adam,83,3,javascript,dmacvicar,151,184,112,duncan@mac-vicar.eu,mpearce
+nalin,906,0,angular,nalin,5,183,33,,ajaeger
+davidhq,906,0,angular,davidhq,50,183,44,,sachinjsk
+Searle,906,0,angular,Searle,4,182,12,,esteil
+JoeCodes,17,0,database,samgrover,26,182,12,samgrover@gmail.com,ThisOldCoder
+Tom Lever,159,0,powershell,alltom,124,181,109,tom@alltom.com,mooto
+pkeane,906,0,angular,pkeane,45,180,65,pjkeane@gmail.com,srizzo
+jkrall,906,0,angular,jkrall,28,179,107,joshuakrall@pobox.com,odorcicd
+cradle,906,0,angular,cradle,21,179,46,,deanh
+Jan,2793,51,java,haberbyte,22,179,19,,NicolasP
+carpeliam,906,0,angular,carpeliam,52,178,78,liam@carpeliam.com,cjsanders
+Justin Cho,31,0,python,sakuro,17,178,50,,daicoden
+Yan Zhang,341,0,python,yang,133,178,200,,caktux
+btweller,906,0,angular,btweller,3,176,26,,nis
+imakado,906,0,angular,imakado,104,174,25,,app
+Nick Sorge,11,1,authentication,banister,315,174,76,jrmair@gmail.com,anfedorov
+Nathan C,266,0,swift3,maxdevel,14,174,15,,phildarnowsky
+luniki,906,0,angular,luniki,20,172,82,,jomue
+jkestr,906,0,angular,jkestr,14,172,94,,rajeev
+carlosmcevilly,906,0,angular,carlosmcevilly,17,172,18,,shallwelin
+dtpmalone,906,0,angular,dtpmalone,10,172,4,,jonaphin
+Zachary Kiefer,11,0,google-sheets,zk,122,172,101,,quannon
+kll,906,0,angular,kll,4,170,39,git@kevin.oakaged.io,sjlombardo
+Stan,409,0,java,teftin,12,170,9,teftin@gmail.com,voxik
+Stan,740,2,python,teftin,12,170,9,teftin@gmail.com,innis
+Adrian,9,0,spl,mschuerig,12,170,15,michael@schuerig.de,reynhout
+Adrian,5523,114,java,mschuerig,12,170,15,michael@schuerig.de,planetbeing
+Richard Hu,659,11,android,gldnspud,38,170,79,matt@11craft.com,mop
+tariel,906,0,angular,tariel,5,169,9,,arcticleo
+Olli,906,0,angular,Olli,7,168,50,,eggy
+danchoi,906,0,angular,danchoi,205,168,202,,jwigal
+thomcowell,906,0,angular,thomcowell,25,168,13,,botandrose
+Jon Sud,8249,0,javascript,jonbuda,77,168,27,jon.buda@gmail.com,bitshape
+Jack,355,0,asp.net,koolkao,4,168,4,,nonsequitur
+Jack,318,1,django,koolkao,4,168,4,,kurtjx
+Jack,566,42,apache-spark,koolkao,4,168,4,,jeng
+Justin,964,40,java,gustin,25,168,69,,chrisjpowers
+dejan,906,0,angular,dejan,148,167,19,,austinrfnd
+mixr,906,0,angular,mixr,16,167,33,reiner@mixr.de,stephenb
+mmakunas,906,0,angular,mmakunas,9,167,13,michael@makunas.com,xevo
+Manuel,1994,39,c#,mcammaert,7,167,14,,xentac
+ShaneIsley,906,0,angular,ShaneIsley,6,166,84,,Timonn
+joshholt,906,0,angular,joshholt,16,166,85,holt.josh@gmail.com,jeffxu
+autonomous,906,0,angular,autonomous,21,166,11,chris.spring@gmail.com,Jazzatola
+julianbonilla,906,0,angular,julianbonilla,22,166,41,,rvoogdgeert
+Javier ,469,0,pandas,sbuller,7,166,38,,joeyh
+Richard,7573,36,ionic2,moos3,45,165,96,,catalanska
+Richard,23305,1329,sas,moos3,45,165,96,,nonnax
+Richard,4725,64,javascript,moos3,45,165,96,,HerbCSO
+Richard,12773,3,git,moos3,45,165,96,,bdonlan
+Sajal Gupta,51,0,xcode,mranallo,30,165,28,mranallo@gmail.com,danpreston
+madhusudancs,906,0,angular,madhusudancs,69,164,41,madhusudancs@google.com,xupisco
+awendt,906,0,angular,awendt,29,164,45,,synth
+cmiles,906,0,angular,cmiles,6,164,5,charles@cmiles.info,bernardo
+Matt,7813,3,javascript,akaHeimdall,17,164,16,saeed.t.richardson@gmail.com,adk9
+Matt,6036,6,c#,akaHeimdall,17,164,16,saeed.t.richardson@gmail.com,fadec
+Christian ,47,1,apache-beam,mintchaos,124,164,28,xian@mintchaos.com,jackhong
+kga,906,0,angular,kga,25,163,36,,gjhiggins
+Felice,45,0,vba,ianneub,24,163,88,,thatonejason
+Daniel Tan,117,0,python,MerlinDMC,38,163,101,,emilevdb
+piyo,906,0,angular,piyo,2,162,11,,jkalucki
+sebastien,906,0,angular,sebastien,200,162,83,sebastien.pierre@gmail.com,turker
+Jordan ,1251,4,python,arpitjain11,5,162,27,,gbenatti
+Jerry Chou,168,0,python,bryson,11,161,4,,monmon
+Joel Nation,115,5,sencha-touch,watsonian,92,161,29,,styledev
+chris_,39,0,forms,Meekohi,34,160,76,meekohi@gmail.com,maimuzo
+Michael Mano,3224,41,laravel,tropology,12,160,18,tropology@gmail.com,zlite
+Stefan Hansen,367,0,r,juretta,47,159,41,,bdelacey
+John Barton,1373,0,python,hatton,19,159,33,john_hatton@sil.org,alleylab
+daddz,906,0,angular,daddz,5,159,5,,jemmons
+btatnall,906,0,angular,btatnall,12,159,4,btatnall@gmail.com,Tamer
+cldwalker,906,0,angular,cldwalker,299,159,224,gabriel.horner@gmail.com,GFunk911
+William,2859,3,python,willduncanphoto,19,158,5,,masklinn
+Mark Johnson,19,0,javascript,johnschult,21,158,51,,vidriloco
+rikas,906,0,angular,rikas,126,157,65,oterosantos@gmail.com,ctsimpson
+vivid,906,0,angular,vivid,4,157,1,,hellonico
+Giles,1278,32,cocoa,gilesbowkett,460,156,185,gilesb@gmail.com,akr
+tschacht,906,0,angular,tschacht,2,154,2,,ingmar
+Michael A,5662,17,android,jstrater,11,154,19,,noahlt
+Mihail,3,0,charts,mihar,102,153,67,,pritchie
+knu,906,0,angular,knu,369,152,158,knu@idaemons.org,markustripp
+Jonathan Langford,19,0,sql,JonCrawford,30,152,18,mail@joncrawford.com,wilsondealmeida
+tomfast,906,0,angular,tomfast,14,151,16,tomfast@gmail.com,v3rb0
+durran,906,0,angular,durran,428,148,48,durran@gmail.com,slime73
+brookr,906,0,angular,brookr,255,148,186,brook@codefellows.com,moniker
+Tom,15113,0,visual-studio,MattHall,25,147,30,matt@codebeef.com,excentric
+Tom,285,4,python,MattHall,25,147,30,matt@codebeef.com,AnnoyedPlatypus
+Tom,1233,0,c#,MattHall,25,147,30,matt@codebeef.com,jarrod
+Tom,2453,47,symfony,MattHall,25,147,30,matt@codebeef.com,juafrlo
+Tom,6736,314,c++,MattHall,25,147,30,matt@codebeef.com,dneff
+Tom,63,0,node.js,MattHall,25,147,30,matt@codebeef.com,imrabti
+Tom,6768,0,asp.net,MattHall,25,147,30,matt@codebeef.com,loganb
+Tom,153,10,android-studio,MattHall,25,147,30,matt@codebeef.com,ok-zz
+hfunai,906,0,angular,hfunai,17,147,8,hfunai@gmail.com,femto
+hmason,906,0,angular,hmason,4160,147,20,me@hilarymason.com,tobbez
+David Callanan,4922,78,javascript,davecap,34,146,48,dcaplan@gmail.com,onishi
+rawburt,906,0,angular,rawburt,20,146,10,,magicseth
+jallen,906,0,angular,jallen,25,146,33,jared@redcact.us,glasserc
+orlandov,906,0,angular,orlandov,123,146,72,ovazquez@gmail.com,ngrandy
+Christian ,47,1,apache-beam,eager,18,146,20,,haikuwebdev
+sam,688,2,angularjs,lsd,54,145,90,machlovi@gmail.com,osuGrad
+sam,117,0,laravel,lsd,54,145,90,machlovi@gmail.com,bigblue
+Alexander Kalian,919,0,sql,langalex,172,145,69,,tonybo
+Mark Johnson,19,0,javascript,devstopfix,24,145,58,,drewwilson
+retr0h,906,0,angular,retr0h,169,144,104,,christiankn
+fbehrens,906,0,angular,fbehrens,11,144,42,,kevTheDev
+ryland,906,0,angular,ryland,17,144,29,,thegeekinside
+mstegmann,906,0,angular,mstegmann,2,143,1,marcel.stegmann@carento.de,hiphoox
+zagraves,906,0,angular,zagraves,61,143,17,,brong
+figital,906,0,angular,figital,27,142,37,scott@figital.com,IslandUsurper
+peterneubauer,906,0,angular,peterneubauer,205,142,97,,Imbrondir
+renderful,906,0,angular,renderful,16,142,7,,mnshah
+desi,906,0,angular,desi,200,142,9,desi.mcadam@gmail.com,piotrb
+markmansour,906,0,angular,markmansour,30,141,14,mark@stateofflux.com,xymbol
+rectalogic,906,0,angular,rectalogic,26,141,73,,bonaldi
+jtzemp,906,0,angular,jtzemp,23,141,44,,Noobidoo
+Matthew Campbell,1790,6,java,mattkanwisher,153,141,69,hyper@hyperworks.nu,mattkanwisher
+Peter Williamson,11,0,powershell,rytich,31,140,4,,haikuwebdev
+thiyagarajan,906,0,angular,thiyagarajan,10,140,190,,osuGrad
+dpw,906,0,angular,dpw,66,140,29,david@wragg.org,bigblue
+fff,906,0,angular,fff,18,139,37,milel.f@gmail.com,tonybo
+wwood,906,0,angular,wwood,172,139,199,donttrustben@gmail.com,drewwilson
+oggy,906,0,angular,oggy,60,138,111,george.ogata@gmail.com,christiankn
+dennisaj,906,0,angular,dennisaj,8,138,13,,kevTheDev
+Sebastian,525,0,python,ohm,43,138,15,,thegeekinside
+David,1,0,c#,dfugere,22,137,22,,hiphoox
+David,37,0,c,dfugere,22,137,22,,brong
+David,313,5,reactjs,dfugere,22,137,22,,IslandUsurper
+David,3964,1,javascript,dfugere,22,137,22,,Imbrondir
+David,3964,1,javascript,dfugere,22,137,22,,mnshah
+David,2185,8,android-studio,dfugere,22,137,22,,piotrb
+David,2285,22,python,dfugere,22,137,22,,xymbol
+wagenet,906,0,angular,wagenet,517,137,162,peter.wagenet@gmail.com,bonaldi
+Justin,964,40,java,jspears,44,135,99,speajus@gmail.com,Noobidoo
+Michael Dugas,65,0,php,ghulette,40,135,80,geoff@hulette.net,type11error
+gary,906,0,angular,gary,28,134,37,,skorgu
+alexrothenberg,906,0,angular,alexrothenberg,47,134,110,alex@alexrothenberg.com,zond
+Dan,3318,170,css,ybbuc,4,133,4,,hellvinz
+Dan,445,7,php,ybbuc,4,133,4,,alexananiev
+Jeffrey Chen,1561,29,android,geoffb,128,133,43,geoff@mousepox.io,alexis
+Mark Stephens,7,0,navigation,msumpter,3,133,31,,kidbrax
+mmorga,906,0,angular,mmorga,22,132,84,,soulplant
+dalton,906,0,angular,dalton,15,132,94,,gwynm
+skimua,906,0,angular,skimua,3,131,7,,ylh888
+nick-b,906,0,angular,nick-b,9,131,44,,stereotype
+cassiomarques,906,0,angular,cassiomarques,124,131,28,cassiommc@gmail.com,granchi
+NOLFXceptMe,906,0,angular,NOLFXceptMe,25,131,25,nerd.naveen@gmail.com,wickline
+Jonas,429,0,twitter-bootstrap,cpb,29,131,105,,imnotpete
+Nitin k,1,0,amazon-iam,michilu,29,130,238,,avand
+tmancino,906,0,angular,tmancino,3,128,6,,rle
+alecthegeek,906,0,angular,alecthegeek,100,128,92,,mazzer
+buithehoa,906,0,angular,buithehoa,30,128,30,,edas
+Oliver,33883,1444,github,sliver,5,128,2,,bradgignac
+Oliver,1279,8,iphone,sliver,5,128,2,,mosta
+yogione,906,0,angular,yogione,8,127,27,,svesely
+hns,906,0,angular,hns,117,127,44,,caio
+ozen,906,0,angular,ozen,25,127,27,,joshutt
+Chris Jones,2510,5,powershell,jonezy,39,127,47,chris@jonezy.org,rdrainville
+Felix,9,0,html,stochasticdev,9,126,67,,okada
+Felix,23,0,php,stochasticdev,9,126,67,,adrianpacala
+Felix,3345,165,angular,stochasticdev,9,126,67,,jjabez
+Peter Albert,16712,1097,excel,ioptics,19,126,9,inneroptics@gmail.com,giddie
+Peter Albert,16712,1096,excel,ioptics,19,126,9,inneroptics@gmail.com,darrell
+James Appleby,61,0,adobe,jes5199,34,126,94,,jamesking
+jflam,906,0,angular,jflam,115,125,122,jlam@iunknown.com,krist0ff
+Christopher,1,0,uml,aradke,4,125,2,,andrewbadera
+Christopher,3329,30,laravel,aradke,4,125,2,,hherzog
+Michael Boyer,975,51,opencl,daeltar,33,125,3,,tsyd
+alanrice,906,0,angular,alanrice,17,124,14,alanmrice@gmail.com,victorr
+sbl,906,0,angular,sbl,50,124,21,,secos
+hamedh,906,0,angular,hamedh,39,124,4,,lritter
+Daniel Rusnok,381,6,.net-core,dlrust,20,124,2,dlrust@gmail.com,sindhri
+Eduardo Gomez,59,0,c#,escoz,208,124,32,,rhesus
+Eduardo Gomez,59,0,xamarin,escoz,208,124,32,,niick
+csamuel,906,0,angular,csamuel,18,123,72,csamuel@gmail.com,jrray
+nugend,906,0,angular,nugend,39,123,31,nugend@gmail.com,patrikf
+Patrik,43,0,pandas,bileckme,26,123,31,,zsolt
+Arthur,906,0,angular,Arthur,16,122,7,,augustjoki
+Cueball,906,0,angular,Cueball,1,122,1,,rughetto
+bbhoss,906,0,angular,bbhoss,33,121,110,preston@synergyeoc.com,mbsullivan
+joehalliwell,906,0,angular,joehalliwell,27,120,51,joe.halliwell@gmail.com,kebabmane
+jao,906,0,angular,jao,43,120,20,,jgp
+Dagon,85,0,postgresql,daemonp,8,120,13,damon@petta.org,erikhansson
+Andrey,25,0,android,mobileAgent,26,120,13,flester@gmail.com,cederberg
+Andrey,25,0,android,mobileAgent,26,120,13,flester@gmail.com,hegjon
+Sergio,11,0,cxf,bbarreto,33,119,24,bruno@brunobarreto.net,smugx
+Rod,55,1,html,cgs,22,119,17,,derrick
+Rod,13659,10,c#,cgs,22,119,17,,taw
+Shane Powell,49,0,lua,powellnathanj,28,119,35,nathan@nathanpowell.org,v15h
+elight,906,0,angular,elight,169,118,95,,jgagne33
+lef,906,0,angular,lef,17,118,7,lef.pub@gmail.com,blj
+Matt Joiner,108709,1606,c,al2o3cr,67,118,53,al2o3cr@gmail.com,wemerson
+Jake warton,2043,0,android,jakehow,35,117,55,,acgourley
+Russell Ghana,2793,25,android,chewbranca,67,116,96,,damg
+valodzka,906,0,angular,valodzka,10,115,32,,dazuma
+Bohdan,11,1,python,suzak,28,115,20,,fmreal
+Daniel Fabre,33,0,material-ui,fdr,140,115,106,,lazee
+Daniel Fabre,33,0,typescript,fdr,140,115,106,,Alshie
+sinanduman,906,0,angular,sinanduman,8,114,6,sinanduman@gmail.com,jasongalvin
+Deepak S,11,0,python,mndoci,88,114,16,,jkhoogland
+Kevin Yang,167,0,flutter,thekvn,39,114,23,,drothlis
+Kevin Yang,167,0,flutter,thekvn,39,114,23,,guydavis
+Alex,67,0,python,raybaxter,4,113,49,ray.baxter@gmail.com,PavelNartov
+Alex,178,0,python,raybaxter,4,113,49,ray.baxter@gmail.com,jessevdk
+Alex,73,2,c#,raybaxter,4,113,49,ray.baxter@gmail.com,ElPicador
+Alex,553,45,mysql,raybaxter,4,113,49,ray.baxter@gmail.com,riggasconi
+Alex,1107,2,r,raybaxter,4,113,49,ray.baxter@gmail.com,ltoth
+Alex,535,31,javascript,raybaxter,4,113,49,ray.baxter@gmail.com,dhaas
+Alex,43,0,python,raybaxter,4,113,49,ray.baxter@gmail.com,kbavier
+Alex,45,0,java,raybaxter,4,113,49,ray.baxter@gmail.com,TheoChristiaanse
+Alex,26,1,python,raybaxter,4,113,49,ray.baxter@gmail.com,housejester
+Alex,235,0,angular-material,raybaxter,4,113,49,ray.baxter@gmail.com,andylatte
+Alex,87,2,c#,raybaxter,4,113,49,ray.baxter@gmail.com,wyscan
+Alex,40284,294,python,raybaxter,4,113,49,ray.baxter@gmail.com,stmontgomery
+Alex,40284,294,python,raybaxter,4,113,49,ray.baxter@gmail.com,anuprit
+Alex,908,1,php,raybaxter,4,113,49,ray.baxter@gmail.com,rweir
+Alex,908,1,php,raybaxter,4,113,49,ray.baxter@gmail.com,cristi
+Alex,29,0,regex,raybaxter,4,113,49,ray.baxter@gmail.com,bkearney
+Alex,11,0,typescript,raybaxter,4,113,49,ray.baxter@gmail.com,mattrenquist
+Alex,13,0,python,raybaxter,4,113,49,ray.baxter@gmail.com,adhusson
+Alex,9902,172,bash,raybaxter,4,113,49,ray.baxter@gmail.com,satoko
+Alex,23,0,python,raybaxter,4,113,49,ray.baxter@gmail.com,kuokon
+Alex,30546,64,git,raybaxter,4,113,49,ray.baxter@gmail.com,ingoweiss
+Alex,30546,64,git,raybaxter,4,113,49,ray.baxter@gmail.com,hdaniel
+Alex,143,0,python,raybaxter,4,113,49,ray.baxter@gmail.com,artemv
+Alex,143,0,python,raybaxter,4,113,49,ray.baxter@gmail.com,toshiki
+Alex,11,0,binding,raybaxter,4,113,49,ray.baxter@gmail.com,soyapi
+David Ho,110,3,reactjs,namor,4,113,21,john@flexnode.com,endisd
+ogyr,906,0,angular,ogyr,3,113,27,,enkrates
+raavin,906,0,angular,raavin,13,113,63,,moses
+alexbartlow,906,0,angular,alexbartlow,15,113,81,bartlowa@gmail.com,marilyn
+Andrew M,341,0,sql,icostan,18,113,43,,carson
+Scott Collins,13,1,.net,bbeardsley,9,113,10,,sacado
+Jon,1456,0,wcf,eallrich,10,112,21,,daustin
+Jon,379,1,marklogic,eallrich,10,112,21,,ciddennis
+nigelsim,906,0,angular,nigelsim,10,112,59,,perpic
+chilang,906,0,angular,chilang,15,112,60,,avinash
+ashleyw,906,0,angular,ashleyw,23,112,45,hi@ashleyw.co.uk,adnanali
+kleetus,906,0,angular,kleetus,62,112,131,,mattmcq
+sousk,906,0,angular,sousk,32,112,42,,wmerrell
+Steven ,23,0,xor,bwhite,121,112,88,e133tc1pher+github@gmail.com,whitby3001
+Andrew Feenan,13,0,excel,guanix,52,112,44,guan@yang.dk,macasek
+Marcus,31,0,c++,zcopley,38,111,17,zach@copley.name,milli
+Marcus,18,1,javascript,zcopley,38,111,17,zach@copley.name,tgdavies
+Marcus,15,0,selenium,zcopley,38,111,17,zach@copley.name,timharding
+Marcus,4784,212,sublimetext,zcopley,38,111,17,zach@copley.name,wfisk
+tolnem,906,0,angular,tolnem,7,111,13,,marsuboss
+dogonwheels,906,0,angular,dogonwheels,18,111,21,,gregoryo
+hone,906,0,angular,hone,689,111,289,hone02@gmail.com,hokten
+George O,97,0,kotlin,r2d2rogers,13,110,16,r2d2rogers@gmail.com,chenz
+rbriski,906,0,angular,rbriski,7,110,51,,matthewcrist
+maximum,906,0,angular,maximum,5,109,22,,Henry
+shinobix,906,0,angular,shinobix,2,109,4,,davidbody
+reedox,906,0,angular,reedox,29,109,5,,fetsh
+gmcclure,906,0,angular,gmcclure,10,109,21,gmcclure@gmail.com,rdarken
+benzado,906,0,angular,benzado,21,109,20,ben@benzado.com,jgubman
+Matthew Kwong,1999,109,reactjs,atoulme,146,109,219,antoine@toulme.name,vkasera
+Eric Ma,15,0,opencv,Link2k5,18,109,11,,asvitkine
+bblimke,906,0,angular,bblimke,62,108,31,bartosz.blimke@gmail.com,aquasync
+Bent,46,2,docker,BrentonEarl,7,108,23,,drzal
+igor-akhmetov,906,0,angular,igor-akhmetov,2,107,10,,occam
+standardpixel,906,0,angular,standardpixel,63,107,79,,wuts
+sids,906,0,angular,sids,70,107,13,sids.reddy@gmail.com,matthieup
+Ryan,689,1,java,krutten,15,107,106,krutten@starkandwayne.com,davidraba
+Ryan,660,6,firebase,krutten,15,107,106,krutten@starkandwayne.com,jschumacher
+Ryan,433,0,android,krutten,15,107,106,krutten@starkandwayne.com,TheIdeaMan
+Ryan,73,2,html,krutten,15,107,106,krutten@starkandwayne.com,kEND
+Ryan,87,0,sql,krutten,15,107,106,krutten@starkandwayne.com,paulboone
+three3q,906,0,angular,three3q,3,106,7,,Thamster
+dball,906,0,angular,dball,17,106,56,donald.ball@gmail.com,weijie
+jackross,906,0,angular,jackross,7,106,17,,paulasimoes
+samlown,906,0,angular,samlown,78,105,63,sam.lown@invopop.com,tutui-t
+taiar,906,0,angular,taiar,47,105,62,,hoanga
+Houdini,906,0,angular,Houdini,31,105,55,dmitrii.golub@gmail.com,sness
+J King,3798,71,wpf,marzapower,31,105,38,daniele.dib@gmail.com,georgezhu08
+Nelson Romero,15,0,sql,seanhussey,52,105,221,sean@seanhussey.com,simplogical
+Randy Morrison ,87,0,python,matthewconstantine,29,105,25,designmc@gmail.com,chosig
+Eric,15,2,laravel,prismofeverything,71,104,97,ryan.spangler@gmail.com,nahap
+Eric,61,0,php,prismofeverything,71,104,97,ryan.spangler@gmail.com,afairley
+Eric,189,0,vue.js,prismofeverything,71,104,97,ryan.spangler@gmail.com,cynix
+Constantin,15572,1277,virtualbox,Hellblazer,50,104,200,,firmasaga
+David Johns,1035,0,reactjs,unixmonkey,103,104,69,,lewism
+tmaeda,906,0,angular,tmaeda,43,103,24,,joshj
+delor,906,0,angular,delor,6,103,17,bartekpiech@gmail.com,IanEsling
+kbranigan,906,0,angular,kbranigan,54,103,24,kevin@branigan.ca,rnicholson
+Igor,381,9,asp.net-core,defrag,31,103,53,,luonet
+roolio,906,0,angular,roolio,9,102,13,,nerdyc
+Matt,7813,3,javascript,atushi,6,101,2,,trebonian
+Matt,6036,6,c#,atushi,6,101,2,,slangevi
+Marcos Casagrande,34638,1614,node.js,sbazemore,8,101,10,,eclecticdave
+claudiob,906,0,angular,claudiob,261,100,138,,peashutop
+Bluebie,906,0,angular,Bluebie,222,100,65,,probonogeek
+maelp,906,0,angular,maelp,60,100,4,mael.primet@gmail.com,jspies
+Doug,565,1,neo4j,doug,284,100,96,,rubyrock
+Doug,5847,37,azure-functions,doug,284,100,96,,tkaufman
+Doug,1428,0,ruby-on-rails,doug,284,100,96,,wataken44
+Andrew Walker,39268,599,python,andrewmaier,69,100,34,andrewmaier@me.com,mars888
+Andrew Walker,63,0,php,andrewmaier,69,100,34,andrewmaier@me.com,captblanket
+Sean,2564,5,python,loops,2,100,31,,brendanrankin
+biospank,906,0,angular,biospank,6,99,38,fabio.petrucci@gmail.com,franhb
+cezarsa,906,0,angular,cezarsa,240,99,153,cezarsa@gmail.com,dhaya
+mnichols,906,0,angular,mnichols,24,99,48,nichols.mike.s@gmail.com,jjcalleiro
+wallace,906,0,angular,wallace,51,99,107,wallace@github.com,joachimm
+feklee,906,0,angular,feklee,42,99,56,felix.klee@inka.de,thijsc
+Noname,34,0,javascript,balepc,14,99,37,,marcelo
+Noname,13,0,azure,balepc,14,99,37,,freqdec
+JamesThomasMoon,5042,0,groovy,jthomas,187,99,128,james@jamesthom.as,hawe
+Jigital,31,0,search,pzurek,50,98,47,pzurek@hey.com,sbaldwin621
+Chris,21,0,airflow,superbilk,22,98,20,@superbilk,tommed
+Chris,25936,730,asp.net,superbilk,22,98,20,@superbilk,shenry
+Chris,1347,3,iphone,superbilk,22,98,20,@superbilk,ryan52
+Chris,21,0,blazor-server-side,superbilk,22,98,20,@superbilk,alexnicolini
+Chris,13,0,html,superbilk,22,98,20,@superbilk,kmelnikov
+Chris,35,0,c#,superbilk,22,98,20,@superbilk,ph7
+Chris,775,5,c#,superbilk,22,98,20,@superbilk,jptix
+Chris,1291,26,flutter,superbilk,22,98,20,@superbilk,asosa
+Chris,244,6,macos,superbilk,22,98,20,@superbilk,bhanu
+Chris,43,0,c#,superbilk,22,98,20,@superbilk,mike-hogan
+Chris,769,1,jquery,superbilk,22,98,20,@superbilk,indiana
+Chris,3953,69,laravel,superbilk,22,98,20,@superbilk,JBB
+Chris,547,8,postgresql,superbilk,22,98,20,@superbilk,daryn
+Chris,13,0,python,superbilk,22,98,20,@superbilk,telmich
+Chris,25945,170,c#,superbilk,22,98,20,@superbilk,acamargo
+Mark,51,0,python,andymoe,27,98,59,andymoe@gmail.com,adamflater
+Mark,611,5,objective-c,andymoe,27,98,59,andymoe@gmail.com,avido
+Mark,109,1,python-3.x,andymoe,27,98,59,andymoe@gmail.com,tengu
+Mark,2250,61,permissions,andymoe,27,98,59,andymoe@gmail.com,d0k
+Mark,5542,11,linux-kernel,andymoe,27,98,59,andymoe@gmail.com,unendin
+Mark,512,2,r,andymoe,27,98,59,andymoe@gmail.com,wolfdancer
+waltz,906,0,angular,waltz,42,98,64,cj@cjbryan.io,dikini
+manat,906,0,angular,manat,7,98,22,,bharendt
+Christopher,1,0,uml,unmarshal,39,98,14,mbeddoe@gmail.com,hippo5329
+Christopher,3329,30,laravel,unmarshal,39,98,14,mbeddoe@gmail.com,sunfast
+Anthony Madle,101,0,python,aeden,235,98,51,me@anthonyeden.com,amyhoy
+jnovak,906,0,angular,jnovak,1,97,8,,radicalbender
+Andrew,1971,50,css,gruner,8,96,14,andrew.gruner@gmail.com,iroach
+Andrew,3720,59,python,gruner,8,96,14,andrew.gruner@gmail.com,Rodolinux
+Andrew,3720,59,python,gruner,8,96,14,andrew.gruner@gmail.com,sanjayayogi
+mihserf,906,0,angular,mihserf,5,96,32,,tklaudel
+Seth Ladd,100689,4886,dart,sethladd,738,96,68,sethladd@gmail.com,hubris
+taq,906,0,angular,taq,302,95,39,eustaquiorangel@gmail.com,cementhorses
+cesare,906,0,angular,cesare,101,95,121,,scottmace
+rcrowley,906,0,angular,rcrowley,705,95,91,r@rcrowley.org,edgard
+veenified,906,0,angular,veenified,7,95,1,veenified@gmail.com,isidore
+lp741,906,0,angular,lp741,10,95,1,luca.pulira@gmail.com,joshstephenson
+chsh,906,0,angular,chsh,32,95,59,shinsaku@chikura.me,henrosoft
+pvillega,906,0,angular,pvillega,58,95,141,,roughley
+Justin Simon,15,1,python,dustinsand,11,95,8,,bikle
+Mr. Anderson,73,1,python,jrsims,3,94,2,,ustorf
+oren,906,0,angular,oren,186,94,348,orengolan@gmail.com,mholub
+thomaswinkler,906,0,angular,thomaswinkler,2,94,3,,p00ya
+seanhess,906,0,angular,seanhess,184,94,170,seanhess@gmail.com,addi
+eokyere,906,0,angular,eokyere,27,94,55,chief@hutspace.net,spencer
+Qifeng Li,11,0,android,gmunoz,10,94,14,gmunoz@netflix.com,cuiguy
+Max Pattern,519,8,javascript,fidothe,89,94,120,matt@reprocessed.org,goblin
+Max Pattern,519,7,javascript,fidothe,89,94,120,matt@reprocessed.org,masch-zz
+soleil,11585,100,ios,sole,942,94,237,,pedrofrv
+Matthew Rankin,438314,24799,git,etorreborre,298,94,188,,pythonic
+puttiz,906,0,angular,puttiz,3,93,7,,sanderm
+YMas,906,0,angular,YMas,4,93,13,github@hypergraphsoftware.com,zvoase
+scottlaplant,906,0,angular,scottlaplant,20,93,3,,lcmtwn
+Benjamin,57,0,javascript,dan,441,92,6,dan@benjamin.org,kylecronin
+jxa,906,0,angular,jxa,30,92,43,,eike
+stepan,906,0,angular,stepan,17,92,11,stepang@gmail.com,vonpop
+ratnikov,906,0,angular,ratnikov,29,92,74,ratnikov@gmail.com,michaeldauria
+Jim C,3417,4,spring,sidecut,6,92,94,,Monty
+fstrozzi,906,0,angular,fstrozzi,50,91,48,,jayrendon
+Adam,2710,105,android,kocolosk,104,91,33,adam@kocolosk.net,ender3
+Adam,22283,860,php,kocolosk,104,91,33,adam@kocolosk.net,panthar
+Adam,323,0,debian,kocolosk,104,91,33,adam@kocolosk.net,bythebook
+Adam,6535,343,jquery,kocolosk,104,91,33,adam@kocolosk.net,gcorvala
+Adam,83,3,javascript,kocolosk,104,91,33,adam@kocolosk.net,nemot
+Kristin,155,0,django,derdewey,9,91,50,xrlange@gmail.com,johnwyles
+Nate,201,0,python,calvintychan,34,90,33,,neogia
+jawbroken,906,0,angular,jawbroken,5,90,5,,caotic
+bianster,906,0,angular,bianster,19,90,12,bianster@gmail.com,urielf
+koseki,906,0,angular,koseki,28,90,32,koseki@gmail.com,mdaines
+deadsunrise,906,0,angular,deadsunrise,4,90,9,jon@frozenlabs.net,Wobin
+lenary,906,0,angular,lenary,121,90,68,,jbsf
+ibc,906,0,angular,ibc,429,90,34,ibc@aliax.net,flo
+gar,906,0,angular,gar,14,90,53,garmorley@gmail.com,pfdemuizon
+Richard Misterio,13,0,laravel,soratobukuroneko,23,89,8,,gleb
+evizitei,906,0,angular,evizitei,36,88,139,ethan.vizitei@gmail.com,elzo
+jtrupiano,906,0,angular,jtrupiano,81,88,50,jtrupiano@gmail.com,singleton
+kehh,906,0,angular,kehh,12,88,36,,jfurfey
+Victor,423,0,angularjs,crankycoder,54,88,179,,Luke-23ae
+Victor,110,5,html,crankycoder,54,88,179,,joshbowen
+Jonathan,10311,178,laravel,snowblink,48,88,15,snowblink@gmail.com,Jonv
+Jonathan,397,1,angular,snowblink,48,88,15,snowblink@gmail.com,koenvw
+Don,45,0,oracle,krisb,31,87,5,kris@kris.me.uk,tory
+James Harrington,83,0,r,psi,33,86,82,jd@jdharrington.net,mykecameron
+jasonwatkinspdx,906,0,angular,jasonwatkinspdx,27,86,3,github@jasonwatkins.net,rpm33
+hofo,906,0,angular,hofo,2,86,15,,fn7
+nh7a,906,0,angular,nh7a,80,86,27,,goodspeed
+narkeeso,906,0,angular,narkeeso,14,85,24,narkeeso@gmail.com,danolsen
+Eddy,1503,3,spring,edd,19,84,54,edd@vega.xyz,brandonrunyon
+John Barton,1373,0,python,johnh,4,84,6,,leonelfreire
+trevorsmith,906,0,angular,trevorsmith,43,84,45,,jeske
+Ankit Gupta,13,0,ios-ui-automation,dietmarw,84,84,73,dietmar.winkler@dwe.no,TheLinker
+christok,1007,1,c#,chrismo,40,84,76,chrismo@clabs.org,lambert
+Chris,21,0,airflow,clavoie,6,83,25,,luke
+Chris,25936,730,asp.net,clavoie,6,83,25,,waratuman86
+Chris,1347,3,iphone,clavoie,6,83,25,,JoshD
+Chris,21,0,blazor-server-side,clavoie,6,83,25,,micah
+Chris,13,0,html,clavoie,6,83,25,,neilmcg
+Chris,35,0,c#,clavoie,6,83,25,,adisak
+Chris,775,5,c#,clavoie,6,83,25,,cbellrel
+Chris,1291,26,flutter,clavoie,6,83,25,,alfredox
+Chris,244,6,macos,clavoie,6,83,25,,glasswing28
+Chris,43,0,c#,clavoie,6,83,25,,shellreef
+Chris,769,1,jquery,clavoie,6,83,25,,academician
+Chris,3953,69,laravel,clavoie,6,83,25,,jward
+Chris,547,8,postgresql,clavoie,6,83,25,,dancode
+Chris,13,0,python,clavoie,6,83,25,,mgbaron
+Chris,25945,170,c#,clavoie,6,83,25,,golo
+erikeldridge,906,0,angular,erikeldridge,89,83,30,,anand-zz
+PeeDee,906,0,angular,PeeDee,2,83,14,peedee,redhat008
+weibel,906,0,angular,weibel,23,83,5,weibel@gmail.com,jas88
+Jakub Troszok,94111,154,git,ldaley,422,83,106,ld@ldaley.com,gonzaga
+Robin wong,19,0,python,krissus,7,83,5,,chas
+Joel Harrison,41,0,light,joselo,31,83,34,joseloc@gmail.com,dpalacio
+Jason Whitener,29,0,java,barrymac,27,82,40,,progmatica
+Rich,3065,172,javascript,rds,5,82,30,,lawrien
+Rich,15453,232,java,rds,5,82,30,,freakdude
+Syd,906,0,angular,Syd,36,82,25,,benoit-canet
+hwatkins,906,0,angular,hwatkins,20,82,24,hwatkins@mergate.com,h00s
+balgarath,906,0,angular,balgarath,15,82,22,rledge21@gmail.com,carlpelletier
+Justin Case,28,0,java,iamjwc,42,82,45,iamjwc@gmail.com,fdutey
+David Powell,524,1,ibm-cloud,etdebruin,19,82,21,etdebruin@gmail.com,n0mad
+sangeth,906,0,angular,sangeth,6,81,1,,tcnijmeijer
+nicholas-johnson,906,0,angular,nicholas-johnson,22,81,166,,yksi7417
+marvinlemos,906,0,angular,marvinlemos,21,81,18,,ioguix
+Justin Palme,56321,52,javascript,jpease,27,80,19,,boyan
+Justin Palme,484,0,python,jpease,27,80,19,,mindu
+Justin Palme,181,0,python,jpease,27,80,19,,Siya
+jessehu,906,0,angular,jessehu,20,80,45,jessehubj@163.com,ady
+iamaleksey,906,0,angular,iamaleksey,98,80,31,aleksey@yeschenko.com,mallum
+Ankit Gupta,13,0,ios-ui-automation,irfani,5,80,12,,kimj
+Tobias Feil,1954,13,python,twei55,12,80,17,tobias.weiss@gmail.com,jeannie
+hellowahab,906,0,angular,hellowahab,5,79,40,hellowahab@gmail.com,bprater
+stef,906,0,angular,stef,185,79,128,,anjo
+fedesoria,906,0,angular,fedesoria,65,79,84,fedesoria@gmail.com,alokjain
+dokshor,906,0,angular,dokshor,55,79,71,,anarchitech
+jhs,906,0,angular,jhs,184,79,102,jason.h.smith@gmail.com,ddipaolo
+Dai Zhang,27,0,c,daqing,172,79,24,,ThQ
+Daniel Branco,29,3,java,waferbaby,317,78,10,,wkorfhage
+haslup,906,0,angular,haslup,3,78,13,,cjiang
+pmarti,906,0,angular,pmarti,23,78,23,pmargam@gmail.com,orienterare
+dopin,906,0,angular,dopin,25,78,5,,benjaminperdomo
+Wolf,15,0,c++,Nashorn,22,78,99,jaysmith024@gmail.com,jgotangco
+Hef,338,7,javascript,hef,34,78,117,,isaaccp
+David Brown,2886,95,android,ddb,9,78,16,ddb@bithead.net,eddynaert
+mcmarto,906,0,angular,mcmarto,1,77,36,,ruuzo
+copyleftdev,906,0,angular,copyleftdev,57,77,181,don@codetestcode.io,lanfeust21
+KrisHedges,906,0,angular,KrisHedges,15,77,67,KrisHedges@gmail.com,evaneykelen
+Alan,1235,0,objective-c,jerryluk,22,77,32,jerry@loopapps.com,carldr
+Alan,98,0,javascript,jerryluk,22,77,32,jerry@loopapps.com,joshn
+Alan,10058,567,twilio,jerryluk,22,77,32,jerry@loopapps.com,jeppster
+Mike,1241,0,swift,rsclarke,5,77,16,hey@rsclarke.dev,tresk
+Mike,731,1,r,rsclarke,5,77,16,hey@rsclarke.dev,gobigdave
+Mike,37,0,c++,rsclarke,5,77,16,hey@rsclarke.dev,davies147
+Mike,447,7,visual-studio,rsclarke,5,77,16,hey@rsclarke.dev,zooliet
+Mike,1278,49,javascript,rsclarke,5,77,16,hey@rsclarke.dev,bladenkerst
+Jon Middleton,343,0,python,AlanQuatermain,669,77,103,jimdovey@mac.com,shaun27stars
+Peter Williamson,11,0,powershell,pezra,60,76,94,peter@pezra.me,nobutaka
+benlund,906,0,angular,benlund,28,76,11,,vranjank
+majormajors,906,0,angular,majormajors,39,76,62,,Sigurd
+David Michael Gang,6835,41,java,dmit,0,76,19,,tmenick
+A Cameron,21,0,javascript,cannikin,122,76,132,cannikin@fastmail.com,rpgoldman
+jnwhiteh,906,0,angular,jnwhiteh,112,75,57,,sellersj
+ebi,906,0,angular,ebi,46,75,39,,asahopkins
+kkubasik,906,0,angular,kkubasik,31,75,11,kevin@kubasik.net,randybud
+marcello,906,0,angular,marcello,20,75,14,faraohh@gmail.com,Mystic
+Jason L.,41,0,windows,glebiller,6,75,108,guillaume.lebiller@gmail.com,izi
+activestylus,906,0,angular,activestylus,20,74,51,,dconely
+SimianLogic,906,0,angular,SimianLogic,5,74,26,learnyourabcs@gmail.com,dmendez
+clr,906,0,angular,clr,41,74,63,clr.mobile@gmail.com,signup-disabled
+dmitryv,906,0,angular,dmitryv,7,74,12,,aimee
+fk2000,906,0,angular,fk2000,22,74,88,fujiwarak@gmail.com,pkenney
+John Conor,441,4,python,fredericopranto,25,74,23,fredericopranto@gmail.com,wewu
+excing,35,0,android,ecin,33,74,74,,horaguchi
+kalin,906,0,angular,kalin,11,72,48,kalin@quantifiedcitizen.com,suntsh
+tschmidt,906,0,angular,tschmidt,15,72,41,,mmccay
+Jim,12660,107,django,jimfisher,9,72,7,,aitorgr
+Hai Hoang,11,0,subdirectory,huanh,5,72,1,,sh0tt
+Matthieu,176,12,python,grandmanitou,6,72,2,guillaume.pommier@grand-manitou.com,schulzp
+Josh,10909,6,python,jboyens,44,71,65,jboyens@fooninja.org,blundellc
+Josh,53,0,list,jboyens,44,71,65,jboyens@fooninja.org,DamienW
+wiremine,906,0,angular,wiremine,7,71,26,,jjkiesch
+ratchetcat,906,0,angular,ratchetcat,5,71,9,,robertez
+Nightmare,906,0,angular,Nightmare,4,71,6,,kewball
+staypufd,906,0,angular,staypufd,19,71,32,,springnet
+pete-a,906,0,angular,pete-a,6,71,4,,mondrian
+wesrog,906,0,angular,wesrog,38,71,19,,algnod
+Claudio,5259,163,python,h0jeZvgoxFepBQ2C,9,71,74,,sergiodj
+Claudio,5259,161,python,h0jeZvgoxFepBQ2C,9,71,74,,MichaelWegelin
+Daniel Branco,29,3,java,danielharan,82,70,33,chebuctonian@gmail.com,tmselim
+scottmills,906,0,angular,scottmills,1,70,21,,oliviaartz
+dsaint,906,0,angular,dsaint,4,70,7,,supramap
+gisikw,906,0,angular,gisikw,108,70,57,kevin@kevingisi.com,mattt416
+apotonick,906,0,angular,apotonick,1106,70,73,apotonick@gmail.com,indiemaps
+dagi3d,906,0,angular,dagi3d,17,70,17,borjam@dagi3d.net,matthewling
+zipi,906,0,angular,zipi,4,70,5,smoe868@gmail.com,markfenton
+AlainODea,906,0,angular,AlainODea,76,70,92,,tonyd
+Leighton,6309,0,swift,jonleighton,412,70,86,,mazdak
+Roman,69,3,reactjs,rkj,41,69,48,,cglee
+Roman,39,0,sapui5,rkj,41,69,48,,tphyahoo
+Tiago Santos,21,0,android,adunkman,120,69,130,adunkman@gmail.com,pierrevdb
+pphetra,906,0,angular,pphetra,33,69,64,,zakk
+zackham,906,0,angular,zackham,7,69,26,,garyvanhoek
+thieso2,906,0,angular,thieso2,11,69,34,,messer
+ricardochimal,906,0,angular,ricardochimal,69,69,51,,mqjjb30e
+Anthony Madle,101,0,python,khaledE,3,69,4,thoughts.loudspeaker@gmail.com,dante-xx
+Martin Smith,3228,147,r,nils,6,69,25,,findrails
+Chad,22397,362,javascript,zenazn,284,69,39,carl@avtok.com,wonsys
+James Harrington,83,0,r,tim-kos,167,68,70,,tronash
+Ronald439,906,0,angular,Ronald439,3,68,6,,geezeoweb
+pjdavis,906,0,angular,pjdavis,35,68,46,pj.davis@gmail.com,javila
+helloluis,906,0,angular,helloluis,23,68,25,,abharambe
+Nick Sorge,11,1,authentication,nsforge,23,68,12,nick@nickforge.com,kbierbaum
+Marcello Pato,393,0,laravel,SamB,16,68,225,,kkeithlea
+Jonathan Clark,1043,1,codeigniter,nathanclark,11,68,31,,pripple
+is73,906,0,angular,is73,5,67,2,,eriiikk
+imagine,906,0,angular,imagine,9,67,15,,ctshh
+Aupajo,906,0,angular,Aupajo,68,67,123,aupajo@gmail.com,rudyyang2001
+Jan,2793,51,java,koos,75,67,52,jan@railslove.com,tomasotosolini
+jonochang,906,0,angular,jonochang,15,66,51,j.g.chang@gmail.com,javierfm
+jpoon88,906,0,angular,jpoon88,2,66,6,,Virginian
+vivaserver,906,0,angular,vivaserver,7,66,42,cristian.arroyo@vivaserver.com,naeimsf
+Paschalis,159,0,python,psq,37,66,74,psq@nanorails.com,jluciani
+Brian,10621,68,amazon-web-services,codelotus,35,66,24,,franckv
+Brian,25,0,html,codelotus,35,66,24,,socantre
+Christopher,1,0,uml,piotrj,33,66,50,piotrj@gmail.com,mattczech
+Christopher,3329,30,laravel,piotrj,33,66,50,piotrj@gmail.com,doon
+Nathan,10355,151,c#,brainsnorkel,7,66,26,,chemicalhen
+Jk Jensen,319,9,node.js,jonjensen,67,66,52,jon@endpointdev.com,e12win
+drohhyn,906,0,angular,drohhyn,6,65,8,,ducduong
+cthiel,906,0,angular,cthiel,18,65,6,christoph.thiel@gmail.com,codemonkey86
+somic,906,0,angular,somic,52,65,38,,Chris78
+Daniel ,105,0,sorting,mernen,30,65,34,,daveganley
+Patrick,197,2,excel,sigma,152,64,170,yann.hodique@gmail.com,robcorp
+Patrick,779,0,r,sigma,152,64,170,yann.hodique@gmail.com,ueda
+Patrick,583,0,java,sigma,152,64,170,yann.hodique@gmail.com,alexweej
+Patrick,2057,156,android,sigma,152,64,170,yann.hodique@gmail.com,rawar-zz
+Alberto Cajal,11,0,html,moonwitch,21,64,12,kelly.crabbe@gmail.com,Pucster
+Mark,51,0,python,Tolmark12,6,64,61,,nex
+Mark,611,5,objective-c,Tolmark12,6,64,61,,sciamop
+Mark,109,1,python-3.x,Tolmark12,6,64,61,,vidyanand
+Mark,2250,61,permissions,Tolmark12,6,64,61,,Judeqiu
+Mark,5542,11,linux-kernel,Tolmark12,6,64,61,,filipe-zz
+Mark,512,2,r,Tolmark12,6,64,61,,crimond
+flazz,906,0,angular,flazz,77,64,52,,nickmc
+tiagowhite,906,0,angular,tiagowhite,3,64,24,,absz
+slmnhq,906,0,angular,slmnhq,3,64,26,,dragosdimitriu
+tilsammans,906,0,angular,tilsammans,49,64,16,joost@spacebabies.nl,hmoniaga
+Nicholas,429,4,java,isaiah,54,64,72,,malmeida
+Luca,31,0,javascript,plus7,28,64,31,ahya365@gmail.com,markcp
+Luca,33,1,variables,plus7,28,64,31,ahya365@gmail.com,r7000
+Luca,57,1,flutter,plus7,28,64,31,ahya365@gmail.com,markkaganovich
+Jonathan Clark,1043,1,codeigniter,jbarket,25,64,27,jbarket@sleepunit.com,antomonte
+imehesz,906,0,angular,imehesz,21,63,119,imehesz@gmail.com,Mikachu
+Aaron Walker,25,0,session,fightinjoe,11,63,25,aaron@fightinjoe.com,alexander
+Navneet Singh,98,5,java,Hexa,10,62,10,hexa.diary@gmail.com,dick
+pivou,906,0,angular,pivou,7,62,2,,tooeasy
+chrisconley,906,0,angular,chrisconley,28,62,71,,mpant
+ku,906,0,angular,ku,142,62,65,,andersbergman
+joakimk,906,0,angular,joakimk,56,62,96,joakim.kolsjo-AT-gmail-com,wkorku
+jtsom,906,0,angular,jtsom,8,62,16,johnt519@gmail.com,ggriffiniii
+bwar01,906,0,angular,bwar01,6,62,10,,roov
+computorist,906,0,angular,computorist,7,62,10,,phabulosa
+zeroth,906,0,angular,zeroth,18,62,64,abhishek@zeroth.me,yukou
+woodie,906,0,angular,woodie,72,62,66,woodie@netpress.com,callagga
+Aric,251,0,python,4rc0s,15,62,5,,bassory99
+Michael,943,2,qt,lucsky,12,61,26,luc@honk-honk.com,tms005
+Michael,1200,0,reactjs,lucsky,12,61,26,luc@honk-honk.com,nathanroberts
+Michael,25,0,javascript,lucsky,12,61,26,luc@honk-honk.com,Lars
+Michael,196,1,python,lucsky,12,61,26,luc@honk-honk.com,joebloggs
+Michael,196,1,python,lucsky,12,61,26,luc@honk-honk.com,ligurmatic
+Michael,7974,3,ansible,lucsky,12,61,26,luc@honk-honk.com,arunalangar
+Michael,55,0,dax,lucsky,12,61,26,luc@honk-honk.com,vassiliad
+Michael,918,0,pip,lucsky,12,61,26,luc@honk-honk.com,mitsuru
+fleadope,906,0,angular,fleadope,1,61,72,,sshi
+yeah,906,0,angular,yeah,54,61,51,,vincentrenais
+sloser,906,0,angular,sloser,7,61,9,,erickamarante
+dreeves,906,0,angular,dreeves,81,61,44,dreeves@beeminder.com,mdahlstrom
+chrisvoll,906,0,angular,chrisvoll,20,61,25,chris@chrisvoll.com,steffendietz
+repeatedly,906,0,angular,repeatedly,498,61,100,,aghassipour
+Christopher Koziol,63,1,javascript,crigor,38,61,79,crigor@gmail.com,apasha
+Gabriel Garrett,1997,33,ios,justinko,52,61,42,,twobitfool
+DouglasMeyer,906,0,angular,DouglasMeyer,17,60,58,Douglas.Meyer@mail.com,baldmountain
+brice,906,0,angular,brice,18,60,90,,askey
+sabotatore,906,0,angular,sabotatore,23,60,12,,noelklein
+detarmstrong,906,0,angular,detarmstrong,4,60,16,,kambiz
+tobetchi,906,0,angular,tobetchi,13,60,25,tobetchi@gmail.com,orelworks
+Arthur,534,32,r,toe,17,60,1,,foeken
+Arthur,534,31,r,toe,17,60,1,,publlius
+Josh Winters,685,4,reactjs,jwinter,12,60,95,,dkc
+Lucio,141,0,macos,yzhang,157,60,29,zhangyuanyi@gmail.com,hanssen
+Nico,43,0,html,daelious,24,60,19,meyer.keith@gmail.com,asokolov
+Francis P,12857,767,sql,franc,12,59,34,,brianbr
+rjanse,906,0,angular,rjanse,6,59,33,,matejudo
+trevorh,906,0,angular,trevorh,1,59,8,,johntoups
+igorgladkoborodov,906,0,angular,igorgladkoborodov,34,59,16,igor.gladkoborodov@gmail.com,harish86
+tag,906,0,angular,tag,53,59,27,,shayarnett
+pgm,906,0,angular,pgm,10,59,41,,thade
+paulbatum,906,0,angular,paulbatum,161,59,98,pbatum@microsoft.com,botrby
+bartv,906,0,angular,bartv,15,59,19,bart@vanbrabant.eu,awallwork
+davidmroth,906,0,angular,davidmroth,16,59,58,,aktagon
+almost,906,0,angular,almost,141,59,124,tom@almostobsolete.net,demerzel
+DGaffney,906,0,angular,DGaffney,62,59,92,itsme@devingaffney.com,jreedy
+klm,906,0,angular,klm,5,59,3,,gammax
+Jonathan,10311,178,laravel,fdv,249,59,76,fred@t37.net,oriel
+Jonathan,397,1,angular,fdv,249,59,76,fred@t37.net,redprophet
+Fitzgerald,61,1,python,gregfitz23,5,59,24,,wpozar
+Matthew G.,1258,11,c++,mcg,25,59,33,mcg@braintube.com,munchboyd
+Benjamin,57,0,javascript,byu,13,58,12,,xitrium
+Josh,10909,6,python,stderr,29,58,32,,WhiteMagic
+Josh,53,0,list,stderr,29,58,32,,kdemanawa
+tarsolya,906,0,angular,tarsolya,18,58,39,,jefmsmit
+rdavila,906,0,angular,rdavila,26,58,42,,schoujar
+goomerko,906,0,angular,goomerko,20,58,9,g.coronel@stuart.com,predhme223
+LaPingvino,906,0,angular,LaPingvino,72,58,118,joop@kiefte.net,Encinarus
+yuanying,906,0,angular,yuanying,35,58,114,,castor
+tekknikk,906,0,angular,tekknikk,7,58,20,tekknikk@yuumii.com,vaanisharma
+Evan,153,0,python,evanlong,71,58,8,annglove@gmail.com,praxedis
+probablykabari,906,0,angular,probablykabari,24,57,39,,Mercedes
+stick,906,0,angular,stick,18,57,28,stick@miscellaneous.net,gdunzwolff
+tomrus88,906,0,angular,tomrus88,286,57,30,,downtowncartel
+rmg,906,0,angular,rmg,167,57,92,r.m.graham@gmail.com,oguma
+Sam,329,0,javascript,SamSaffron,1285,57,147,sam.saffron@gmail.com,hyle
+Sam,93,0,spring-boot,SamSaffron,1285,57,147,sam.saffron@gmail.com,josephjaramillo
+Sam,13514,74,angularjs,SamSaffron,1285,57,147,sam.saffron@gmail.com,timconstan
+Sam,1126,15,python,SamSaffron,1285,57,147,sam.saffron@gmail.com,c1de0x
+Brian,10621,68,amazon-web-services,bbbrrriiiaaannn,5,57,36,,faulancer
+Brian,25,0,html,bbbrrriiiaaannn,5,57,36,,pmorici
+Robert Kraft,21,0,csv,cvillecsteele,20,57,11,cvillecsteele@gmail.com,qidane
+Jeffrey Hao,33,0,python,sbtn,4,57,14,,potionfactory
+Jeffrey Hao,33,0,python,shanghaichris,10,57,12,shanghaichris@gmail.com,chrisdone
+David Leal,1517,26,r,cowsandmilk,8,57,17,drhall@bu.edu,pdbarker
+David,1,0,c#,chrisfarber,29,56,13,chris@chrisfarber.net,schmlblk
+David,37,0,c,chrisfarber,29,56,13,chris@chrisfarber.net,martymix
+David,313,5,reactjs,chrisfarber,29,56,13,chris@chrisfarber.net,bgrossmann
+David,3964,1,javascript,chrisfarber,29,56,13,chris@chrisfarber.net,boszme
+David,3964,1,javascript,chrisfarber,29,56,13,chris@chrisfarber.net,henrikau
+David,2185,8,android-studio,chrisfarber,29,56,13,chris@chrisfarber.net,xxnintendoxx
+David,2285,22,python,chrisfarber,29,56,13,chris@chrisfarber.net,lazeb
+expilo,906,0,angular,expilo,2,56,12,,picomiles
+manlycode,906,0,angular,manlycode,30,56,114,manlycode@gmail.com,severian
+farra,906,0,angular,farra,27,56,11,farra@apache.org,aerwave
+badchenn,906,0,angular,badchenn,2,56,2,,tdjohn
+eedrummer,906,0,angular,eedrummer,69,56,36,,salim
+Matt W,10694,54,c#,mza,70,56,31,matt.j.wood@gmail.com,bruml2
+Matt W,10694,54,c#,mza,70,56,31,matt.j.wood@gmail.com,eiffelqiu
+Tom Huntington,1051,21,c++,jdhuntington,50,56,93,jdhuntington@gmail.com,storm3d
+Tim,1,0,bash,sergio,7,55,44,sergio.acosta@gmail.com,asimshankar
+Tim,6846,7,jquery,sergio,7,55,44,sergio.acosta@gmail.com,hammodius
+Tim,930,28,python,sergio,7,55,44,sergio.acosta@gmail.com,avivsinai
+sbenhaim,906,0,angular,sbenhaim,6,55,22,,steelpotato
+SSDany,906,0,angular,SSDany,26,55,8, inadsence@gmail.com,jduckett
+jantzeno,906,0,angular,jantzeno,4,55,3,,trevorb
+doublec,906,0,angular,doublec,217,55,78,chris.double@double.co.nz,opti
+Christian ,47,1,apache-beam,mifix,5,55,52,,svrishi
+damnpenguins,906,0,angular,damnpenguins,1,54,7,cs.subscribe@gmail.com,jstetser
+ato,906,0,angular,ato,97,54,59,,acidburnz
+justinmchase,906,0,angular,justinmchase,46,54,121,justin.m.chase@gmail.com,iconmaster
+JosephPecoraro,906,0,angular,JosephPecoraro,54,54,36,joepeck02@gmail.com,spent
+mentat,906,0,angular,mentat,28,54,28,,kajecounterhack
+jeffbrown,906,0,angular,jeffbrown,308,54,706,brownj@objectcomputing.com,murphee
+tibbe,906,0,angular,tibbe,467,54,22,johan.tibell@gmail.com,zettablade
+enw,906,0,angular,enw,14,54,54,github@caveteen.com,nickb
+Mike,1241,0,swift,kpy3,9,54,47,elinsn@gmail.com,Stefan
+Mike,731,1,r,kpy3,9,54,47,elinsn@gmail.com,simonpk
+Mike,37,0,c++,kpy3,9,54,47,elinsn@gmail.com,jhoyimperial
+Mike,447,7,visual-studio,kpy3,9,54,47,elinsn@gmail.com,hlopez
+Mike,1278,49,javascript,kpy3,9,54,47,elinsn@gmail.com,engtech
+David Sargrad,91,3,kubernetes,withaspoon,6,54,13,johan@stille.com,jwhiteman
+Huuuze,14648,14,sql,pheew,9,54,24,niek@fambruins.nl,tkhozein
+AKP,11,0,wordpress,kporangehat,35,54,24,,brianteutsch
+kd1,29,2,python,singingfish,21,53,79,,oakridgelanl
+natedog,906,0,angular,natedog,4,53,11,,bottlecaplabs
+mgedigian,906,0,angular,mgedigian,5,53,24,,shaun
+bastih,906,0,angular,bastih,71,53,19,,jpath
+burner,906,0,angular,burner,70,53,211,rburners@gmail.com,sofal
+raphinou,906,0,angular,raphinou,7,53,19,,fabioandrec
+numerodix,906,0,angular,numerodix,20,53,76,,billmuell
+fvdsn,906,0,angular,fvdsn,36,53,39,fvdessen+g@gmail.com,lollipierre
+Michael Kniskern,24132,208,c#,mkrisher,43,53,35,mike@mikekrisher.com,dramatis
+Michael A,5662,17,android,dlikhten,8,53,32,dlikhten@gmail.com,jamnut
+AJ.,1490,13,c#,AJ,3,53,16,,testk
+James,33,0,inheritance,kchodorow,261,52,77,k.chodorow@gmail.com,hopkinsd
+James,2378,11,c#,kchodorow,261,52,77,k.chodorow@gmail.com,taansen
+James,21,0,eclipse,kchodorow,261,52,77,k.chodorow@gmail.com,joanbarrull
+James,39,1,sprite-kit,kchodorow,261,52,77,k.chodorow@gmail.com,gordondaily
+Oblomov,906,0,angular,Oblomov,34,52,62,,MattJ
+Xuerian,906,0,angular,Xuerian,5,52,27,,pete1
+kij,906,0,angular,kij,15,52,9,,britman
+rsimplicio,906,0,angular,rsimplicio,8,52,13,Robert@simplicio.com,mathoda
+ltackett,906,0,angular,ltackett,37,52,28,lorin.tackett@gmail.com,shermanl
+pk,906,0,angular,pk,27,52,7,pavel.kunc@gmail.com,fuenby
+Sebi,3712,142,c#,seb,10,52,8,,JerseyGuy
+Ashish Bansal,836,0,java,bansalakhil,17,52,61,bansalakhil30.10@gmail.com,minesh
+Steve,25,0,javascript,julienc,6,52,1,,sthapit
+Steve,563,1,r,julienc,6,52,1,,miggymarley
+famulus,906,0,angular,famulus,30,51,10,,roes
+lauri,906,0,angular,lauri,6,51,11,,akeserla
+danhixon,906,0,angular,danhixon,15,51,45,,cjmiyake
+stalcottsmith,906,0,angular,stalcottsmith,26,51,8,steve@aelogica.com,Carbon8Jim
+Kagemaru,906,0,angular,Kagemaru,8,51,26,,scottroth
+markpmiles,906,0,angular,markpmiles,3,51,10,mmiles2@gmail.com,hvammen
+josepgl,906,0,angular,josepgl,5,51,5,josepgl@gmail.com,semblance
+dim,906,0,angular,dim,101,51,69,dimitrij@blacksquaremedia.com,spy555
+Christian,195,0,flutter,noss,40,51,9,,davidlinyi
+Christian,209,0,html,noss,40,51,9,,iantimothy
+Jonathan Katzer,11,0,java,jkatz,54,51,39,,kmtrowbr
+Jonathan Katzer,11,0,java,jkatz,54,51,39,,fabiocpn
+SPG,11,0,java,professor,48,51,103,,Amar
+Alex,67,0,python,Ninju,17,50,40,,bwoolley
+Alex,178,0,python,Ninju,17,50,40,,dmitri-d
+Alex,73,2,c#,Ninju,17,50,40,,fpuelz
+Alex,553,45,mysql,Ninju,17,50,40,,errant
+Alex,1107,2,r,Ninju,17,50,40,,Ternary
+Alex,535,31,javascript,Ninju,17,50,40,,ttarzan
+Alex,43,0,python,Ninju,17,50,40,,Orcateers
+Alex,45,0,java,Ninju,17,50,40,,zzed
+Alex,26,1,python,Ninju,17,50,40,,nimamdb
+Alex,235,0,angular-material,Ninju,17,50,40,,githorde
+Alex,87,2,c#,Ninju,17,50,40,,nightst4r
+Alex,40284,294,python,Ninju,17,50,40,,dwalker
+Alex,40284,294,python,Ninju,17,50,40,,mmiika
+Alex,908,1,php,Ninju,17,50,40,,zsjoska
+Alex,908,1,php,Ninju,17,50,40,,ecuzzillo
+Alex,29,0,regex,Ninju,17,50,40,,tanz
+Alex,11,0,typescript,Ninju,17,50,40,,mjcaboose
+Alex,13,0,python,Ninju,17,50,40,,davidvoit
+Alex,9902,172,bash,Ninju,17,50,40,,delgado-xx
+Alex,23,0,python,Ninju,17,50,40,,Jimoid
+Alex,30546,64,git,Ninju,17,50,40,,Jihoon
+Alex,30546,64,git,Ninju,17,50,40,,xcoil
+Alex,143,0,python,Ninju,17,50,40,,plugisto
+Alex,143,0,python,Ninju,17,50,40,,sargshep
+Alex,11,0,binding,Ninju,17,50,40,,jamesiha
+Michael Bay,21,1,cuda,michaelbarton,127,50,58,mail@michaelbarton.me.uk,mmichael
+kodologist,906,0,angular,kodologist,4,50,11,,boazg
+shinems,906,0,angular,shinems,2,50,3,,saev
+krasio,906,0,angular,krasio,19,50,53,krasio@codingspree.net,dougf
+a2chub,906,0,angular,a2chub,38,50,36,,morgdx
+robinduckett,906,0,angular,robinduckett,32,50,82,,ahmed555
+John Glen,590,10,android,guenin,9,50,20,john@guen.in,IsaacsLab42
+akhavr,906,0,angular,akhavr,27,49,52,,Kelvin
+rollick,906,0,angular,rollick,8,49,123,,anikolaev
+aquabu,906,0,angular,aquabu,50,49,15,,fareign
+amaia,906,0,angular,amaia,61,49,29,amaia.castro@gmail.com,jndmp3
+schneckenschnabel,906,0,angular,schneckenschnabel,2,49,2,ageha666@gmail.com,lmagee
+sma,906,0,angular,sma,68,49,28,,nori
+jkelvie,906,0,angular,jkelvie,35,49,38,jpk@bespoken.io,nicolasbernard
+Scott Purtan,169,2,asp.net-mvc-3,spurton,27,49,24,,Eihiro
+chko,13,0,javascript,lowentropy,16,49,36,lowentropy@gmail.com,tonchik
+Michael A,5662,17,android,michaelee,46,49,13,lee@iit.edu,boxbeat
+Daniel,2429,127,c++,leemunroe,765,49,62,lee@leemunroe.com,eduuu
+Daniel,201,0,c++,leemunroe,765,49,62,lee@leemunroe.com,slay-mithos
+Daniel,12290,172,reactjs,leemunroe,765,49,62,lee@leemunroe.com,softbucket
+Daniel,2256,62,macos,leemunroe,765,49,62,lee@leemunroe.com,because
+Chris Simmons,1833,69,perl,ewilderj,207,49,24,,jcm
+Michael Mano,3224,41,laravel,michaelmelanson,21,49,49,michael@michaelmelanson.net,blixten
+David Ho,110,3,reactjs,dhowden,90,48,39,dhowden@gmail.com,nommy
+wisesumo,906,0,angular,wisesumo,17,48,25,,jrobbins
+anthony,906,0,angular,anthony,28,48,1,,Carroll
+ehedberg,906,0,angular,ehedberg,9,48,5,,mickele
+hagmonk,906,0,angular,hagmonk,11,48,43,,fbt-xx
+zeroedin,906,0,angular,zeroedin,14,48,43,steven.spriggs@gmail.com,tomekpin
+sokete,906,0,angular,sokete,9,48,1,,greennoah
+agenteo,906,0,angular,agenteo,33,48,47,,zacklyn
+Marcel,14318,62,c#,thata,25,48,72,,karthikeyan7585
+Daniel,2429,127,c++,dbeach,7,48,6,email@danielbeach.com,RailsAddict
+Daniel,201,0,c++,dbeach,7,48,6,email@danielbeach.com,raymorgan
+Daniel,12290,172,reactjs,dbeach,7,48,6,email@danielbeach.com,eb1024
+Daniel,2256,62,macos,dbeach,7,48,6,email@danielbeach.com,jaf
+Nathan Bernard,353,0,php,wwwjscom,16,48,53,jsoo@iit.edu,sxh
+Matthew G.,1258,11,c++,mjwillson,19,48,33,,rigagoogoo
+mcarlson,906,0,angular,mcarlson,17,47,19,,julesss
+wordGeek,906,0,angular,wordGeek,4,47,11,,aharper
+invisible,906,0,angular,invisible,1,47,1,,webtreehouse
+fhwang,906,0,angular,fhwang,105,47,66,,ivoencarnacao
+perlmunger,906,0,angular,perlmunger,45,47,66,matt@cimgf.com,Screwperman
+Matthew McEvoy,21,2,html,JeffStahler,5,47,15,,extraface
+Christopher Koziol,63,1,javascript,stolt45,26,47,32,stolt45@gmail.com,ike-xx
+ian,11613,616,ruby,lian,143,47,62,meta.rb@gmail.com,szhao
+Johnny,101,0,python,johnnyt,52,47,49,,teamtux
+Gabriel Garrett,1997,33,ios,jeffreybarke,22,47,41,,booleanman
+Mohammed,42,2,reactjs,welshdave,15,47,21,dave@dllewis.org,leifthande
+Alexander,63,0,javascript,wildchild,10,46,12,,ademcho
+Alexander,4265,1,r,wildchild,10,46,12,,RyDawg
+malept,906,0,angular,malept,163,46,198,,digant
+pjsawicki,906,0,angular,pjsawicki,8,46,22,,Tobu
+dwnoble,906,0,angular,dwnoble,32,46,24,dnoble / gmail / com,drazed
+simonmcc,906,0,angular,simonmcc,28,46,108,simon@mccartney.ie,NaTTs
+Dagon,85,0,postgresql,jinsoo,2,46,16,virtalf@gmail.com,Ossi
+Christopher,1,0,uml,eze1981,3,46,20,,sonny
+Christopher,3329,30,laravel,eze1981,3,46,20,,soylentfoo
+Chris Jones,2510,5,powershell,arthurc,3,46,43,,pwkoolj
+Christopher Causer,1184,0,tabs,cmaujean,16,46,48,christopher@maujean.org,markofkin
+Alexey,306,1,java,sanders,10,46,48,,KiWiB0RG
+Alexey,306,1,java,sanders,10,46,48,,Sputz
+Michael Bay,21,1,cuda,sudothinker,25,45,35,sudothinker@gmail.com,scudco
+mrichardson03,906,0,angular,mrichardson03,24,45,5,mrichardson03@gmail.com,alvarocamba
+dche,906,0,angular,dche,9,45,15,chekenan@gmail.com,ttyerl
+tatum,906,0,angular,tatum,7,45,3,,itzsuresh
+mattsoldo,906,0,angular,mattsoldo,22,45,46,,markpagna
+al,906,0,angular,al,13,45,33,alan.larkin@gmail.com,lownoiseamp
+dbravender,906,0,angular,dbravender,44,45,86,,alokjain1
+dirceu,906,0,angular,dirceu,54,45,60,dirceutiegs@gmail.com,rusty0606
+Patrik,43,0,pandas,lifo,599,45,17,pratiknaik@gmail.com,petrov
+haruska,906,0,angular,haruska,38,44,17,,bigboxsoftware
+unpush,906,0,angular,unpush,11,44,16,,prometheusxx
+pedrofaria,906,0,angular,pedrofaria,28,44,26,,arnie
+m0wfo,906,0,angular,m0wfo,38,44,103,,GarrettMoore
+louiemiranda,906,0,angular,louiemiranda,4,44,102,,aftosmis
+dpino,906,0,angular,dpino,55,44,80,,ACoolie
+mellon85,906,0,angular,mellon85,13,44,51,dario.meloni@datadoghq.com,idm
+Carlos,11,0,sql-server,imathis,885,44,54,brandon@imathis.com,torstenschuenemann
+David Leal,1517,26,r,ramsesoriginal,10,44,25,ramsesoriginal@gmail.com,ukalo
+Supreet Singh,85,0,go,emenel,19,44,6,mattnl@gmail.com,bsunarjo
+David,1,0,c#,everycopy,16,43,10,,aiqbal
+David,37,0,c,everycopy,16,43,10,,pbacgrad
+David,313,5,reactjs,everycopy,16,43,10,,robotButler
+David,3964,1,javascript,everycopy,16,43,10,,notor
+David,3964,1,javascript,everycopy,16,43,10,,martinevans
+David,2185,8,android-studio,everycopy,16,43,10,,ds
+David,2285,22,python,everycopy,16,43,10,,wparsons
+DrStrngeluv,906,0,angular,DrStrngeluv,1,43,1,,monjaro
+daniel-kun,906,0,angular,daniel-kun,15,43,43,d.albuschat@gmail.com,turbonaduv
+skywill,906,0,angular,skywill,2,43,2,,kinkydarkbird
+sudharsh,906,0,angular,sudharsh,9,43,31,,Zimran
+spider-network,906,0,angular,spider-network,6,43,15,michael@voigt-mail.de,mehulshah
+bryantsai,906,0,angular,bryantsai,5,43,39,,maskota
+Michael Dugas,65,0,php,mikedouglas,10,43,35,git@entropy.io,feniks2003
+Andrew M,341,0,sql,Jud,18,43,45,,pizgin
+Alexandre Gomes,17,0,html,arijo,17,43,11,alexandre.rijo@gmail.com,tfbarrett1981
+Nikhil Suthar,2042,76,apache-spark,fran,34,42,26,franciscojseva@gmail.com,E-xact
+cola-zero,906,0,angular,cola-zero,14,42,31,colazero0@gmail.com,luciano-zz
+tih-ra,906,0,angular,tih-ra,14,42,53,andriy.bazyuta@gmail.com,jjune001
+Noel Dulin,165,0,cypress,mbadran,5,42,5,mebadran@gmail.com,afrojas
+Nick,2060,2,javascript,arton,55,41,39,artonx@yahoo.co.jp,OhOhWonOne
+Nick,61,0,android,arton,55,41,39,artonx@yahoo.co.jp,gitter
+Nick,29,0,scala,arton,55,41,39,artonx@yahoo.co.jp,xeon
+Nick,717,3,excel,arton,55,41,39,artonx@yahoo.co.jp,clempro
+Nick,2950,56,ruby-on-rails,arton,55,41,39,artonx@yahoo.co.jp,blueguru
+Nick,128,2,python,arton,55,41,39,artonx@yahoo.co.jp,vborja
+hank,906,0,angular,hank,50,41,97,hank@jointsecurityarea.org,zaratustra
+yenif,906,0,angular,yenif,7,41,27,bri@nfinney.com,edlenox
+yoshuki,906,0,angular,yoshuki,32,41,27,yoshuki@saikyoline.jp,valyana
+hwork,906,0,angular,hwork,30,41,17,,picnichouse
+Thibaut,906,0,angular,Thibaut,782,41,10,thibaut@me.com,lego0505
+Stefano,187,0,android,stefano,30,41,25,,primmer
+Mark R,711,1,r,mreid,91,40,24,,papasi
+thejohnny,906,0,angular,thejohnny,19,40,19,,lunarsway
+kobak,906,0,angular,kobak,3,40,9,,bkirsch
+chrismcclelland,906,0,angular,chrismcclelland,20,40,3,,ggarbern
+antonrogov,906,0,angular,antonrogov,19,40,34,,sefner
+dottedmag,906,0,angular,dottedmag,69,40,36,dottedmag@dottedmag.net,Yves-xx
+mpearce,906,0,angular,mpearce,13,40,11,,cristiantacchi
+ajaeger,906,0,angular,ajaeger,63,40,13,,eLmatador
+sachinjsk,906,0,angular,sachinjsk,10,40,18,,testapi11
+Mario,177,0,html,dariobig,4,40,18,,dboswell
+Mario,1136,23,python,dariobig,4,40,18,,AdrianM
+VicenteC,369,6,django,hisasue,3,40,8,,itirksme
+Abitya Chada,3782,84,apigee,aditya,32,39,15,achadha@glgroup.com,monkpow
+Anthony,41,0,javascript,jthoenes,46,39,9,,hebrewhammer
+Anthony,1603,24,c#,jthoenes,46,39,9,,mjb
+esteil,906,0,angular,esteil,4,39,18,,slusnys
+ThisOldCoder,906,0,angular,ThisOldCoder,3,39,16,,Verequus
+mooto,906,0,angular,mooto,2,39,8,,davidbarral
+srizzo,906,0,angular,srizzo,11,39,45,rizzolabs@gmail.com,MaxLutterbeck
+odorcicd,906,0,angular,odorcicd,24,39,18,denis.odorcic@gmail.com,philsmirnov
+deanh,906,0,angular,deanh,24,39,41,,jramirez00
+Ben,631,0,postgresql,benburdick,1,39,1,,matthanlon
+Ben,21,0,puppeteer,benburdick,1,39,1,,tore
+Ben,807,0,c#,benburdick,1,39,1,,keith74
+Ben,18321,161,r,benburdick,1,39,1,,twood
+Ben,2483,48,javascript,benburdick,1,39,1,,egenial
+Ben,333,9,javascript,benburdick,1,39,1,,ircat
+Ben,976,9,postgresql,benburdick,1,39,1,,per
+Ben,480,0,angular,benburdick,1,39,1,,manyoso
+Kenneth Miller,83,2,javascript,kemiller,29,39,33,,chadh
+Ryan Daniels,25,0,c#,drbrain,554,39,125,drbrain@segment7.net,thunder75
+Michael Bay,21,1,cuda,kotas,38,38,16,kotas.nico@gmail.com,dojosp
+NicolasP,906,0,angular,NicolasP,2,38,7,,selva
+cjsanders,906,0,angular,cjsanders,8,38,3,,lizbaron
+daicoden,906,0,angular,daicoden,13,38,50,daicoden@copypastel.com,mlaks
+caktux,906,0,angular,caktux,154,38,65,,hamid-baghi
+ck_,3335,5,javascript,ck,20,38,53,ckatgithub@gmail.com,SteveDelbar
+Ryan,689,1,java,ryanw,18,38,21,git@ryan.nz,janin
+Ryan,660,6,firebase,ryanw,18,38,21,git@ryan.nz,miguelvall
+Ryan,433,0,android,ryanw,18,38,21,git@ryan.nz,jgleason
+Ryan,73,2,html,ryanw,18,38,21,git@ryan.nz,workstation
+Ryan,87,0,sql,ryanw,18,38,21,git@ryan.nz,BluntBox
+Stephan,457,0,kubernetes,spike,9,38,32,,laisladencanta
+Neil,7579,160,javascript,ajn,8,37,21,,songbirdtyler
+Chris,21,0,airflow,heisee,6,37,10,,drongo
+Chris,25936,730,asp.net,heisee,6,37,10,,gtlabs
+Chris,1347,3,iphone,heisee,6,37,10,,florian-zz
+Chris,21,0,blazor-server-side,heisee,6,37,10,,nealk3nc
+Chris,13,0,html,heisee,6,37,10,,72photos
+Chris,35,0,c#,heisee,6,37,10,,restlest
+Chris,775,5,c#,heisee,6,37,10,,sakurada
+Chris,1291,26,flutter,heisee,6,37,10,,haeru
+Chris,244,6,macos,heisee,6,37,10,,bt4y
+Chris,43,0,c#,heisee,6,37,10,,malindhorst
+Chris,769,1,jquery,heisee,6,37,10,,adamchronister
+Chris,3953,69,laravel,heisee,6,37,10,,expathos
+Chris,547,8,postgresql,heisee,6,37,10,,elaineoc
+Chris,13,0,python,heisee,6,37,10,,sworoc
+Chris,25945,170,c#,heisee,6,37,10,,mamira
+nis,906,0,angular,nis,5,37,34,,duxzitta
+app,906,0,angular,app,17,37,65,,sansnoc
+anfedorov,906,0,angular,anfedorov,53,37,69,me@anfedorov.com,hss
+phildarnowsky,906,0,angular,phildarnowsky,10,37,42,,dtsdts2323
+jomue,906,0,angular,jomue,4,37,9,,vaseline28
+rajeev,906,0,angular,rajeev,8,37,17,,Tatoun
+shallwelin,906,0,angular,shallwelin,3,37,1,,jmasinter
+david weng,156,6,flutter,timanglade,135,37,2,timanglade@gmail.com,kdough
+Robin,23,0,ansible,robins,13,36,39,tharakan@gmail.com,paulstay
+Robin,71,0,python,robins,13,36,39,tharakan@gmail.com,mariadosantos
+jonaphin,906,0,angular,jonaphin,8,36,52,,jankur
+quannon,906,0,angular,quannon,1,36,1,,pedernofsky
+sjlombardo,906,0,angular,sjlombardo,56,36,22,sjlombardo@zetetic.net,sitaram
+voxik,906,0,angular,voxik,27,36,200,,ratnavel123
+innis,906,0,angular,innis,4,36,12,inniskun@gmail.com,nhillyer
+Michael Johansen,4140,118,javascript,mikejones,27,36,16,michael.daniel.jones@gmail.com,borbyu
+Jimin Park,35,0,java,bigsur0,8,36,11,,afmfreelance
+Ivan,31,0,security,san,3,35,21,aamir.naqib@gmail.com,TeKRunneR
+Ivan,73,0,python,san,3,35,21,aamir.naqib@gmail.com,themiller
+Ivan,6974,1,c++,san,3,35,21,aamir.naqib@gmail.com,danielnola
+James,33,0,inheritance,maxx,8,35,37,,helloyou
+James,2378,11,c#,maxx,8,35,37,,demiurge
+James,21,0,eclipse,maxx,8,35,37,,rudenko
+James,39,1,sprite-kit,maxx,8,35,37,,k-n
+Thor Christensen,3,0,reactjs,mathieu,14,35,53,mathieu@marache.com,lucatironi
+reynhout,906,0,angular,reynhout,51,35,15,,mcintosh
+planetbeing,906,0,angular,planetbeing,802,35,49,,dksaarth
+mop,906,0,angular,mop,8,35,31,,geofftso
+arcticleo,906,0,angular,arcticleo,20,35,36,medlund@mac.com,zord
+eggy,906,0,angular,eggy,10,35,14,eggy@eggy.cc,neo-xx
+jwigal,906,0,angular,jwigal,7,35,31,jeff@assignr.com,drford
+botandrose,906,0,angular,botandrose,30,35,118,originofstorms@gmail.com,ffahs
+Milan,1195,17,visual-studio-code,milan,11,35,31,,pakcusoft
+Davide,81,3,python,dlee,34,35,39,,tohki
+Vlad,21,0,css,mikeclowe,2,35,7,,maru35s
+Vlad,10106,654,python,mikeclowe,2,35,7,,errfree
+Robert,303,4,selenium,robzon,6,34,2,,joe
+Robert,13,0,pyspark,robzon,6,34,2,,perpet
+Robert,55,0,if-statement,robzon,6,34,2,,GLXSeries
+Robert,11,0,javascript,robzon,6,34,2,,liebling
+Robert,23,0,javascript,robzon,6,34,2,,jackliddle
+bitshape,906,0,angular,bitshape,26,34,10,,seano288
+nonsequitur,906,0,angular,nonsequitur,52,34,41,,mtsuruta
+kurtjx,906,0,angular,kurtjx,29,34,13,,cjsmessaert
+jeng,906,0,angular,jeng,15,34,14,jhe@jeremyenglish.org,jkit
+chrisjpowers,906,0,angular,chrisjpowers,75,34,37,chrisjpowers@gmail.com,mauve928
+austinrfnd,906,0,angular,austinrfnd,26,34,57,austinrf@gmail.com,usman
+stephenb,906,0,angular,stephenb,16,34,16,,davidwoodhouse
+David Sargrad,91,3,kubernetes,digitalronin,29,34,175,,ellinghaus
+Alexander,63,0,javascript,Silex,54,33,102,,fitz
+Alexander,4265,1,r,Silex,54,33,102,,shodZ
+xevo,906,0,angular,xevo,4,33,22,,bdecrem
+xentac,906,0,angular,xentac,11,33,36,,rmorrell
+Timonn,906,0,angular,Timonn,2,33,1,,FloTuEuR
+jeffxu,906,0,angular,jeffxu,9,33,10,xtigerj@gmail.com,crazoid
+Jazzatola,906,0,angular,Jazzatola,12,33,5,,blandest
+rvoogdgeert,906,0,angular,rvoogdgeert,4,33,1,rvoogdgeert@gmail.com,daxpayne
+joeyh,906,0,angular,joeyh,409,33,4,git@joeyh.name,ALexanderLonsky
+catalanska,906,0,angular,catalanska,9,33,11,javier.jimenez.villarreal@gmail.com,FiReMaGe
+nonnax,906,0,angular,nonnax,2,33,88,ironald@gmail.com,mgeimer
+James Green,145,6,amazon-cloudformation,nogeek,55,33,11,,rion
+Carl,189,0,python-3.x,fixedd,13,33,15,,rander
+Carl,263,0,r,fixedd,13,33,15,,jareCare
+Daniel Fabre,33,0,material-ui,dcparker,51,33,33,dcparker@gmail.com,reversemerman
+Daniel Fabre,33,0,typescript,dcparker,51,33,33,dcparker@gmail.com,Brandhor
+HerbCSO,906,0,angular,HerbCSO,4,32,35,herb@earthling.net,simianstyle
+bdonlan,906,0,angular,bdonlan,24,32,40,,kaidenvo
+danpreston,906,0,angular,danpreston,4,32,2,goober2@mac.com,reval
+xupisco,906,0,angular,xupisco,26,32,44,leandro@voltolino.com,johnt
+synth,906,0,angular,synth,24,32,45,peter@planet.io,endrick-duplicate
+bernardo,906,0,angular,bernardo,10,32,13,berpasan@gmail.com,endrick
+adk9,906,0,angular,adk9,12,32,69,,Dearon
+fadec,906,0,angular,fadec,3,32,5,,nhe
+jackhong,906,0,angular,jackhong,6,32,24,jackhongx@gmail.com,urbandirtbag
+gjhiggins,906,0,angular,gjhiggins,71,32,29,,superpeixeboi
+thatonejason,906,0,angular,thatonejason,13,32,26,,rogovskiy
+gust,758,12,python,nay,86,32,21,,poteri
+Christian ,47,1,apache-beam,cmager,5,32,10,christian.mager@helloguest.com,Phoemuex
+Stephen Wong,81,0,python,quigebo,19,32,9,,gbesch
+Adnan Ali,2700,19,ruby,joemoore,28,32,20,,diegopolo
+Jon,1456,0,wcf,taktak,6,31,4,,khaosduke
+Jon,379,1,marklogic,taktak,6,31,4,,harish
+emilevdb,906,0,angular,emilevdb,4,31,1,,carlsi
+jkalucki,906,0,angular,jkalucki,28,31,3,,chuonthis
+turker,906,0,angular,turker,1,31,10,,willvr
+gbenatti,906,0,angular,gbenatti,25,31,22,gbenatti@gmail.com,jolly-zz
+monmon,906,0,angular,monmon,18,31,46,,steveaba
+styledev,906,0,angular,styledev,12,31,13,Dewey.Bushaw@parapxl.com,kiff100
+maimuzo,906,0,angular,maimuzo,5,31,35,,callumbaillie
+zlite,906,0,angular,zlite,171,31,72,,sanswork
+Sash,1,0,ansible,ahamx,8,31,1,satish@betterlabs.net,DeeJay
+Hassan Malik,537,1,ios,hasham2,25,31,35,hasham2@gmail.com,ografael
+Brian Barry,361,0,javascript,bakineggs,23,31,22,dan@bakineggs.com,tayohei
+kawa,111,1,reactjs,hooleyhoop,12,31,13,,stormer
+Chris Rose,15,0,javascript,chrisroos,40,31,69,chris@seagul.co.uk,bthendricks
+Joseph Darton,43,0,json,joseph,85,30,19,,appleswim1
+bdelacey,906,0,angular,bdelacey,2,30,16,,mind-zz
+alleylab,906,0,angular,alleylab,2,30,1,,vitadewi
+jemmons,906,0,angular,jemmons,49,30,52,,radishs
+Tamer,906,0,angular,Tamer,11,30,3,,futileohm
+anbu subramanian,43,0,python,prabhu,67,30,81,prabhu@ngcloud.io,sarpulhu
+Robert Wismet,11,0,javascript,siraj,17,30,110,siraj@plexydesk.com,theaxion
+Chris Rose,15,0,javascript,bordy,5,30,7,christopher.rohde@gmail.com,ronniemuhadi
+Naina,11,0,environment-variables,na9da,22,29,25,,jamesmiller
+GFunk911,906,0,angular,GFunk911,3,29,20,,lievenvanderheide
+masklinn,906,0,angular,masklinn,7,29,44,,abramcookson
+vidriloco,906,0,angular,vidriloco,8,29,51,vidriloco@gmail.com,ebald
+ctsimpson,906,0,angular,ctsimpson,2,29,30,ctsimpson@gmail.com,nabinrs
+hellonico,906,0,angular,hellonico,52,29,191,hellonico@gmail.com,koko
+akr,906,0,angular,akr,175,29,51,,jhaemer
+ingmar,906,0,angular,ingmar,6,29,15,,dbraziel
+noahlt,906,0,angular,noahlt,47,29,41,hi@noahtye.com,hides
+pritchie,906,0,angular,pritchie,7,29,15,,wafa
+markustripp,906,0,angular,markustripp,9,29,13,markus@mext.at,paulomonteiro
+wilsondealmeida,906,0,angular,wilsondealmeida,20,29,1,wilsondealmeida@gmail.com,shagstaphone
+Jason,14598,67,html,riopro,6,29,9,,jgaleano
+Jason,51,0,python,riopro,6,29,9,,houstonn
+Christian ,47,1,apache-beam,ctrlaltdel,49,29,110,francois@ctrlaltdel.ch,kaasu
+Shane Powell,49,0,lua,dpowell,8,29,17,dan@abakas.com,heldercorreia
+v3rb0,906,0,angular,v3rb0,4,28,1,,Instrument
+slime73,906,0,angular,slime73,125,28,25,slime73@gmail.com,mir
+moniker,906,0,angular,moniker,4,28,4,,jdiepenmaat
+excentric,906,0,angular,excentric,8,28,10,,mattkammersell
+AnnoyedPlatypus,906,0,angular,AnnoyedPlatypus,2,28,10,,rightclearing
+jarrod,906,0,angular,jarrod,5,28,3,,uniglam
+juafrlo,906,0,angular,juafrlo,12,28,10,juafrlo@gmail.ccom,edaugherty
+dneff,906,0,angular,dneff,3,28,11,dan@neff.cc,jurgen
+imrabti,906,0,angular,imrabti,21,28,27,,shabs
+loganb,906,0,angular,loganb,21,28,29,logan@datacurrent.com,github
+ok-zz,906,0,angular,ok-zz,15,28,12,,esofomuso
+Sha,671,0,java,xeonchen,24,28,35,xeonchen@gmail.com,front-end
+Arpit Jai,151,0,flutter,jamesdouma,11,28,29,,himi
+Bharth,40,0,python,hongtaolee,20,28,24,,elevation
+Anto,867,36,android,gonzalosr,11,28,16,gonzalo@gonzalosr.com,regetz
+Anto,4167,31,java,gonzalosr,11,28,16,gonzalo@gonzalosr.com,bretm
+Colby Johnson,23,0,google-apps-script,momesana,12,28,35,momesana@gmail.com,neno
+Joe,119084,7425,c#,cpettitt,214,27,31,cpettitt@gmail.com,scotty
+Joe,141,0,python,cpettitt,214,27,31,cpettitt@gmail.com,himitsu
+Joe,203,0,spring-boot-test,cpettitt,214,27,31,cpettitt@gmail.com,bauersman
+Joe,4263,62,c++,cpettitt,214,27,31,cpettitt@gmail.com,Auroness
+Joe,151,0,python,cpettitt,214,27,31,cpettitt@gmail.com,Stephan
+Chris,21,0,airflow,chriscorrea,6,27,18,,asari
+Chris,25936,730,asp.net,chriscorrea,6,27,18,,sapo
+Chris,1347,3,iphone,chriscorrea,6,27,18,,alipanick
+Chris,21,0,blazor-server-side,chriscorrea,6,27,18,,secondrotation
+Chris,13,0,html,chriscorrea,6,27,18,,glennswanson
+Chris,35,0,c#,chriscorrea,6,27,18,,compaqbob
+Chris,775,5,c#,chriscorrea,6,27,18,,benwalsh
+Chris,1291,26,flutter,chriscorrea,6,27,18,,joshmerchant
+Chris,244,6,macos,chriscorrea,6,27,18,,amcmanus
+Chris,43,0,c#,chriscorrea,6,27,18,,reddit
+Chris,769,1,jquery,chriscorrea,6,27,18,,dwebb
+Chris,3953,69,laravel,chriscorrea,6,27,18,,Binaryzero
+Chris,547,8,postgresql,chriscorrea,6,27,18,,andr3w
+Chris,13,0,python,chriscorrea,6,27,18,,invisible-hand
+Chris,25945,170,c#,chriscorrea,6,27,18,,platform45
+Saran,236,0,tcl,bradx3,14,27,20,brad@lucky-dip.net,jannostern
+femto,906,0,angular,femto,14,27,189,,Khan
+tobbez,906,0,angular,tobbez,30,27,89,tobbez@ryara.net,goajunior
+onishi,906,0,angular,onishi,62,27,22,onishi@hatena.ne.jp,Kellokes
+magicseth,906,0,angular,magicseth,18,27,26,,pac
+glasserc,906,0,angular,glasserc,60,27,66,,doublethrow
+ngrandy,906,0,angular,ngrandy,12,27,1,,amackay11
+Juan,106,4,javascript,jmarkbrooks,5,27,24,j.mark.brooks@gmail.com,ajackson
+Alvin,7899,12,c#,lamielle,23,27,42,,rakoch
+Brian,10621,68,amazon-web-services,willbryant,40,27,43,will.bryant@gmail.com,priyendra
+Brian,25,0,html,willbryant,40,27,43,will.bryant@gmail.com,AncaU
+George Mauer,112747,487,c#,georgepalmer,39,27,28,,dud
+GileBrt,1800,0,python,5ven,2,27,2,sven@svenkauber.com,simplificator
+Faisal Jawad,1,3,server-side-rendering,faisal,25,27,22,,sjbyl
+Chris,21,0,airflow,grischoun,17,26,15,,ullmann
+Chris,25936,730,asp.net,grischoun,17,26,15,,herle88
+Chris,1347,3,iphone,grischoun,17,26,15,,morne
+Chris,21,0,blazor-server-side,grischoun,17,26,15,,ljulliar
+Chris,13,0,html,grischoun,17,26,15,,alexandrandronescu
+Chris,35,0,c#,grischoun,17,26,15,,lucidnz
+Chris,775,5,c#,grischoun,17,26,15,,howardkao
+Chris,1291,26,flutter,grischoun,17,26,15,,acknet
+Chris,244,6,macos,grischoun,17,26,15,,marcvandort
+Chris,43,0,c#,grischoun,17,26,15,,thenonsequitur
+Chris,769,1,jquery,grischoun,17,26,15,,matzbar
+Chris,3953,69,laravel,grischoun,17,26,15,,trisignia
+Chris,547,8,postgresql,grischoun,17,26,15,,LewisW
+Chris,13,0,python,grischoun,17,26,15,,priimak
+Chris,25945,170,c#,grischoun,17,26,15,,tfasciana
+haikuwebdev,906,0,angular,haikuwebdev,9,26,6,tjstankus+haikuwebdev@gmail.com,error
+osuGrad,906,0,angular,osuGrad,2,26,34,,error
+bigblue,906,0,angular,bigblue,2,26,35,,error
+tonybo,906,0,angular,tonybo,2,26,4,,error
+drewwilson,906,0,angular,drewwilson,425,26,9,,error
+christiankn,906,0,angular,christiankn,9,26,1,,error
+kevTheDev,906,0,angular,kevTheDev,13,26,62,kev.j.edwards@gmail.com,error
+thegeekinside,906,0,angular,thegeekinside,30,26,58,thegeekinside@gmail.com,error
+hiphoox,906,0,angular,hiphoox,191,26,63,norberto@bunsan.io,error
+brong,906,0,angular,brong,60,26,45,brong@fastmailteam.com,error
+IslandUsurper,906,0,angular,IslandUsurper,10,26,49,lyle@menteeth.us,error
+Alan,1235,0,objective-c,altano,39,26,20,altano@gmail.com,Alan
+Alan,98,0,javascript,altano,39,26,20,altano@gmail.com,Alan
+Alan,10058,567,twilio,altano,39,26,20,altano@gmail.com,Alan
+skid,912,3,angular,jannschu,13,26,34,,skid
+Tim Kirkwood,404,3,python,xilo32,4,26,1,adamk@xilo32.com,Tim Kirkwood
+Christian ,47,1,apache-beam,lordscarlet,29,26,15,,Christian 
+Alexey Nikonov,4070,130,javascript,voins,29,26,11,,Alexey Nikonov
+Sean William,373,5,python,redpig,21,26,17,redpig@dataspill.org,Sean William
+Tom,15113,0,visual-studio,dreeve,61,25,3,,Tom
+Tom,285,4,python,dreeve,61,25,3,,Tom
+Tom,1233,0,c#,dreeve,61,25,3,,Tom
+Tom,2453,47,symfony,dreeve,61,25,3,,Tom
+Tom,6736,314,c++,dreeve,61,25,3,,Tom
+Tom,63,0,node.js,dreeve,61,25,3,,Tom
+Tom,6768,0,asp.net,dreeve,61,25,3,,Tom
+Tom,153,10,android-studio,dreeve,61,25,3,,Tom
+David Ho,110,3,reactjs,Madrox,17,25,15,david@d8a.me,David Ho
+Imbrondir,906,0,angular,Imbrondir,3,25,1,,error
+mnshah,906,0,angular,mnshah,15,25,7,,error
+piotrb,906,0,angular,piotrb,9,25,59,piotr.banasik@gmail.com,error
+xymbol,906,0,angular,xymbol,59,25,53,adrian@mugnolo.com,error
+bonaldi,906,0,angular,bonaldi,5,25,8,,error
+Noobidoo,906,0,angular,Noobidoo,6,25,24,,error
+Dean Hiller,18346,139,gradle,benhiller,75,25,15,benhiller@gmail.com,Dean Hiller
+Justin Grant,43327,700,sql-server,justingrammens,30,25,31,justin@localtone.com,Justin Grant
+Justin Grant,43327,698,sql-server,justingrammens,30,25,31,justin@localtone.com,Justin Grant
+Gaaaaaab,99,0,python,bdeterling,11,25,24,brian.deterling@gmail.com,Gaaaaaab
+Michael Bay,21,1,cuda,taasaa,12,24,19,taasaa@gmail.com,Michael Bay
+SebastianK,1,0,regexp-replace,seydar,15,24,19,ari@aribrown.com,SebastianK
+Steven Lu,39641,234,macos,dt,71,24,61,,Steven Lu
+type11error,906,0,angular,type11error,6,24,13,,error
+skorgu,906,0,angular,skorgu,6,24,7,skorgu@gmail.com,error
+zond,906,0,angular,zond,148,24,105,,error
+hellvinz,906,0,angular,hellvinz,18,24,23,hellvinz@fuzzycom.eu,error
+alexananiev,906,0,angular,alexananiev,4,24,7,,error
+alexis,906,0,angular,alexis,13,24,19,alexey.smolianinov@toptal.com,error
+kidbrax,906,0,angular,kidbrax,14,24,32,,error
+soulplant,906,0,angular,soulplant,10,24,59,soulplant@gmail.com,error
+PeterBe,494,0,python,PeterBell,306,24,6,,PeterBe
+Will,166,14,python,AKuznetsov,19,24,3,alexander.a.kuznetsov@gmail.com,Will
+Will,1301,6,linux,AKuznetsov,19,24,3,alexander.a.kuznetsov@gmail.com,Will
+Will,662,16,r,AKuznetsov,19,24,3,alexander.a.kuznetsov@gmail.com,Will
+Will,835,29,r,AKuznetsov,19,24,3,alexander.a.kuznetsov@gmail.com,Will
+Jeff Coe,422,6,chef-infra,JeffCohen,134,23,84,cohen.jeff@gmail.com,Jeff Coe
+gwynm,906,0,angular,gwynm,12,23,31,,error
+ylh888,906,0,angular,ylh888,7,23,28,,error
+stereotype,906,0,angular,stereotype,14,23,8,leo@sierek.com,error
+granchi,906,0,angular,granchi,2,23,2,,error
+wickline,906,0,angular,wickline,18,23,5,,error
+imnotpete,906,0,angular,imnotpete,4,23,13,sam@imnotpete.com,error
+avand,906,0,angular,avand,70,23,36,avand@avandamiri.com,error
+rle,906,0,angular,rle,3,23,13,,error
+mazzer,906,0,angular,mazzer,4,23,10,mikko@hey.com,error
+edas,906,0,angular,edas,86,23,40,,error
+bradgignac,906,0,angular,bradgignac,72,23,68,bgignac@bradgignac.com,error
+mosta,906,0,angular,mosta,19,23,12,,error
+Marcelee,1,0,java,paddyredbeard,6,23,12,,Marcelee
+Jason,14598,67,html,armooo,40,23,47,armooo@armooo.net,Jason
+Jason,51,0,python,armooo,40,23,47,armooo@armooo.net,Jason
+Daniel Pop,351,0,java,tohchye,10,23,15,tohchye@gmail.com,Daniel Pop
+Gary,1766,4,javascript,garru,76,23,17,,Gary
+Daniel W,44,1,lua,danielwanja,32,23,27,,Daniel W
+Christopher Causer,1184,0,tabs,gianni,7,23,11,,Christopher Causer
+Ilya Y,695,6,java,ilya,127,23,9,,Ilya Y
+Gaurav Mehra,439,6,php,gauravs,18,22,5,,Gaurav Mehra
+svesely,906,0,angular,svesely,9,22,9,,error
+caio,906,0,angular,caio,80,22,27,,error
+joshutt,906,0,angular,joshutt,2,22,21,,error
+rdrainville,906,0,angular,rdrainville,7,22,1,ray.drainville@gmail.com,error
+okada,906,0,angular,okada,2,22,1,,error
+adrianpacala,906,0,angular,adrianpacala,17,22,1,adrianlukaszpacala@gmail.com,error
+jjabez,906,0,angular,jjabez,4,22,1,,error
+giddie,906,0,angular,giddie,7,22,17,pdgiddie@gmail.com,error
+darrell,906,0,angular,darrell,23,22,28,,error
+jamesking,906,0,angular,jamesking,5,22,6,,error
+krist0ff,906,0,angular,krist0ff,23,22,5,,error
+andrewbadera,906,0,angular,andrewbadera,3,22,11,,error
+hherzog,906,0,angular,hherzog,2,22,1,,error
+tsyd,906,0,angular,tsyd,13,22,2,,error
+victorr,906,0,angular,victorr,4,22,5,victor524287@gmail.com,error
+secos,906,0,angular,secos,28,22,6,,error
+lritter,906,0,angular,lritter,7,22,30,,error
+sindhri,906,0,angular,sindhri,10,22,56,jiawu.jw@gmail.com,error
+rhesus,906,0,angular,rhesus,3,22,4,,error
+Dave,15684,14,junit,josevalim,13079,22,28,jose.valim@dashbit.co,Dave
+David Leal,1517,26,r,david,55,22,10,,David Leal
+Chris Jones,2510,5,powershell,s01ipsist,7,22,23,sam.giffney@readytech.io,Chris Jones
+Peter Penzov,2284,15,java,CrazyPit,4,22,10,,Peter Penzov
+Richard Hu,659,11,android,rhult,17,22,24,,Richard Hu
+Jed,237,0,date,mnemonicsloth,2,21,7,mnemonicsloth@gmail.com,Jed
+niick,906,0,angular,niick,7,21,13,,error
+jrray,906,0,angular,jrray,4,21,15,,error
+patrikf,906,0,angular,patrikf,20,21,9,patrik@fimml.at,error
+zsolt,906,0,angular,zsolt,6,21,1,,error
+augustjoki,906,0,angular,augustjoki,42,21,14,,error
+rughetto,906,0,angular,rughetto,2,21,12,,error
+mbsullivan,906,0,angular,mbsullivan,2,21,7,,error
+kebabmane,906,0,angular,kebabmane,5,21,34,,error
+jgp,906,0,angular,jgp,6,21,9,,error
+erikhansson,906,0,angular,erikhansson,2,21,7,erik@bits2life.com,error
+cederberg,906,0,angular,cederberg,42,21,9,cederberg@gmail.com,error
+hegjon,906,0,angular,hegjon,10,21,48,hegjon@gmail.com,error
+smugx,906,0,angular,smugx,4,21,2,,error
+derrick,906,0,angular,derrick,14,21,14,,error
+taw,906,0,angular,taw,133,21,231,,error
+Christopher,1,0,uml,pjenvey,88,21,48,,Christopher
+Christopher,3329,30,laravel,pjenvey,88,21,48,,Christopher
+Carlos,11,0,sql-server,quix,21,21,20,quixoticsycophant@gmail.com,Carlos
+davin,11,0,python,TylerOderkirk,8,20,13,,davin
+Patrick Kenny,2466,0,git,patcheung,5,20,3,pat@patcheung.com,Patrick Kenny
+Ivan,31,0,security,lithium,12,20,73,,Ivan
+Ivan,73,0,python,lithium,12,20,73,,Ivan
+Ivan,6974,1,c++,lithium,12,20,73,,Ivan
+Francis P,12857,767,sql,paxed,33,20,21,,Francis P
+Brandon Kauffman,1074,5,go,bhauff,3,20,12,bhauff@gmail.com,Brandon Kauffman
+v15h,906,0,angular,v15h,4,20,12,,error
+jgagne33,906,0,angular,jgagne33,11,20,11,,error
+blj,906,0,angular,blj,6,20,20,,error
+wemerson,906,0,angular,wemerson,1,20,15,,error
+acgourley,906,0,angular,acgourley,9,20,16,,error
+damg,906,0,angular,damg,2,20,18,,error
+dazuma,906,0,angular,dazuma,304,20,85,dazuma@gmail.com,error
+fmreal,906,0,angular,fmreal,12,20,10,fmreal@gmail.com,error
+lazee,906,0,angular,lazee,17,20,21,,error
+Alshie,906,0,angular,Alshie,4,20,26,alan@ginsoaked.com,error
+jasongalvin,906,0,angular,jasongalvin,12,20,12,,error
+jkhoogland,906,0,angular,jkhoogland,6,20,147,,error
+drothlis,906,0,angular,drothlis,46,20,33,david@stb-tester.com,error
+guydavis,906,0,angular,guydavis,36,20,25,guydavis.ca@gmail.com,error
+PavelNartov,906,0,angular,PavelNartov,5,20,27,pnartov@gmail.com,error
+jessevdk,906,0,angular,jessevdk,119,20,37,jessevdk@gmail.com,error
+ElPicador,906,0,angular,ElPicador,38,20,75,,error
+VicenteC,369,6,django,Vinnl,48,20,99,,VicenteC
+Ben,631,0,postgresql,unilogic,3,20,10,,Ben
+Ben,21,0,puppeteer,unilogic,3,20,10,,Ben
+Ben,807,0,c#,unilogic,3,20,10,,Ben
+Ben,18321,161,r,unilogic,3,20,10,,Ben
+Ben,2483,48,javascript,unilogic,3,20,10,,Ben
+Ben,333,9,javascript,unilogic,3,20,10,,Ben
+Ben,976,9,postgresql,unilogic,3,20,10,,Ben
+Ben,480,0,angular,unilogic,3,20,10,,Ben
+Jorge,77,2,bufferedimage,joergd,7,20,30,,Jorge
+eugene,618,4,node.js,mseppae,6,20,16,marko.seppa@gmail.com,eugene
+Mark Johnson,19,0,javascript,vitaliy,15,20,7,vitaliy@geraymovych.com,Mark Johnson
+Ken,81,0,c++,ashrafeme,20,20,89,ashrafe.dev@gmail.com,Ken
+David Ho,110,3,reactjs,dehowell,16,19,23,,David Ho
+Pete,534,5,typo3,pietervisser,4,19,23,,Pete
+Pete,4437,8,ios,pietervisser,4,19,23,,Pete
+Pete,1253,1,c,pietervisser,4,19,23,,Pete
+Pete,353,0,typescript,pietervisser,4,19,23,,Pete
+riggasconi,906,0,angular,riggasconi,7,19,5,,error
+ltoth,906,0,angular,ltoth,2,19,26,,error
+dhaas,906,0,angular,dhaas,13,19,12,,error
+kbavier,906,0,angular,kbavier,3,19,2,,error
+TheoChristiaanse,906,0,angular,TheoChristiaanse,1,19,10,,error
+housejester,906,0,angular,housejester,16,19,22,,error
+andylatte,906,0,angular,andylatte,6,19,4,,error
+wyscan,906,0,angular,wyscan,3,19,2,robert@simmons.org,error
+stmontgomery,906,0,angular,stmontgomery,17,19,25,smontgomery@apple.com,error
+anuprit,906,0,angular,anuprit,7,19,9,anuprit@gmail.com,error
+rweir,906,0,angular,rweir,29,19,19,rweir@ertius.org,error
+cristi,906,0,angular,cristi,17,19,2,cristi.duma@gmail.com,error
+bkearney,906,0,angular,bkearney,20,19,66,,error
+James Parsons,5966,0,xcode,jwentworth,14,19,25,,James Parsons
+ryan,11,0,mysql,rubyisbeautiful,12,19,66,,ryan
+Mike Smith,208,13,jhipster,davidvanvickle,8,19,5,,Mike Smith
+Eric,15,2,laravel,wasimbaig,5,18,21,,Eric
+Eric,61,0,php,wasimbaig,5,18,21,,Eric
+Eric,189,0,vue.js,wasimbaig,5,18,21,,Eric
+Simon D,5007,193,snowflake-cloud-data-platform,bloodearnest,22,18,49,bloodearnest@gmail.com,Simon D
+mattrenquist,906,0,angular,mattrenquist,3,18,13,,error
+adhusson,906,0,angular,adhusson,10,18,25,,error
+satoko,906,0,angular,satoko,14,18,10,,error
+kuokon,906,0,angular,kuokon,1,18,12,,error
+ingoweiss,906,0,angular,ingoweiss,12,18,23,ingo@ingoweiss.com,error
+hdaniel,906,0,angular,hdaniel,3,18,6,,error
+artemv,906,0,angular,artemv,15,18,87,artem.vasiliev@toptal.com,error
+toshiki,906,0,angular,toshiki,9,18,4,seto@sanmonce.jp,error
+soyapi,906,0,angular,soyapi,32,18,8,,error
+endisd,906,0,angular,endisd,3,18,11,endisd@gmail.com,error
+enkrates,906,0,angular,enkrates,10,18,3,,error
+moses,906,0,angular,moses,10,18,1,moses@flarehealth.com,error
+marilyn,906,0,angular,marilyn,8,18,5,,error
+carson,906,0,angular,carson,7,18,7,,error
+Craig,7261,42,javascript,craigkuhns,2,18,6,,Craig
+QAQ,1,0,regex,tdenkinger,8,17,66,tdenkinger@gmail.com,QAQ
+Greg Gum,30342,230,typescript,marcelojunior,12,17,24,marcelo.machado.jr@gmail.com,Greg Gum
+Peter Kellner,13846,167,c#,rdpeng,6882,17,75,,Peter Kellner
+sacado,906,0,angular,sacado,6,17,7,sacado.sacado@gmail.com,error
+daustin,906,0,angular,daustin,5,17,16,davecom78@gmail.com,error
+ciddennis,906,0,angular,ciddennis,6,17,13,cdennis@sondermind.com,error
+perpic,906,0,angular,perpic,5,17,6,,error
+avinash,906,0,angular,avinash,39,17,15,avinashmeetoo@gmail.com,error
+adnanali,906,0,angular,adnanali,2,17,14,adnangali@hotmail.com,error
+mattmcq,906,0,angular,mattmcq,9,17,13,matmcq at gmail,error
+wmerrell,906,0,angular,wmerrell,3,17,9,,error
+whitby3001,906,0,angular,whitby3001,4,17,7,,error
+macasek,906,0,angular,macasek,19,17,20,,error
+Denis,3,0,xcode,arch-jslin,21,17,13,,Denis
+ATT,755,0,css,dleony,8,17,10,,ATT
+Alexandre Gomes,17,0,html,lnussbaum,54,17,48,lucas@lucas-nussbaum.net,Alexandre Gomes
+Mark Moralls,11,0,python,devesh,4,17,2,,Mark Moralls
+Michael Mano,3224,41,laravel,psergi,4,17,14,,Michael Mano
+Morgan,3,0,java,stmpjmpr,3,17,2,,Morgan
+Topa,19,0,c#,topray,5,17,2,,Topa
+Steve J,123,5,ansible,rntz,137,16,78,daekharel@gmail.com,Steve J
+Ivan,31,0,security,itfische,23,16,12,,Ivan
+Ivan,73,0,python,itfische,23,16,12,,Ivan
+Ivan,6974,1,c++,itfische,23,16,12,,Ivan
+Thomas,1121,8,python,tuomasjjrasanen,28,16,20,,Thomas
+Thomas,95,0,tsql,tuomasjjrasanen,28,16,20,,Thomas
+Thomas,13,0,regression,tuomasjjrasanen,28,16,20,,Thomas
+Alberto Toglia,371,8,qt,albertito,33,16,14,albertito@blitiri.com.ar,Alberto Toglia
+milli,906,0,angular,milli,3,16,3,,error
+tgdavies,906,0,angular,tgdavies,2,16,31,tgdavies@gmail.com,error
+timharding,906,0,angular,timharding,7,16,6,,error
+wfisk,906,0,angular,wfisk,6,16,15,william.fisk@gmail.com,error
+marsuboss,906,0,angular,marsuboss,6,16,3,,error
+gregoryo,906,0,angular,gregoryo,3,16,14,,error
+hokten,906,0,angular,hokten,14,16,39,,error
+chenz,906,0,angular,chenz,1,16,15,,error
+matthewcrist,906,0,angular,matthewcrist,31,16,38,,error
+Henry,906,0,angular,Henry,26,16,10,hweller0@gmail.com,error
+davidbody,906,0,angular,davidbody,16,16,56,davidbody@bigcreek.com,error
+fetsh,906,0,angular,fetsh,6,16,16,fetshme@gmail.com,error
+rdarken,906,0,angular,rdarken,2,16,7,rudy@darken.net,error
+jgubman,906,0,angular,jgubman,11,16,15,jon@jgubman.com,error
+vkasera,906,0,angular,vkasera,3,16,7,,error
+asvitkine,906,0,angular,asvitkine,10,16,24,,error
+Justin,964,40,java,justinbkay,4,16,43,justinbkay@gmail.com,Justin
+Thomas Landauer,7342,221,php,tkadauke,135,16,48,thomas.kadauke@googlemail.com,Thomas Landauer
+Kevin,183,0,git,k7lim,5,16,10,,Kevin
+Kevin,11,0,snowflake-cloud-data-platform,k7lim,5,16,10,,Kevin
+Kevin,378,4,android,k7lim,5,16,10,,Kevin
+Harendrra,73,0,zxing,rshin,67,16,43,ricshin@berkeley.edu,Harendrra
+Martin Smith,3228,147,r,amattsmith,26,16,19,matt@smith.codes,Martin Smith
+Jon,1456,0,wcf,jonthewayne,7,15,16,jonthewayne@gmail.com,Jon
+Jon,379,1,marklogic,jonthewayne,7,15,16,jonthewayne@gmail.com,Jon
+Simon D,5007,193,snowflake-cloud-data-platform,ruben,6,15,30,,Simon D
+Jason Whitener,29,0,java,jasonw22,13,15,3,jasonw22@gmail.com,Jason Whitener
+aquasync,906,0,angular,aquasync,4,15,8,,error
+drzal,906,0,angular,drzal,5,15,4,,error
+occam,906,0,angular,occam,1,15,5,,error
+wuts,906,0,angular,wuts,1,15,14,,error
+matthieup,906,0,angular,matthieup,1,15,13,,error
+davidraba,906,0,angular,davidraba,3,15,54,,error
+jschumacher,906,0,angular,jschumacher,18,15,29,,error
+TheIdeaMan,906,0,angular,TheIdeaMan,6,15,1,,error
+kEND,906,0,angular,kEND,16,15,21,ken.barker@gmail.com,error
+paulboone,906,0,angular,paulboone,23,15,62,,error
+Thamster,906,0,angular,Thamster,5,15,7,,error
+weijie,906,0,angular,weijie,4,15,1,,error
+paulasimoes,906,0,angular,paulasimoes,10,15,21,ppsimoes@gmail.com,error
+tutui-t,906,0,angular,tutui-t,3,15,1,tsutsui.toshinori@nifty.com,error
+hoanga,906,0,angular,hoanga,15,15,34,,error
+sness,906,0,angular,sness,27,15,19,sness@sness.net,error
+georgezhu08,906,0,angular,georgezhu08,6,15,4,george.zhu08@gmail.com,error
+simplogical,906,0,angular,simplogical,3,15,4,,error
+chosig,906,0,angular,chosig,5,15,7,chosig@spacewaster.net,error
+nahap,906,0,angular,nahap,7,15,10,andy@nahapetian.com,error
+Ariana Johnson,11,0,metrics,aaronjohnson,27,15,13,aaron.mark.johnson@intel.com,Ariana Johnson
+Robert Kraft,21,0,csv,rgraff,11,15,35,robert@workingdemo.com,Robert Kraft
+ImSahil,11,0,windows,Sahil,28,15,10,sahil@sahild.com,ImSahil
+Mark Johnson,19,0,javascript,sineraves,34,15,4,,Mark Johnson
+Benjamin Kovach,3150,88,haskell,Cirex,5,15,7,,Benjamin Kovach
+Ivan,31,0,security,ivanyv,10,14,15,,Ivan
+Ivan,73,0,python,ivanyv,10,14,15,,Ivan
+Ivan,6974,1,c++,ivanyv,10,14,15,,Ivan
+Alexander,63,0,javascript,alexcharlie,37,14,5,alexmle@gmail.com,Alexander
+Alexander,4265,1,r,alexcharlie,37,14,5,alexmle@gmail.com,Alexander
+Steven Lu,39641,234,macos,baxr6,6,14,14,,Steven Lu
+afairley,906,0,angular,afairley,4,14,6,,error
+cynix,906,0,angular,cynix,7,14,53,,error
+firmasaga,906,0,angular,firmasaga,10,14,4,,error
+lewism,906,0,angular,lewism,3,14,10,,error
+joshj,906,0,angular,joshj,2,14,2,,error
+IanEsling,906,0,angular,IanEsling,13,14,31,,error
+rnicholson,906,0,angular,rnicholson,4,14,1,,error
+luonet,906,0,angular,luonet,34,14,7,,error
+nerdyc,906,0,angular,nerdyc,27,14,23,,error
+trebonian,906,0,angular,trebonian,46,14,13,barry@disus.com,error
+slangevi,906,0,angular,slangevi,12,14,5,scott.langevin@gmail.com,error
+eclecticdave,906,0,angular,eclecticdave,2,14,17,dave@eclecticdave.com,error
+peashutop,906,0,angular,peashutop,6,14,24,jacob@peashutop.com,error
+probonogeek,906,0,angular,probonogeek,16,14,11,sean@boltthreads.com,error
+jspies,906,0,angular,jspies,34,14,23,,error
+rubyrock,906,0,angular,rubyrock,4,14,3,,error
+tkaufman,906,0,angular,tkaufman,32,14,19,toddkaufman@gmail.com,error
+wataken44,906,0,angular,wataken44,18,14,70,,error
+Paul Clark,41,0,javascript,ganaware,9,14,23,ganaware+github@gmail.com,Paul Clark
+Andres Barrera,41,4,python,olek,8,14,21,,Andres Barrera
+Ryan,689,1,java,anemic,3,14,5,,Ryan
+Ryan,660,6,firebase,anemic,3,14,5,,Ryan
+Ryan,433,0,android,anemic,3,14,5,,Ryan
+Ryan,73,2,html,anemic,3,14,5,,Ryan
+Ryan,87,0,sql,anemic,3,14,5,,Ryan
+Ceri Turner,799,0,ios,cpetersen,20,14,39,chris@petersen.io,Ceri Turner
+Christopher,1,0,uml,tie-rack,34,14,44,cmshea@gmail.com,Christopher
+Christopher,3329,30,laravel,tie-rack,34,14,44,cmshea@gmail.com,Christopher
+Daniel,2429,127,c++,dsiem,5,14,3,,Daniel
+Daniel,201,0,c++,dsiem,5,14,3,,Daniel
+Daniel,12290,172,reactjs,dsiem,5,14,3,,Daniel
+Daniel,2256,62,macos,dsiem,5,14,3,,Daniel
+Johnny,101,0,python,cosimoc,52,14,54,cosimoc@gnome.org,Johnny
+Jay,9,0,postgresql,cedric,39,14,13,,Jay
+Jay,980,13,javascript,cedric,39,14,13,,Jay
+Richard Wolford,193,4,terraform,adamhenry,3,14,13,,Richard Wolford
+Juanbuntu,21,0,julia,vivekamn,1,14,3,akvmurlai@gmail.com,Juanbuntu
+Sean Duggan,992,10,c#,rpaul80,12,14,19,,Sean Duggan
+Jeff Coe,422,6,chef-infra,techyogi,3,13,5,ben@benjaminsanders.com,Jeff Coe
+mars888,906,0,angular,mars888,2,13,11,,error
+captblanket,906,0,angular,captblanket,2,13,2,,error
+brendanrankin,906,0,angular,brendanrankin,3,13,2,,error
+franhb,906,0,angular,franhb,3,13,18,,error
+dhaya,906,0,angular,dhaya,1,13,13,,error
+jjcalleiro,906,0,angular,jjcalleiro,3,13,1,,error
+joachimm,906,0,angular,joachimm,20,13,15,,error
+thijsc,906,0,angular,thijsc,51,13,45,thijs@appsignal.com,error
+marcelo,906,0,angular,marcelo,11,13,17,,error
+freqdec,906,0,angular,freqdec,68,13,6,,error
+hawe,906,0,angular,hawe,4,13,6,,error
+sbaldwin621,906,0,angular,sbaldwin621,4,13,12,sbaldwin621@gmail.com,error
+tommed,906,0,angular,tommed,12,13,18,,error
+shenry,906,0,angular,shenry,2,13,8,stuarthenry@gmail.com,error
+ryan52,906,0,angular,ryan52,19,13,21,RyanRyan52@gmail.com,error
+alexnicolini,906,0,angular,alexnicolini,4,13,20,,error
+kmelnikov,906,0,angular,kmelnikov,4,13,3,,error
+ph7,906,0,angular,ph7,65,13,8,,error
+Jason,14598,67,html,dwight,187,13,13,dwight@mongodb.com,Jason
+Jason,51,0,python,dwight,187,13,13,dwight@mongodb.com,Jason
+Christopher,1,0,uml,cbeck,32,13,31,chris.beck@me.com,Christopher
+Christopher,3329,30,laravel,cbeck,32,13,31,chris.beck@me.com,Christopher
+Simon,226,8,php,CMon,5,13,26,,Simon
+Bobby,3020,1,typescript,valnour,3,13,1,bobby@codebutcher.com,Bobby
+Juan Camilo,29,-1,git,calle,12,13,1,,Juan Camilo
+David Brown,2886,95,android,dagbrown,16,13,33,,David Brown
+Chris Jones,2510,5,powershell,deridex,2,13,5,davidha@1493.net,Chris Jones
+Joel Harrison,41,0,light,cduhn,8,13,16,curtis.duhn@gmail.com,Joel Harrison
+Eric,15,2,laravel,ericluo,7,12,21,eric.wenbl@gmail.com,Eric
+Eric,61,0,php,ericluo,7,12,21,eric.wenbl@gmail.com,Eric
+Eric,189,0,vue.js,ericluo,7,12,21,eric.wenbl@gmail.com,Eric
+Peter Kulas,33,0,c++,mrschyte,49,12,38,mr.schyte@gmail.com,Peter Kulas
+Paul,23,0,regex,parfait,3,12,6,team@parfa.it,Paul
+Paul,89,2,javascript,parfait,3,12,6,team@parfa.it,Paul
+Paul,24962,1,git,parfait,3,12,6,team@parfa.it,Paul
+Paul,331,3,macos,parfait,3,12,6,team@parfa.it,Paul
+Simon D,5007,193,snowflake-cloud-data-platform,simojenki,8,12,36,,Simon D
+jptix,906,0,angular,jptix,6,12,7,xjptix@gmail.com,error
+asosa,906,0,angular,asosa,3,12,6,,error
+bhanu,906,0,angular,bhanu,3,12,13,,error
+mike-hogan,906,0,angular,mike-hogan,9,12,31,,error
+indiana,906,0,angular,indiana,2,12,8,,error
+JBB,906,0,angular,JBB,4,12,14,,error
+daryn,906,0,angular,daryn,12,12,6,daryn.warriner@gmail.com,error
+telmich,906,0,angular,telmich,58,12,38,,error
+acamargo,906,0,angular,acamargo,20,12,17,andreribeirocamargo@gmail.com,error
+adamflater,906,0,angular,adamflater,6,12,9,adamflater@gmail.com,error
+avido,906,0,angular,avido,3,12,67,,error
+tengu,906,0,angular,tengu,7,12,29,,error
+d0k,906,0,angular,d0k,165,12,9,,error
+unendin,906,0,angular,unendin,3,12,40,ted.metcalfe@gmail.com,error
+wolfdancer,906,0,angular,wolfdancer,20,12,39,,error
+Trevor Orr,917,19,css,mypunchbowl,10,12,1,dev@punchbowlsoftware.com,Trevor Orr
+Jason Belich,1,0,generics,johnmaxwell,13,12,9,,Jason Belich
+Christopher Koziol,63,1,javascript,cc,20,12,1,cc@chris-cooke.com,Christopher Koziol
+Jonathan,10311,178,laravel,jonsgreen,18,12,29,jonathan.s.greenberg@gmail.com,Jonathan
+Jonathan,397,1,angular,jonsgreen,18,12,29,jonathan.s.greenberg@gmail.com,Jonathan
+Abhishek Rai,1965,56,python,sbrocket,5,12,14,,Abhishek Rai
+Christopher Causer,1184,0,tabs,insipid,2,12,6,,Christopher Causer
+Michael K.,1708,2,docker-compose,kingmt,1,12,39,kingmt@gmail.com,Michael K.
+Corey,74,1,java,fredngo,36,12,32,fredngo@gmail.com,Corey
+TY Lim,315,0,pandas,chesh,8,12,1,,TY Lim
+Michael Mano,3224,41,laravel,mpagano,5,12,3,mpagano@gentoo.org,Michael Mano
+Vincent Chan,13,0,verilog,vbehar,73,11,116,v.behar@free.fr,Vincent Chan
+dikini,906,0,angular,dikini,9,11,20,,error
+bharendt,906,0,angular,bharendt,11,11,9,,error
+hippo5329,906,0,angular,hippo5329,3,11,27,,error
+sunfast,906,0,angular,sunfast,2,11,1,,error
+amyhoy,906,0,angular,amyhoy,71,11,1,,error
+radicalbender,906,0,angular,radicalbender,2,11,5,,error
+iroach,906,0,angular,iroach,3,11,3,,error
+Rodolinux,906,0,angular,Rodolinux,5,11,14,,error
+sanjayayogi,906,0,angular,sanjayayogi,2,11,4,,error
+tklaudel,906,0,angular,tklaudel,4,11,2,,error
+hubris,906,0,angular,hubris,2,11,18,,error
+cementhorses,906,0,angular,cementhorses,5,11,6,,error
+scottmace,906,0,angular,scottmace,7,11,5,,error
+edgard,906,0,angular,edgard,31,11,16,castro@edgard.org,error
+isidore,906,0,angular,isidore,155,11,82,llewellyn.falco@gmail.com,error
+joshstephenson,906,0,angular,joshstephenson,25,11,6,josh@brightmediums.com,error
+henrosoft,906,0,angular,henrosoft,3,11,8,,error
+roughley,906,0,angular,roughley,3,11,5,,error
+bikle,906,0,angular,bikle,7,11,7,bikle@bikle.com,error
+ustorf,906,0,angular,ustorf,2,11,12,bernd.ustorf@gmail.com,error
+mholub,906,0,angular,mholub,16,11,21,michael.holub@gmail.com,error
+p00ya,906,0,angular,p00ya,11,11,36,,error
+addi,906,0,angular,addi,24,11,14,arni@arnij.com,error
+Peter,1272,0,file-association,lehisanchez,3,11,2,,Peter
+Peter,122623,3438,git,lehisanchez,3,11,2,,Peter
+Peter,21,2,java,lehisanchez,3,11,2,,Peter
+Peter,151,2,javascript,lehisanchez,3,11,2,,Peter
+Peter,151,2,javascript,lehisanchez,3,11,2,,Peter
+Peter,81,0,microservices,lehisanchez,3,11,2,,Peter
+Peter,145,4,mysql,lehisanchez,3,11,2,,Peter
+Peter,1300,45,c#,lehisanchez,3,11,2,,Peter
+Peter,1732,0,amazon-web-services,lehisanchez,3,11,2,,Peter
+Peter,1732,0,amazon-web-services,lehisanchez,3,11,2,,Peter
+Peter,13427,90,c#,lehisanchez,3,11,2,,Peter
+Francesco Motta,1,0,jbpm,fmondora,18,11,25,,Francesco Motta
+Dennis,11,0,python,ogawa,29,11,65,,Dennis
+Dennis,11,0,mysql,ogawa,29,11,65,,Dennis
+James Shapiro,3894,125,amazon-web-services,codydh,5,11,2,,James Shapiro
+Jamie,1724,2,css,jamie-1970,34,11,1,,Jamie
+Jamie,112,3,r,jamie-1970,34,11,1,,Jamie
+Robert Grootjen,175,0,python,rbroen,1,11,4,robert@flame.nl,Robert Grootjen
+Jeff,233,0,prolog,jeffshadap,5,11,23,,Jeff
+Jeff,115,0,elasticsearch,jeffshadap,5,11,23,,Jeff
+Collin,53,0,java,bmoises,8,11,18,,Collin
+Peter Prescott,658,18,python,72squared,20,11,10,jloehrer@yahoo.com,Peter Prescott
+Jon,1456,0,wcf,jonstep,8,10,6,,Jon
+Jon,379,1,marklogic,jonstep,8,10,6,,Jon
+spencer,906,0,angular,spencer,3,10,7,,error
+cuiguy,906,0,angular,cuiguy,2,10,2,,error
+goblin,906,0,angular,goblin,22,10,47,,error
+masch-zz,906,0,angular,masch-zz,1,10,13,,error
+pedrofrv,906,0,angular,pedrofrv,1,10,2,,error
+pythonic,906,0,angular,pythonic,29,10,8,,error
+sanderm,906,0,angular,sanderm,2,10,25,,error
+zvoase,906,0,angular,zvoase,6,10,7,,error
+lcmtwn,906,0,angular,lcmtwn,2,10,28,lcmtwn@gmail.com,error
+kylecronin,906,0,angular,kylecronin,5,10,8,,error
+eike,906,0,angular,eike,2,10,5,,error
+vonpop,906,0,angular,vonpop,5,10,6,,error
+michaeldauria,906,0,angular,michaeldauria,18,10,15,,error
+Monty,906,0,angular,Monty,47,10,13,,error
+jayrendon,906,0,angular,jayrendon,3,10,4,,error
+ender3,906,0,angular,ender3,5,10,8,,error
+panthar,906,0,angular,panthar,2,10,12,,error
+bythebook,906,0,angular,bythebook,5,10,4,,error
+gcorvala,906,0,angular,gcorvala,7,10,11,,error
+nemot,906,0,angular,nemot,6,10,13,gnemot@gmail.com,error
+johnwyles,906,0,angular,johnwyles,18,10,19,john@johnwyles.com,error
+neogia,906,0,angular,neogia,10,10,15,,error
+caotic,906,0,angular,caotic,4,10,5,Thomas.Frauendorfer@googlemail.com,error
+urielf,906,0,angular,urielf,2,10,3,,error
+Finn,105,5,javascript,huzhenghui37,2,10,3,,Finn
+Finn,1153,6,angular,huzhenghui37,2,10,3,,Finn
+Finn,2280,83,matlab,huzhenghui37,2,10,3,,Finn
+wiki,1633,8,python-3.x,tqbf,372,10,29,thomas@sockpuppet.org,wiki
+Jason,14598,67,html,jason,20,10,43,,Jason
+Jason,51,0,python,jason,20,10,43,,Jason
+Jan,2793,51,java,jan,7,10,11,,Jan
+Ganga Singh,11,0,postgresql,b33st,3,10,2,,Ganga Singh
+Stefan Hansen,367,0,r,scorley,3,9,12,,Stefan Hansen
+Yellow,3863,35,c++,b4youleap,6,9,76,,Yellow
+James,33,0,inheritance,JohnConner,2,9,15,,James
+James,2378,11,c#,JohnConner,2,9,15,,James
+James,21,0,eclipse,JohnConner,2,9,15,,James
+James,39,1,sprite-kit,JohnConner,2,9,15,,James
+john,49,0,selenium,johnpg,2,9,2,,john
+john,679,0,java,johnpg,2,9,2,,john
+Mr. Anderson,73,1,python,brunchey,5,9,17,,Mr. Anderson
+mdaines,906,0,angular,mdaines,66,9,5,,error
+Wobin,906,0,angular,Wobin,1,9,20,,error
+jbsf,906,0,angular,jbsf,10,9,2,,error
+flo,906,0,angular,flo,15,9,34,,error
+pfdemuizon,906,0,angular,pfdemuizon,5,9,5,,error
+gleb,906,0,angular,gleb,10,9,10,,error
+elzo,906,0,angular,elzo,1,9,1,,error
+singleton,906,0,angular,singleton,1,9,3,,error
+jfurfey,906,0,angular,jfurfey,1,9,3,,error
+Luke-23ae,906,0,angular,Luke-23ae,3,9,3,,error
+joshbowen,906,0,angular,joshbowen,3,9,1,,error
+Jonv,906,0,angular,Jonv,2,9,2,,error
+koenvw,906,0,angular,koenvw,7,9,11,koenvw@gmail.com,error
+tory,906,0,angular,tory,7,9,5,torymbrady@gmail.com,error
+mykecameron,906,0,angular,mykecameron,10,9,22,mykecameron@gmail.com,error
+rpm33,906,0,angular,rpm33,15,9,10,,error
+fn7,906,0,angular,fn7,3,9,8,,error
+goodspeed,906,0,angular,goodspeed,4,9,1,,error
+danolsen,906,0,angular,danolsen,5,9,8,,error
+brandonrunyon,906,0,angular,brandonrunyon,4,9,8,brandon@brandonrunyon.com,error
+leonelfreire,906,0,angular,leonelfreire,3,9,2,leonelfreire@gmail.com,error
+jeske,906,0,angular,jeske,54,9,66,,error
+TheLinker,906,0,angular,TheLinker,2,9,27,axel.bayerl@gmail.com,error
+lambert,906,0,angular,lambert,5,9,45,ljh4timm@xs4all.nl,error
+Richard,7573,36,ionic2,harrilammi,5,9,3,,Richard
+Richard,23305,1329,sas,harrilammi,5,9,3,,Richard
+Richard,4725,64,javascript,harrilammi,5,9,3,,Richard
+Richard,12773,3,git,harrilammi,5,9,3,,Richard
+Shorn,16884,343,intellij-idea,matt-har-vey,4,9,13,mattharvey@google.com,Shorn
+brandone,72,0,bots,msoulier,13,9,21,msoulier@digitaltorque.ca,brandone
+Peter,1272,0,file-association,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,122623,3438,git,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,21,2,java,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,151,2,javascript,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,151,2,javascript,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,81,0,microservices,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,145,4,mysql,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,1300,45,c#,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,1732,0,amazon-web-services,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,1732,0,amazon-web-services,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Peter,13427,90,c#,jimhansson,6,9,24,jim.hansson@gmail.com,Peter
+Dagon,85,0,postgresql,dragon,5,9,6,,Dagon
+Christian ,47,1,apache-beam,chaubold,14,9,43,,Christian 
+Daniel,2429,127,c++,tuplebunny,8,9,14,rabbitblue@gmail.com,Daniel
+Daniel,201,0,c++,tuplebunny,8,9,14,rabbitblue@gmail.com,Daniel
+Daniel,12290,172,reactjs,tuplebunny,8,9,14,rabbitblue@gmail.com,Daniel
+Daniel,2256,62,macos,tuplebunny,8,9,14,rabbitblue@gmail.com,Daniel
+Mark McKeon,165,1,javascript,yamanetoshi,31,9,164,yamanetoshi@metacircular-evaluator.org,Mark McKeon
+Michael K.,1708,2,docker-compose,mkuhn,18,9,27,,Michael K.
+Steve,25,0,javascript,sjackson,1,9,2,,Steve
+Steve,563,1,r,sjackson,1,9,2,,Steve
+Martin Zeltin,1544,55,mysql,melwin,4,9,8,,Martin Zeltin
+Francis P,12857,767,sql,francis,5,8,7,,Francis P
+Eric,15,2,laravel,jarrett,9,8,36,,Eric
+Eric,61,0,php,jarrett,9,8,36,,Eric
+Eric,189,0,vue.js,jarrett,9,8,36,,Eric
+luke,906,0,angular,luke,27,8,18,,error
+waratuman86,906,0,angular,waratuman86,6,8,1,,error
+JoshD,906,0,angular,JoshD,2,8,2,,error
+micah,906,0,angular,micah,51,8,48,micah@leap.se,error
+neilmcg,906,0,angular,neilmcg,2,8,5,,error
+adisak,906,0,angular,adisak,4,8,2,,error
+cbellrel,906,0,angular,cbellrel,2,8,1,,error
+alfredox,906,0,angular,alfredox,3,8,13,,error
+glasswing28,906,0,angular,glasswing28,3,8,2,,error
+shellreef,906,0,angular,shellreef,1,8,2,,error
+academician,906,0,angular,academician,2,8,14,academician@gmail.com,error
+jward,906,0,angular,jward,1,8,2,,error
+dancode,906,0,angular,dancode,1,8,3,,error
+mgbaron,906,0,angular,mgbaron,5,8,2,,error
+golo,906,0,angular,golo,4,8,5,,error
+anand-zz,906,0,angular,anand-zz,2,8,1,,error
+redhat008,906,0,angular,redhat008,1,8,7,,error
+jas88,906,0,angular,jas88,11,8,23,j@sutherland.pw,error
+gonzaga,906,0,angular,gonzaga,12,8,10,,error
+chas,906,0,angular,chas,12,8,4,chas@grundyhome.com,error
+dpalacio,906,0,angular,dpalacio,2,8,1,code@palacio.io,error
+progmatica,906,0,angular,progmatica,10,8,7,,error
+lawrien,906,0,angular,lawrien,5,8,12,lawrie@codesore.org,error
+freakdude,906,0,angular,freakdude,2,8,16,,error
+benoit-canet,906,0,angular,benoit-canet,15,8,14,,error
+h00s,906,0,angular,h00s,8,8,3,,error
+carlpelletier,906,0,angular,carlpelletier,8,8,29,,error
+fdutey,906,0,angular,fdutey,16,8,5,fdutey@gmail.com,error
+n0mad,906,0,angular,n0mad,10,8,12,eugene-kharitonov@ya.ru,error
+tcnijmeijer,906,0,angular,tcnijmeijer,3,8,9,,error
+yksi7417,906,0,angular,yksi7417,5,8,21,,error
+ioguix,906,0,angular,ioguix,44,8,23,,error
+boyan,906,0,angular,boyan,18,8,2,,error
+mindu,906,0,angular,mindu,10,8,8,jmindu@gmail.com,error
+Siya,906,0,angular,Siya,2,8,1,,error
+ady,906,0,angular,ady,4,8,3,ady.coles@me.com,error
+Stefano,187,0,android,njgit,3,8,10,,Stefano
+Stephen Cheng,956,4,qt,ctlaux,5,8,3,mail@chrislaux.com,Stephen Cheng
+Jason,14598,67,html,com4,23,8,18,,Jason
+Jason,51,0,python,com4,23,8,18,,Jason
+Antoine,896,0,qt,freesci,5,8,14,ps@pawelszczesny.org,Antoine
+Antoine,780,2,python-3.x,freesci,5,8,14,ps@pawelszczesny.org,Antoine
+Antoine,63,0,google-sheets,freesci,5,8,14,ps@pawelszczesny.org,Antoine
+Nathan B,1465,29,amazon-ec2,nathanpbell,4,8,2,,Nathan B
+Christopher,1,0,uml,fawzi,11,8,20,fawzi@gmx.ch,Christopher
+Christopher,3329,30,laravel,fawzi,11,8,20,fawzi@gmx.ch,Christopher
+Lenny,23,0,push-notification,sweetleon,7,8,61,,Lenny
+Colby Johnson,23,0,google-apps-script,probablycorey,676,8,82,,Colby Johnson
+Jeff Coe,422,6,chef-infra,almosteverywhere,48,7,17,,Jeff Coe
+Roland,7114,118,java,roland,20,7,8,,Roland
+Roland,8913,25,javascript,roland,20,7,8,,Roland
+Roland,713,0,linux,roland,20,7,8,,Roland
+mallum,906,0,angular,mallum,3,7,1,,error
+kimj,906,0,angular,kimj,4,7,14,,error
+jeannie,906,0,angular,jeannie,5,7,1,,error
+bprater,906,0,angular,bprater,4,7,1,,error
+anjo,906,0,angular,anjo,13,7,19,,error
+alokjain,906,0,angular,alokjain,10,7,23,,error
+anarchitech,906,0,angular,anarchitech,2,7,7,,error
+ddipaolo,906,0,angular,ddipaolo,5,7,8,,error
+ThQ,906,0,angular,ThQ,5,7,14,github@pourriel.org,error
+wkorfhage,906,0,angular,wkorfhage,2,7,15,,error
+cjiang,906,0,angular,cjiang,3,7,11,,error
+orienterare,906,0,angular,orienterare,1,7,6,,error
+benjaminperdomo,906,0,angular,benjaminperdomo,1,7,2,,error
+jgotangco,906,0,angular,jgotangco,2,7,4,,error
+isaaccp,906,0,angular,isaaccp,26,7,3,isaac.clerencia@gmail.com,error
+eddynaert,906,0,angular,eddynaert,4,7,1,,error
+ruuzo,906,0,angular,ruuzo,2,7,1,,error
+lanfeust21,906,0,angular,lanfeust21,6,7,7,denis.lamotte@gmail.com,error
+evaneykelen,906,0,angular,evaneykelen,9,7,7,erik.van.eykelen@bitgain.com,error
+carldr,906,0,angular,carldr,11,7,9,,error
+joshn,906,0,angular,joshn,8,7,3,,error
+jeppster,906,0,angular,jeppster,6,7,10,,error
+tresk,906,0,angular,tresk,2,7,4,chris@gaffertaped.com,error
+gobigdave,906,0,angular,gobigdave,6,7,2,davedupre@me.com,error
+davies147,906,0,angular,davies147,6,7,28,davies147@gmail.com,error
+zooliet,906,0,angular,zooliet,3,7,33,hl1sqi@gmail.com,error
+bladenkerst,906,0,angular,bladenkerst,5,7,4,,error
+shaun27stars,906,0,angular,shaun27stars,6,7,16,,error
+nobutaka,906,0,angular,nobutaka,15,7,4,,error
+rya,1289,67,android,henryyao,7,7,3,,rya
+Emanuele,31,1,c#,ikolar,12,7,24,igor.kolar@gmail.com,Emanuele
+Andy,9417,189,javascript,cmichon,3,7,18,christian.michon@gmail.com,Andy
+Andy,649,0,linux,cmichon,3,7,18,christian.michon@gmail.com,Andy
+Andy,21,0,jquery,cmichon,3,7,18,christian.michon@gmail.com,Andy
+Victor,423,0,angularjs,vkryukov,7,7,13,,Victor
+Victor,110,5,html,vkryukov,7,7,13,,Victor
+Muhammad,21,0,javascript,mfb82,3,7,1,,Muhammad
+Jay,9,0,postgresql,s2jcpete,1,7,5,jpetersen3@gmail.com,Jay
+Jay,980,13,javascript,s2jcpete,1,7,5,jpetersen3@gmail.com,Jay
+Jonathan,10311,178,laravel,hyperfusion,1,7,7,,Jonathan
+Jonathan,397,1,angular,hyperfusion,1,7,7,,Jonathan
+Aaron,13,0,r,himansudesai,5,7,8,himansudesai@gmail.com,Aaron
+Aaron,1707,23,aerospike,himansudesai,5,7,8,himansudesai@gmail.com,Aaron
+Karthik,72,0,createobject,karthikc,8,7,11,karthik.cs@gmail.com,Karthik
+Karthik,11,0,java,karthikc,8,7,11,karthik.cs@gmail.com,Karthik
+Zack Peterson,55071,307,.net,danp,97,7,56,danp@danp.net,Zack Peterson
+ldesigns,71,0,javascript,MatWeir,3,7,7,,ldesigns
+LJR,91,0,angular,jrat,13,7,5,,LJR
+Andrew Feenan,13,0,excel,afaden,9,7,5,andrew.faden@gmail.com,Andrew Feenan
+Darina,1408,55,python,elasticdarwin,5,7,6,,Darina
+Tin Huynh,45,0,go,evanrolfe,11,6,37,,Tin Huynh
+Eric,15,2,laravel,tcochran,12,6,12,,Eric
+Eric,61,0,php,tcochran,12,6,12,,Eric
+Eric,189,0,vue.js,tcochran,12,6,12,,Eric
+Ali,57,0,flutter,ericjohniglesia,2,6,14,,Ali
+Jacob Vaughn,1,0,python,axehomeyg,12,6,11,cerna5150@yahoo.com,Jacob Vaughn
+Roger A. Leite,386,4,dc.js,bolangi,4,6,9,,Roger A. Leite
+vranjank,906,0,angular,vranjank,1,6,5,,error
+Sigurd,906,0,angular,Sigurd,3,6,1,,error
+tmenick,906,0,angular,tmenick,1,6,1,,error
+rpgoldman,906,0,angular,rpgoldman,47,6,115,,error
+sellersj,906,0,angular,sellersj,6,6,34,,error
+asahopkins,906,0,angular,asahopkins,3,6,4,,error
+randybud,906,0,angular,randybud,1,6,1,,error
+Mystic,906,0,angular,Mystic,1,6,6,,error
+izi,906,0,angular,izi,3,6,8,,error
+dconely,906,0,angular,dconely,1,6,1,,error
+dmendez,906,0,angular,dmendez,2,6,4,,error
+signup-disabled,906,0,angular,signup-disabled,2,6,6,,error
+aimee,906,0,angular,aimee,1,6,2,,error
+pkenney,906,0,angular,pkenney,2,6,7,,error
+wewu,906,0,angular,wewu,4,6,5,,error
+horaguchi,906,0,angular,horaguchi,5,6,10,,error
+suntsh,906,0,angular,suntsh,1,6,4,,error
+mmccay,906,0,angular,mmccay,6,6,1,matthewmccay@gmail.com,error
+aitorgr,906,0,angular,aitorgr,4,6,4,me@aitor.name,error
+sh0tt,906,0,angular,sh0tt,20,6,19,,error
+schulzp,906,0,angular,schulzp,10,6,24,,error
+blundellc,906,0,angular,blundellc,15,6,6,,error
+DamienW,906,0,angular,DamienW,2,6,1,,error
+jjkiesch,906,0,angular,jjkiesch,6,6,16,,error
+robertez,906,0,angular,robertez,6,6,2,,error
+kewball,906,0,angular,kewball,3,6,25,,error
+springnet,906,0,angular,springnet,4,6,3,,error
+mondrian,906,0,angular,mondrian,3,6,6,suporte@mondriantecnologia.com,error
+algnod,906,0,angular,algnod,2,6,4,gnodtke@gmail.com,error
+sergiodj,906,0,angular,sergiodj,12,6,31,sergio.durigan@canonical.com,error
+MichaelWegelin,906,0,angular,MichaelWegelin,12,6,22,,error
+tmselim,906,0,angular,tmselim,3,6,2,,error
+oliviaartz,906,0,angular,oliviaartz,21,6,21,liv@oliviaartz.com,error
+supramap,906,0,angular,supramap,12,6,12,,error
+mattt416,906,0,angular,mattt416,23,6,47,,error
+indiemaps,906,0,angular,indiemaps,33,6,6,zach.f.johnson@gmail.com,error
+matthewling,906,0,angular,matthewling,6,6,9,,error
+markfenton,906,0,angular,markfenton,3,6,6,,error
+tonyd,906,0,angular,tonyd,2,6,6,,error
+sandy,83,0,python,tstark,4,6,1,,sandy
+VicenteC,369,6,django,mcovarru,2,6,6,,VicenteC
+Aleksandar Dimitrov,9073,277,java,Dreamthinker,3,6,2,dreamthink@gmail.com,Aleksandar Dimitrov
+razer,44,1,reactjs,frazerh,7,6,5,,razer
+jlan,3,0,node.js,jleano,3,6,1,,jlan
+Ariana Johnson,11,0,metrics,brijohn,16,6,35,brijohn@gmail.com,Ariana Johnson
+Justin,964,40,java,austin,6,6,3,,Justin
+Sai,409,28,php,guilhermeap,3,6,4,,Sai
+Christopher,1,0,uml,samuelbirch,17,6,49,sam.birch@gmail.com,Christopher
+Christopher,3329,30,laravel,samuelbirch,17,6,49,sam.birch@gmail.com,Christopher
+Wolfy,469,0,python,Stillness-2,27,6,7,,Wolfy
+Shane Powell,49,0,lua,yutsuda,8,6,9,yu.tsuda@gmail.com,Shane Powell
+Joshua,19,1,html,bigbrother,6,6,4,,Joshua
+Joshua,19,0,c#,bigbrother,6,6,4,,Joshua
+Joshua,11,0,c#,bigbrother,6,6,4,,Joshua
+AJ.,1490,13,c#,bluebit,4,6,3,a.esmail@905pm.com,AJ.
+Chris Jones,2510,5,powershell,chrisjones,1,6,10,captjones@gmail.com,Chris Jones
+Michael Mano,3224,41,laravel,mspang,5,6,15,mcspang@gmail.com,Michael Mano
+Jon,1456,0,wcf,ganeshmohan,4,5,6,,Jon
+Jon,379,1,marklogic,ganeshmohan,4,5,6,,Jon
+James,33,0,inheritance,anthem,2,5,8,,James
+James,2378,11,c#,anthem,2,5,8,,James
+James,21,0,eclipse,anthem,2,5,8,,James
+James,39,1,sprite-kit,anthem,2,5,8,,James
+Simone Berasi,21,0,python,finack,40,5,23,peter@finack.com,Simone Berasi
+CJP,31,2,c#,reivilo,5,5,6,,CJP
+David Hofmann,5471,311,java,gorman,15,5,6,gorman@me.com,David Hofmann
+mazdak,906,0,angular,mazdak,4,5,2,,error
+cglee,906,0,angular,cglee,39,5,8,,error
+tphyahoo,906,0,angular,tphyahoo,8,5,12,,error
+pierrevdb,906,0,angular,pierrevdb,2,5,7,,error
+zakk,906,0,angular,zakk,1,5,5,,error
+garyvanhoek,906,0,angular,garyvanhoek,1,5,3,,error
+messer,906,0,angular,messer,11,5,18,,error
+mqjjb30e,906,0,angular,mqjjb30e,6,5,1,,error
+dante-xx,906,0,angular,dante-xx,3,5,2,,error
+findrails,906,0,angular,findrails,3,5,1,,error
+wonsys,906,0,angular,wonsys,4,5,5,,error
+tronash,906,0,angular,tronash,2,5,1,,error
+geezeoweb,906,0,angular,geezeoweb,3,5,1,,error
+javila,906,0,angular,javila,2,5,1,,error
+abharambe,906,0,angular,abharambe,2,5,3,,error
+kbierbaum,906,0,angular,kbierbaum,9,5,4,,error
+kkeithlea,906,0,angular,kkeithlea,1,5,26,,error
+pripple,906,0,angular,pripple,1,5,3,,error
+eriiikk,906,0,angular,eriiikk,1,5,1,,error
+ctshh,906,0,angular,ctshh,3,5,3,,error
+rudyyang2001,906,0,angular,rudyyang2001,1,5,1,,error
+tomasotosolini,906,0,angular,tomasotosolini,1,5,4,,error
+javierfm,906,0,angular,javierfm,1,5,5,,error
+Virginian,906,0,angular,Virginian,1,5,20,,error
+naeimsf,906,0,angular,naeimsf,2,5,3,naeim.fard@gmail.com,error
+jluciani,906,0,angular,jluciani,1,5,1,,error
+franckv,906,0,angular,franckv,4,5,13,,error
+socantre,906,0,angular,socantre,3,5,16,,error
+mattczech,906,0,angular,mattczech,4,5,7,mattczech@gmail.com,error
+doon,906,0,angular,doon,12,5,18,doon@labratsoftware.com,error
+chemicalhen,906,0,angular,chemicalhen,2,5,1,,error
+e12win,906,0,angular,e12win,2,5,2,,error
+ducduong,906,0,angular,ducduong,4,5,9,,error
+codemonkey86,906,0,angular,codemonkey86,4,5,4,,error
+Chris78,906,0,angular,Chris78,2,5,2,,error
+daveganley,906,0,angular,daveganley,6,5,1,dave@dganley.net,error
+robcorp,906,0,angular,robcorp,2,5,13,procbor1@mac.com,error
+ueda,906,0,angular,ueda,4,5,5,ueda@tos.co.jp,error
+alexweej,906,0,angular,alexweej,12,5,20,alex@weej.com,error
+rawar-zz,906,0,angular,rawar-zz,7,5,15,,error
+Pucster,906,0,angular,Pucster,7,5,9,eugen@opsguru.io,error
+nex,906,0,angular,nex,4,5,1,,error
+sciamop,906,0,angular,sciamop,3,5,1,,error
+Clyde,123,0,flutter,millerhj,3,5,9,millerhj@gmail.com,Clyde
+Stephen Cheng,956,4,qt,tracelog,1,5,3,trace.log@gmail.com,Stephen Cheng
+Lauren,25,0,excel,laurelfan,6,5,5,,Lauren
+Nicolas,21,0,html,ssawda,2,5,1,ssawda@gmail.com,Nicolas
+John Doe,31,0,python,whiteangle,1,5,2,,John Doe
+John Doe,41,0,java,whiteangle,1,5,2,,John Doe
+Jordan Schofield,11,0,asp.net-mvc,schofield,14,5,16,grant@surlysoft.com,Jordan Schofield
+Muhammad Ans,17,0,ruby-on-rails,knud,25,5,19,ksk@ieee.org,Muhammad Ans
+Muhammad Ans,17,0,ruby-on-rails,knud,25,5,19,ksk@ieee.org,Muhammad Ans
+Tim Cooper,9768,381,java,topgenorth,37,5,34,tom@opgenorth.net,Tim Cooper
+Lei Yu,175,0,c++,sumipan,8,5,15,,Lei Yu
+erem,23,1,foreach,papabear,4,5,14,,erem
+erem,23,1,google-sheets,papabear,4,5,14,,erem
+avans,804,3,python-3.x,kmeister2000,9,4,10,karl@meisterheimconsulting.com,avans
+Alexander,63,0,javascript,thebugslayer,2,4,2,thebugslayer,Alexander
+Alexander,4265,1,r,thebugslayer,2,4,2,thebugslayer,Alexander
+Viet Nguyen,11,0,python,meximese,8,4,6,,Viet Nguyen
+vidyanand,906,0,angular,vidyanand,3,4,1,,error
+Judeqiu,906,0,angular,Judeqiu,1,4,5,,error
+filipe-zz,906,0,angular,filipe-zz,1,4,2,,error
+crimond,906,0,angular,crimond,1,4,9,,error
+nickmc,906,0,angular,nickmc,1,4,6,,error
+absz,906,0,angular,absz,2,4,1,,error
+dragosdimitriu,906,0,angular,dragosdimitriu,2,4,6,,error
+hmoniaga,906,0,angular,hmoniaga,2,4,7,,error
+malmeida,906,0,angular,malmeida,2,4,2,,error
+markcp,906,0,angular,markcp,2,4,14,,error
+r7000,906,0,angular,r7000,2,4,3,,error
+markkaganovich,906,0,angular,markkaganovich,4,4,7,,error
+antomonte,906,0,angular,antomonte,1,4,3,,error
+Mikachu,906,0,angular,Mikachu,30,4,5,,error
+alexander,906,0,angular,alexander,6,4,1,,error
+dick,906,0,angular,dick,5,4,10,,error
+tooeasy,906,0,angular,tooeasy,1,4,1,,error
+mpant,906,0,angular,mpant,1,4,10,,error
+andersbergman,906,0,angular,andersbergman,2,4,1,,error
+wkorku,906,0,angular,wkorku,4,4,5,,error
+ggriffiniii,906,0,angular,ggriffiniii,3,4,62,,error
+roov,906,0,angular,roov,2,4,1,,error
+phabulosa,906,0,angular,phabulosa,1,4,1,,error
+yukou,906,0,angular,yukou,1,4,2,,error
+callagga,906,0,angular,callagga,2,4,2,,error
+bassory99,906,0,angular,bassory99,3,4,13,,error
+tms005,906,0,angular,tms005,4,4,15,,error
+nathanroberts,906,0,angular,nathanroberts,10,4,2,nathan@nathanroberts.com,error
+Lars,906,0,angular,Lars,2,4,15,lars.gold@gmail.com,error
+joebloggs,906,0,angular,joebloggs,2,4,2,,error
+ligurmatic,906,0,angular,ligurmatic,3,4,2,,error
+arunalangar,906,0,angular,arunalangar,2,4,2,,error
+vassiliad,906,0,angular,vassiliad,4,4,8,vasiliadis.vasilis@gmail.com,error
+mitsuru,906,0,angular,mitsuru,6,4,65,,error
+sshi,906,0,angular,sshi,3,4,3,,error
+vincentrenais,906,0,angular,vincentrenais,20,4,40,vincentrenais@gmail.com,error
+erickamarante,906,0,angular,erickamarante,6,4,20,,error
+mdahlstrom,906,0,angular,mdahlstrom,9,4,6,mathias.dahlstrom@gmail.com,error
+steffendietz,906,0,angular,steffendietz,8,4,14,,error
+aghassipour,906,0,angular,aghassipour,10,4,4,alexander@aghassipour.com,error
+apasha,906,0,angular,apasha,2,4,2,,error
+twobitfool,906,0,angular,twobitfool,6,4,30,matt@twobitfool.com,error
+baldmountain,906,0,angular,baldmountain,8,4,42,,error
+askey,906,0,angular,askey,2,4,1,,error
+noelklein,906,0,angular,noelklein,6,4,12,,error
+kambiz,906,0,angular,kambiz,4,4,1,,error
+orelworks,906,0,angular,orelworks,6,4,1,,error
+foeken,906,0,angular,foeken,26,4,23,andre.foeken@nedap.com,error
+publlius,906,0,angular,publlius,3,4,8,leandro.vieira@whap.com.br,error
+dkc,906,0,angular,dkc,4,4,2,,error
+hanssen,906,0,angular,hanssen,6,4,4,,error
+asokolov,906,0,angular,asokolov,3,4,2,a.sokolov@artel-gnu.org,error
+brianbr,906,0,angular,brianbr,3,4,2,,error
+matejudo,906,0,angular,matejudo,2,4,3,,error
+johntoups,906,0,angular,johntoups,4,4,3,john@johntoups.com,error
+harish86,906,0,angular,harish86,5,4,11,p.harish86@gmail.com,error
+Paul Clark,41,0,javascript,liron,2,4,1,,Paul Clark
+Mike,1241,0,swift,mikE83,2,4,5,mvazquez83@gmail.com,Mike
+Mike,731,1,r,mikE83,2,4,5,mvazquez83@gmail.com,Mike
+Mike,37,0,c++,mikE83,2,4,5,mvazquez83@gmail.com,Mike
+Mike,447,7,visual-studio,mikE83,2,4,5,mvazquez83@gmail.com,Mike
+Mike,1278,49,javascript,mikE83,2,4,5,mvazquez83@gmail.com,Mike
+Guy,81,0,performance,guymeyer,1,4,1,guy.meyer@gmail.com,Guy
+Dan,3318,170,css,gerdint,4,4,19,,Dan
+Dan,445,7,php,gerdint,4,4,19,,Dan
+Michael Dugas,65,0,php,cbot,8,4,18,,Michael Dugas
+Christian ,47,1,apache-beam,mattwynn1,15,4,17,matt.wynn@gmail.com,Christian 
+Jesse J,532,0,qt,acat,2,4,9,,Jesse J
+Michael Boyer,975,51,opencl,mattweight,4,4,11,,Michael Boyer
+Jonathan Katzer,11,0,java,jdknezek,5,4,16,jdknezek@gmail.com,Jonathan Katzer
+Jonathan Katzer,11,0,java,jdknezek,5,4,16,jdknezek@gmail.com,Jonathan Katzer
+Muhammad Burhan,145,0,objective-c,emghufran,3,4,16,emghufran@gmail.com,Muhammad Burhan
+Matt W,10694,54,c#,arielberg,2,4,11,arielberg@gmail.com,Matt W
+Matt W,10694,54,c#,arielberg,2,4,11,arielberg@gmail.com,Matt W
+Craig,7261,42,javascript,lamsek,2,4,2,,Craig
+eugene,618,4,node.js,genepope,1,4,7,,eugene
+Chris Jones,2510,5,powershell,aquateen,8,4,14,,Chris Jones
+Miguel,25,0,php,giapmaster,3,4,5,giapmaster@gmail.com,Miguel
+Aaron Zinman,2666,195,xcode,kakashi,2,4,4,,Aaron Zinman
+Alexey,306,1,java,therobot,45,4,9,,Alexey
+Alexey,306,1,java,therobot,45,4,9,,Alexey
+Daniel Branco,29,3,java,dpb,2,3,3,,Daniel Branco
+Eric,15,2,laravel,smile45j,3,3,1,,Eric
+Eric,61,0,php,smile45j,3,3,1,,Eric
+Eric,189,0,vue.js,smile45j,3,3,1,,Eric
+Tim,1,0,bash,caplis,18,3,12,,Tim
+Tim,6846,7,jquery,caplis,18,3,12,,Tim
+Tim,930,28,python,caplis,18,3,12,,Tim
+Chris,21,0,airflow,cmu,4,3,6,,Chris
+Chris,25936,730,asp.net,cmu,4,3,6,,Chris
+Chris,1347,3,iphone,cmu,4,3,6,,Chris
+Chris,21,0,blazor-server-side,cmu,4,3,6,,Chris
+Chris,13,0,html,cmu,4,3,6,,Chris
+Chris,35,0,c#,cmu,4,3,6,,Chris
+Chris,775,5,c#,cmu,4,3,6,,Chris
+Chris,1291,26,flutter,cmu,4,3,6,,Chris
+Chris,244,6,macos,cmu,4,3,6,,Chris
+Chris,43,0,c#,cmu,4,3,6,,Chris
+Chris,769,1,jquery,cmu,4,3,6,,Chris
+Chris,3953,69,laravel,cmu,4,3,6,,Chris
+Chris,547,8,postgresql,cmu,4,3,6,,Chris
+Chris,13,0,python,cmu,4,3,6,,Chris
+Chris,25945,170,c#,cmu,4,3,6,,Chris
+Thor Christensen,3,0,reactjs,gallelli,5,3,1,,Thor Christensen
+JulienD,6830,209,python,rajeshvaran,6,3,15,,JulienD
+Michael,943,2,qt,neurokinetikz,8,3,4,,Michael
+Michael,1200,0,reactjs,neurokinetikz,8,3,4,,Michael
+Michael,25,0,javascript,neurokinetikz,8,3,4,,Michael
+Michael,196,1,python,neurokinetikz,8,3,4,,Michael
+Michael,196,1,python,neurokinetikz,8,3,4,,Michael
+Michael,7974,3,ansible,neurokinetikz,8,3,4,,Michael
+Michael,55,0,dax,neurokinetikz,8,3,4,,Michael
+Michael,918,0,pip,neurokinetikz,8,3,4,,Michael
+shayarnett,906,0,angular,shayarnett,97,3,33,,error
+thade,906,0,angular,thade,1,3,4,thade.oconnor@gmail.com,error
+botrby,906,0,angular,botrby,1,3,1,,error
+awallwork,906,0,angular,awallwork,4,3,2,,error
+aktagon,906,0,angular,aktagon,1,3,1,,error
+demerzel,906,0,angular,demerzel,2,3,1,,error
+jreedy,906,0,angular,jreedy,3,3,3,,error
+gammax,906,0,angular,gammax,2,3,1,,error
+oriel,906,0,angular,oriel,11,3,5,,error
+redprophet,906,0,angular,redprophet,1,3,2,,error
+wpozar,906,0,angular,wpozar,3,3,2,,error
+munchboyd,906,0,angular,munchboyd,1,3,2,,error
+xitrium,906,0,angular,xitrium,3,3,2,,error
+WhiteMagic,906,0,angular,WhiteMagic,18,3,6,,error
+kdemanawa,906,0,angular,kdemanawa,1,3,7,,error
+jefmsmit,906,0,angular,jefmsmit,7,3,2,,error
+schoujar,906,0,angular,schoujar,3,3,1,,error
+predhme223,906,0,angular,predhme223,1,3,2,,error
+Encinarus,906,0,angular,Encinarus,2,3,16,,error
+castor,906,0,angular,castor,1,3,1,,error
+vaanisharma,906,0,angular,vaanisharma,1,3,2,,error
+praxedis,906,0,angular,praxedis,2,3,3,,error
+Mercedes,906,0,angular,Mercedes,2,3,2,,error
+gdunzwolff,906,0,angular,gdunzwolff,1,3,7,,error
+downtowncartel,906,0,angular,downtowncartel,3,3,2,info@downtowncartel.com,error
+oguma,906,0,angular,oguma,1,3,21,,error
+hyle,906,0,angular,hyle,3,3,1,,error
+josephjaramillo,906,0,angular,josephjaramillo,1,3,1,,error
+timconstan,906,0,angular,timconstan,1,3,1,,error
+c1de0x,906,0,angular,c1de0x,61,3,1,,error
+faulancer,906,0,angular,faulancer,3,3,1,,error
+pmorici,906,0,angular,pmorici,3,3,8,,error
+qidane,906,0,angular,qidane,12,3,23,,error
+potionfactory,906,0,angular,potionfactory,69,3,3,info@potionfactory.com,error
+chrisdone,906,0,angular,chrisdone,1281,3,196,github@chrisdone.com,error
+pdbarker,906,0,angular,pdbarker,2,3,4,patrick.barker@southwales.ac.uk,error
+schmlblk,906,0,angular,schmlblk,4,3,2,steph@zboing.ca,error
+martymix,906,0,angular,martymix,3,3,2,,error
+bgrossmann,906,0,angular,bgrossmann,2,3,1,,error
+boszme,906,0,angular,boszme,2,3,3,,error
+henrikau,906,0,angular,henrikau,8,3,12,henrik@austad.us,error
+xxnintendoxx,906,0,angular,xxnintendoxx,2,3,2,nintndo@gmail.com,error
+lazeb,906,0,angular,lazeb,2,3,3,larrygsz@gmail.com,error
+picomiles,906,0,angular,picomiles,14,3,23,,error
+severian,906,0,angular,severian,2,3,18,,error
+aerwave,906,0,angular,aerwave,6,3,1,,error
+tdjohn,906,0,angular,tdjohn,2,3,1,,error
+salim,906,0,angular,salim,2,3,2,,error
+bruml2,906,0,angular,bruml2,3,3,13,b@ruml.com,error
+eiffelqiu,906,0,angular,eiffelqiu,34,3,34,eiffel.gm@hotmail.com,error
+storm3d,906,0,angular,storm3d,5,3,8,andrei.tsygankov@gmail.com,error
+asimshankar,906,0,angular,asimshankar,223,3,10,,error
+hammodius,906,0,angular,hammodius,9,3,3,,error
+avivsinai,906,0,angular,avivsinai,3,3,3,,error
+steelpotato,906,0,angular,steelpotato,4,3,3,,error
+jduckett,906,0,angular,jduckett,2,3,4,,error
+trevorb,906,0,angular,trevorb,3,3,4,trevorb@gmail.com,error
+opti,906,0,angular,opti,23,3,25,,error
+Maryam Sadeghi,149,1,python,wkoffel,26,3,21,,Maryam Sadeghi
+superpav,25,0,javascript,diegooliveira,25,3,32,,superpav
+Matt,7813,3,javascript,fuzzyl0g1c,1,3,2,,Matt
+Matt,6036,6,c#,fuzzyl0g1c,1,3,2,,Matt
+Jean Camargo,321,1,vb6,ryankv,4,3,3,,Jean Camargo
+Michal,1925,10,c++,waxcorp,3,3,3,,Michal
+Oliver,33883,1444,github,rulovic,3,3,5,,Oliver
+Oliver,1279,8,iphone,rulovic,3,3,5,,Oliver
+Kevin,183,0,git,jgornick,38,3,55,,Kevin
+Kevin,11,0,snowflake-cloud-data-platform,jgornick,38,3,55,,Kevin
+Kevin,378,4,android,jgornick,38,3,55,,Kevin
+JakeUT,301,1,c#,drry,12,3,1,,JakeUT
+Dev,93,0,powershell,uroboros,33,3,3,ryanlemmer@gmail.com,Dev
+bkaid,50695,1594,facebook,michaelthies,5,3,17,michaelthies78@gmail.com,bkaid
+Jonathan Clark,1043,1,codeigniter,mthomas22,2,3,2,,Jonathan Clark
+Sarah,11,0,python,octoberdan,2,3,2,octoberdan@gmail.com,Sarah
+Sarah,11,0,python,octoberdan,2,3,2,octoberdan@gmail.com,Sarah
+Scott Collins,13,1,.net,ivaner,5,3,3,ivan.ramiscal@mapbox.com,Scott Collins
+Aaron Walker,25,0,session,joninsb,4,3,4,,Aaron Walker
+J.C,550,4,asp.net-mvc,critzjm,16,3,2,john.critz@gmail.com,J.C
+Daniel Fabre,33,0,material-ui,b1gtuna,2,3,5,,Daniel Fabre
+Daniel Fabre,33,0,typescript,b1gtuna,2,3,5,,Daniel Fabre
+Peter Li,360,11,google-compute-engine,Petteri,8,2,2,,Peter Li
+svrishi,906,0,angular,svrishi,4,2,3,,error
+jstetser,906,0,angular,jstetser,2,2,1,,error
+acidburnz,906,0,angular,acidburnz,3,2,6,,error
+iconmaster,906,0,angular,iconmaster,6,2,19,john@johnmarstall.com,error
+spent,906,0,angular,spent,3,2,1,,error
+kajecounterhack,906,0,angular,kajecounterhack,2,2,1,,error
+murphee,906,0,angular,murphee,1,2,1,,error
+zettablade,906,0,angular,zettablade,1,2,2,,error
+nickb,906,0,angular,nickb,4,2,1,,error
+Stefan,906,0,angular,Stefan,5,2,1,,error
+simonpk,906,0,angular,simonpk,5,2,3,,error
+jhoyimperial,906,0,angular,jhoyimperial,1,2,7,,error
+hlopez,906,0,angular,hlopez,2,2,4,,error
+engtech,906,0,angular,engtech,1,2,2,,error
+jwhiteman,906,0,angular,jwhiteman,14,2,15,jimtron9000@gmail.com,error
+tkhozein,906,0,angular,tkhozein,2,2,1,,error
+brianteutsch,906,0,angular,brianteutsch,2,2,1,,error
+oakridgelanl,906,0,angular,oakridgelanl,3,2,3,,error
+bottlecaplabs,906,0,angular,bottlecaplabs,8,2,2,,error
+shaun,906,0,angular,shaun,4,2,2,,error
+jpath,906,0,angular,jpath,2,2,7,,error
+sofal,906,0,angular,sofal,6,2,1,,error
+fabioandrec,906,0,angular,fabioandrec,2,2,21,,error
+billmuell,906,0,angular,billmuell,1,2,1,,error
+lollipierre,906,0,angular,lollipierre,2,2,4,,error
+dramatis,906,0,angular,dramatis,5,2,2,,error
+jamnut,906,0,angular,jamnut,1,2,1,,error
+testk,906,0,angular,testk,1,2,2,,error
+hopkinsd,906,0,angular,hopkinsd,1,2,4,,error
+taansen,906,0,angular,taansen,1,2,1,,error
+joanbarrull,906,0,angular,joanbarrull,1,2,6,,error
+gordondaily,906,0,angular,gordondaily,4,2,1,,error
+MattJ,906,0,angular,MattJ,3,2,1,,error
+pete1,906,0,angular,pete1,1,2,1,,error
+britman,906,0,angular,britman,1,2,2,,error
+mathoda,906,0,angular,mathoda,1,2,1,,error
+shermanl,906,0,angular,shermanl,5,2,4,,error
+fuenby,906,0,angular,fuenby,2,2,2,,error
+JerseyGuy,906,0,angular,JerseyGuy,1,2,1,,error
+minesh,906,0,angular,minesh,1,2,11,,error
+sthapit,906,0,angular,sthapit,2,2,3,,error
+miggymarley,906,0,angular,miggymarley,4,2,1,,error
+roes,906,0,angular,roes,31,2,8,,error
+akeserla,906,0,angular,akeserla,2,2,3,,error
+cjmiyake,906,0,angular,cjmiyake,1,2,1,,error
+Carbon8Jim,906,0,angular,Carbon8Jim,2,2,5,,error
+scottroth,906,0,angular,scottroth,1,2,2,,error
+hvammen,906,0,angular,hvammen,1,2,4,,error
+semblance,906,0,angular,semblance,1,2,2,,error
+spy555,906,0,angular,spy555,1,2,1,,error
+davidlinyi,906,0,angular,davidlinyi,1,2,1,,error
+iantimothy,906,0,angular,iantimothy,4,2,2,,error
+kmtrowbr,906,0,angular,kmtrowbr,1,2,1,,error
+fabiocpn,906,0,angular,fabiocpn,5,2,8,fabiocpn@gmail.com,error
+Amar,906,0,angular,Amar,4,2,1,,error
+bwoolley,906,0,angular,bwoolley,7,2,4,,error
+dmitri-d,906,0,angular,dmitri-d,35,2,9,witlessbird@gmail.com,error
+fpuelz,906,0,angular,fpuelz,1,2,3,,error
+errant,906,0,angular,errant,2,2,15,tom@errant.me.uk,error
+Ternary,906,0,angular,Ternary,1,2,1,,error
+ttarzan,906,0,angular,ttarzan,2,2,1,,error
+Orcateers,906,0,angular,Orcateers,2,2,1,,error
+zzed,906,0,angular,zzed,2,2,1,,error
+nimamdb,906,0,angular,nimamdb,4,2,1,,error
+githorde,906,0,angular,githorde,4,2,1,,error
+nightst4r,906,0,angular,nightst4r,3,2,6,,error
+dwalker,906,0,angular,dwalker,2,2,2,,error
+mmiika,906,0,angular,mmiika,3,2,1,,error
+zsjoska,906,0,angular,zsjoska,2,2,4,,error
+ecuzzillo,906,0,angular,ecuzzillo,6,2,6,ecuzzillo@gmail.com,error
+tanz,906,0,angular,tanz,2,2,1,,error
+mjcaboose,906,0,angular,mjcaboose,2,2,1,,error
+davidvoit,906,0,angular,davidvoit,4,2,12,,error
+delgado-xx,906,0,angular,delgado-xx,5,2,1,,error
+Jimoid,906,0,angular,Jimoid,2,2,5,,error
+Jihoon,906,0,angular,Jihoon,2,2,20,,error
+xcoil,906,0,angular,xcoil,2,2,2,,error
+plugisto,906,0,angular,plugisto,2,2,1,,error
+sargshep,906,0,angular,sargshep,2,2,5,sargshep@gmail.com,error
+jamesiha,906,0,angular,jamesiha,2,2,2,,error
+mmichael,906,0,angular,mmichael,2,2,2,,error
+boazg,906,0,angular,boazg,3,2,3,,error
+saev,906,0,angular,saev,2,2,1,,error
+dougf,906,0,angular,dougf,7,2,1,,error
+morgdx,906,0,angular,morgdx,2,2,2,,error
+ahmed555,906,0,angular,ahmed555,2,2,1,,error
+IsaacsLab42,906,0,angular,IsaacsLab42,2,2,1,,error
+Kelvin,906,0,angular,Kelvin,5,2,1,,error
+anikolaev,906,0,angular,anikolaev,2,2,3,anikolaev@productengine.com,error
+fareign,906,0,angular,fareign,4,2,3,,error
+jndmp3,906,0,angular,jndmp3,3,2,1,,error
+lmagee,906,0,angular,lmagee,4,2,1,,error
+nori,906,0,angular,nori,8,2,2,,error
+nicolasbernard,906,0,angular,nicolasbernard,12,2,19,,error
+Eihiro,906,0,angular,Eihiro,3,2,6,saishu@groovenauts.jp,error
+tonchik,906,0,angular,tonchik,3,2,2,,error
+boxbeat,906,0,angular,boxbeat,3,2,1,,error
+eduuu,906,0,angular,eduuu,2,2,1,,error
+slay-mithos,906,0,angular,slay-mithos,2,2,2,,error
+softbucket,906,0,angular,softbucket,3,2,8,ed.mak.is@gmail.com,error
+because,906,0,angular,because,2,2,1,,error
+jcm,906,0,angular,jcm,2,2,3,jc.michel@symetrie.com,error
+blixten,906,0,angular,blixten,2,2,3,,error
+nommy,906,0,angular,nommy,3,2,1,asuinim@gmail.com,error
+jrobbins,906,0,angular,jrobbins,19,2,8,jrobbins@gmail.com,error
+Carroll,906,0,angular,Carroll,3,2,4,jfpeltier@gmail.com,error
+mickele,906,0,angular,mickele,16,2,3,mickele.moriconi@gmail.com,error
+fbt-xx,906,0,angular,fbt-xx,2,2,1,,error
+tomekpin,906,0,angular,tomekpin,2,2,1,tomalecpub@gmail.com,error
+greennoah,906,0,angular,greennoah,2,2,1,macaroni.ammonite@gmail.com,error
+zacklyn,906,0,angular,zacklyn,2,2,1,,error
+karthikeyan7585,906,0,angular,karthikeyan7585,2,2,1,,error
+Alan,1235,0,objective-c,djsnowsill,2,2,13,,Alan
+Alan,98,0,javascript,djsnowsill,2,2,13,,Alan
+Alan,10058,567,twilio,djsnowsill,2,2,13,,Alan
+Mike,1241,0,swift,royzhu,1,2,2,,Mike
+Mike,731,1,r,royzhu,1,2,2,,Mike
+Mike,37,0,c++,royzhu,1,2,2,,Mike
+Mike,447,7,visual-studio,royzhu,1,2,2,,Mike
+Mike,1278,49,javascript,royzhu,1,2,2,,Mike
+Akash,333,0,python,lolita-id,2,2,3,,Akash
+Akash,35,0,bash,lolita-id,2,2,3,,Akash
+Bob Reynolds,729,8,python,jreynolds,6,2,1,,Bob Reynolds
+Peter,1272,0,file-association,pslusar,2,2,8,,Peter
+Peter,122623,3438,git,pslusar,2,2,8,,Peter
+Peter,21,2,java,pslusar,2,2,8,,Peter
+Peter,151,2,javascript,pslusar,2,2,8,,Peter
+Peter,151,2,javascript,pslusar,2,2,8,,Peter
+Peter,81,0,microservices,pslusar,2,2,8,,Peter
+Peter,145,4,mysql,pslusar,2,2,8,,Peter
+Peter,1300,45,c#,pslusar,2,2,8,,Peter
+Peter,1732,0,amazon-web-services,pslusar,2,2,8,,Peter
+Peter,1732,0,amazon-web-services,pslusar,2,2,8,,Peter
+Peter,13427,90,c#,pslusar,2,2,8,,Peter
+Justin Cho,31,0,python,jgriffin,2,2,11,,Justin Cho
+Markus,40,2,c#,mhargus,4,2,10,mhargus@gmail.com,Markus
+Ryan,689,1,java,jeromio,2,2,4,,Ryan
+Ryan,660,6,firebase,jeromio,2,2,4,,Ryan
+Ryan,433,0,android,jeromio,2,2,4,,Ryan
+Ryan,73,2,html,jeromio,2,2,4,,Ryan
+Ryan,87,0,sql,jeromio,2,2,4,,Ryan
+Paritosh,4106,43,asp.net,sotirac,1,2,2,,Paritosh
+Jimmy,13,0,javascript,bharathi,2,2,1,,Jimmy
+Jimmy,1626,4,c#,bharathi,2,2,1,,Jimmy
+Samuel,7227,315,makefile,elstupidos,1,2,2,,Samuel
+Samuel,512,0,libreoffice-calc,elstupidos,1,2,2,,Samuel
+Daniel Barrett,21,0,excel,auno,10,2,11,,Daniel Barrett
+ksk,75,0,css,edu1507,2,2,1,,ksk
+Gary,1766,4,javascript,gfburke,2,2,1,gfburke@tunecore.com,Gary
+Aaron,13,0,r,agent229,4,2,4,,Aaron
+Aaron,1707,23,aerospike,agent229,4,2,4,,Aaron
+Chris Jones,2510,5,powershell,sticks,2,2,2,,Chris Jones
+David Johns,1035,0,reactjs,andrewcurtis,2,2,12,andrew.curtis@gmail.com,David Johns
+CF Walker,11,0,excel,walker233,5,2,11,,CF Walker
+Alex Choi,48,1,nestjs,wuputahllc,6,2,2,,Alex Choi
+Aaron Walker,25,0,session,walkertexascoder,6,2,6,don@walkertexascoder.com,Aaron Walker
+Eduardo Sousa,719,4,vue.js,wayshawn,3,2,1,,Eduardo Sousa
+Alex,67,0,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,178,0,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,73,2,c#,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,553,45,mysql,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,1107,2,r,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,535,31,javascript,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,43,0,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,45,0,java,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,26,1,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,235,0,angular-material,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,87,2,c#,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,40284,294,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,40284,294,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,908,1,php,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,908,1,php,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,29,0,regex,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,11,0,typescript,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,13,0,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,9902,172,bash,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,23,0,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,30546,64,git,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,30546,64,git,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,143,0,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,143,0,python,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Alex,11,0,binding,blackanger,2,1,1,blackanger.z@gmail.com,Alex
+Michael Bay,21,1,cuda,mbroggy,2,1,9,mbroggy@gmail.com,Michael Bay
+Michael Bay,21,1,cuda,metlak,3,1,2,metlak18@gmail.com,Michael Bay
+Tim,1,0,bash,masterdriverz,2,1,1,masterdriverz@gmail.com,Tim
+Tim,6846,7,jquery,masterdriverz,2,1,1,masterdriverz@gmail.com,Tim
+Tim,930,28,python,masterdriverz,2,1,1,masterdriverz@gmail.com,Tim
+Roman,69,3,reactjs,johnelite,3,1,1,,Roman
+Roman,39,0,sapui5,johnelite,3,1,1,,Roman
+Michael,943,2,qt,dxvxd,5,1,7,,Michael
+Michael,1200,0,reactjs,dxvxd,5,1,7,,Michael
+Michael,25,0,javascript,dxvxd,5,1,7,,Michael
+Michael,196,1,python,dxvxd,5,1,7,,Michael
+Michael,196,1,python,dxvxd,5,1,7,,Michael
+Michael,7974,3,ansible,dxvxd,5,1,7,,Michael
+Michael,55,0,dax,dxvxd,5,1,7,,Michael
+Michael,918,0,pip,dxvxd,5,1,7,,Michael
+Nick,2060,2,javascript,rkage,8,1,5,,Nick
+Nick,61,0,android,rkage,8,1,5,,Nick
+Nick,29,0,scala,rkage,8,1,5,,Nick
+Nick,717,3,excel,rkage,8,1,5,,Nick
+Nick,2950,56,ruby-on-rails,rkage,8,1,5,,Nick
+Nick,128,2,python,rkage,8,1,5,,Nick
+Peter Li,360,11,google-compute-engine,solarce,76,1,170,,Peter Li
+RailsAddict,906,0,angular,RailsAddict,2,1,1,,error
+raymorgan,906,0,angular,raymorgan,7,1,1,,error
+eb1024,906,0,angular,eb1024,3,1,1,,error
+jaf,906,0,angular,jaf,2,1,2,,error
+sxh,906,0,angular,sxh,13,1,2,,error
+rigagoogoo,906,0,angular,rigagoogoo,3,1,2,,error
+julesss,906,0,angular,julesss,3,1,1,,error
+aharper,906,0,angular,aharper,2,1,1,,error
+webtreehouse,906,0,angular,webtreehouse,3,1,1,,error
+ivoencarnacao,906,0,angular,ivoencarnacao,8,1,1,,error
+Screwperman,906,0,angular,Screwperman,1,1,1,,error
+extraface,906,0,angular,extraface,2,1,2,,error
+ike-xx,906,0,angular,ike-xx,1,1,1,,error
+szhao,906,0,angular,szhao,1,1,1,,error
+teamtux,906,0,angular,teamtux,1,1,1,,error
+booleanman,906,0,angular,booleanman,1,1,1,,error
+leifthande,906,0,angular,leifthande,1,1,1,,error
+ademcho,906,0,angular,ademcho,1,1,1,,error
+RyDawg,906,0,angular,RyDawg,1,1,1,,error
+digant,906,0,angular,digant,3,1,1,,error
+Tobu,906,0,angular,Tobu,1,1,1,,error
+drazed,906,0,angular,drazed,5,1,6,,error
+NaTTs,906,0,angular,NaTTs,1,1,1,,error
+Ossi,906,0,angular,Ossi,1,1,1,,error
+sonny,906,0,angular,sonny,4,1,8,,error
+soylentfoo,906,0,angular,soylentfoo,2,1,1,,error
+pwkoolj,906,0,angular,pwkoolj,4,1,1,,error
+markofkin,906,0,angular,markofkin,2,1,1,,error
+KiWiB0RG,906,0,angular,KiWiB0RG,2,1,1,,error
+Sputz,906,0,angular,Sputz,2,1,1,,error
+scudco,906,0,angular,scudco,43,1,32,,error
+alvarocamba,906,0,angular,alvarocamba,2,1,1,,error
+ttyerl,906,0,angular,ttyerl,6,1,11,,error
+itzsuresh,906,0,angular,itzsuresh,2,1,1,,error
+markpagna,906,0,angular,markpagna,2,1,1,,error
+lownoiseamp,906,0,angular,lownoiseamp,3,1,1,,error
+alokjain1,906,0,angular,alokjain1,2,1,10,,error
+rusty0606,906,0,angular,rusty0606,2,1,2,rusty0606@gmail.com,error
+petrov,906,0,angular,petrov,2,1,1,,error
+bigboxsoftware,906,0,angular,bigboxsoftware,3,1,4,,error
+prometheusxx,906,0,angular,prometheusxx,2,1,1,,error
+arnie,906,0,angular,arnie,2,1,1,,error
+GarrettMoore,906,0,angular,GarrettMoore,1,1,6,,error
+aftosmis,906,0,angular,aftosmis,1,1,2,,error
+ACoolie,906,0,angular,ACoolie,1,1,1,,error
+idm,906,0,angular,idm,2,1,2,,error
+torstenschuenemann,906,0,angular,torstenschuenemann,1,1,1,,error
+ukalo,906,0,angular,ukalo,1,1,1,,error
+bsunarjo,906,0,angular,bsunarjo,1,1,3,,error
+aiqbal,906,0,angular,aiqbal,2,1,2,,error
+pbacgrad,906,0,angular,pbacgrad,1,1,2,,error
+robotButler,906,0,angular,robotButler,1,1,2,,error
+notor,906,0,angular,notor,1,1,1,,error
+martinevans,906,0,angular,martinevans,1,1,1,,error
+ds,906,0,angular,ds,5,1,1,,error
+wparsons,906,0,angular,wparsons,1,1,1,,error
+monjaro,906,0,angular,monjaro,2,1,6,,error
+turbonaduv,906,0,angular,turbonaduv,2,1,2,,error
+kinkydarkbird,906,0,angular,kinkydarkbird,1,1,1,,error
+Zimran,906,0,angular,Zimran,1,1,1,,error
+mehulshah,906,0,angular,mehulshah,1,1,1,,error
+maskota,906,0,angular,maskota,1,1,2,,error
+feniks2003,906,0,angular,feniks2003,1,1,1,,error
+pizgin,906,0,angular,pizgin,1,1,1,,error
+tfbarrett1981,906,0,angular,tfbarrett1981,1,1,10,,error
+E-xact,906,0,angular,E-xact,3,1,1,,error
+luciano-zz,906,0,angular,luciano-zz,2,1,1,,error
+jjune001,906,0,angular,jjune001,2,1,1,,error
+afrojas,906,0,angular,afrojas,3,1,11,,error
+OhOhWonOne,906,0,angular,OhOhWonOne,1,1,1,,error
+gitter,906,0,angular,gitter,4,1,1,,error
+xeon,906,0,angular,xeon,1,1,1,,error
+clempro,906,0,angular,clempro,1,1,1,,error
+blueguru,906,0,angular,blueguru,1,1,1,,error
+vborja,906,0,angular,vborja,2,1,2,,error
+zaratustra,906,0,angular,zaratustra,1,1,1,,error
+edlenox,906,0,angular,edlenox,3,1,17,,error
+valyana,906,0,angular,valyana,1,1,1,,error
+picnichouse,906,0,angular,picnichouse,1,1,1,,error
+lego0505,906,0,angular,lego0505,2,1,2,,error
+primmer,906,0,angular,primmer,7,1,2,,error
+papasi,906,0,angular,papasi,1,1,1,,error
+lunarsway,906,0,angular,lunarsway,1,1,1,,error
+bkirsch,906,0,angular,bkirsch,1,1,1,,error
+ggarbern,906,0,angular,ggarbern,2,1,3,,error
+sefner,906,0,angular,sefner,1,1,2,,error
+Yves-xx,906,0,angular,Yves-xx,1,1,1,,error
+cristiantacchi,906,0,angular,cristiantacchi,1,1,3,,error
+eLmatador,906,0,angular,eLmatador,1,1,1,,error
+testapi11,906,0,angular,testapi11,1,1,1,,error
+dboswell,906,0,angular,dboswell,1,1,5,,error
+AdrianM,906,0,angular,AdrianM,4,1,8,,error
+itirksme,906,0,angular,itirksme,1,1,1,,error
+monkpow,906,0,angular,monkpow,9,1,12,,error
+hebrewhammer,906,0,angular,hebrewhammer,1,1,1,,error
+mjb,906,0,angular,mjb,5,1,2,,error
+slusnys,906,0,angular,slusnys,2,1,4,,error
+Verequus,906,0,angular,Verequus,3,1,4,,error
+davidbarral,906,0,angular,davidbarral,40,1,7,david@trabe.io,error
+MaxLutterbeck,906,0,angular,MaxLutterbeck,1,1,1,,error
+philsmirnov,906,0,angular,philsmirnov,2,1,2,,error
+jramirez00,906,0,angular,jramirez00,1,1,1,,error
+matthanlon,906,0,angular,matthanlon,1,1,1,,error
+tore,906,0,angular,tore,7,1,1,,error
+keith74,906,0,angular,keith74,1,1,2,,error
+twood,906,0,angular,twood,1,1,7,,error
+egenial,906,0,angular,egenial,16,1,6,carloseduardo@egenial.com.br,error
+ircat,906,0,angular,ircat,1,1,1,,error
+per,906,0,angular,per,1,1,7,,error
+manyoso,906,0,angular,manyoso,13,1,22,,error
+chadh,906,0,angular,chadh,2,1,35,chad.huneycutt@gmail.com,error
+thunder75,906,0,angular,thunder75,2,1,1,,error
+dojosp,906,0,angular,dojosp,30,1,1,,error
+selva,906,0,angular,selva,2,1,2,,error
+lizbaron,906,0,angular,lizbaron,7,1,16,,error
+mlaks,906,0,angular,mlaks,2,1,1,,error
+hamid-baghi,906,0,angular,hamid-baghi,3,1,1,,error
+SteveDelbar,906,0,angular,SteveDelbar,2,1,1,,error
+janin,906,0,angular,janin,13,1,30,janin.kolenc@gmail.com,error
+miguelvall,906,0,angular,miguelvall,2,1,1,,error
+jgleason,906,0,angular,jgleason,2,1,1,,error
+workstation,906,0,angular,workstation,3,1,1,,error
+BluntBox,906,0,angular,BluntBox,2,1,1,,error
+laisladencanta,906,0,angular,laisladencanta,2,1,1,,error
+songbirdtyler,906,0,angular,songbirdtyler,2,1,1,,error
+drongo,906,0,angular,drongo,2,1,1,,error
+gtlabs,906,0,angular,gtlabs,2,1,1,,error
+florian-zz,906,0,angular,florian-zz,3,1,1,,error
+nealk3nc,906,0,angular,nealk3nc,2,1,2,nealk3nc@gmail.com,error
+72photos,906,0,angular,72photos,2,1,1,support@72photos.com,error
+restlest,906,0,angular,restlest,3,1,1,muzzye@mskcc.org,error
+sakurada,906,0,angular,sakurada,2,1,2,,error
+haeru,906,0,angular,haeru,2,1,1,,error
+bt4y,906,0,angular,bt4y,2,1,1,,error
+malindhorst,906,0,angular,malindhorst,4,1,5,,error
+adamchronister,906,0,angular,adamchronister,3,1,1,,error
+expathos,906,0,angular,expathos,5,1,3,expathos@gmail.com,error
+elaineoc,906,0,angular,elaineoc,12,1,9,,error
+sworoc,906,0,angular,sworoc,3,1,1,dustin.rayner@gmail.com,error
+mamira,906,0,angular,mamira,2,1,1,,error
+duxzitta,906,0,angular,duxzitta,2,1,3,,error
+sansnoc,906,0,angular,sansnoc,7,1,1,,error
+hss,906,0,angular,hss,2,1,4,,error
+dtsdts2323,906,0,angular,dtsdts2323,2,1,1,,error
+vaseline28,906,0,angular,vaseline28,3,1,1,,error
+Tatoun,906,0,angular,Tatoun,3,1,1,,error
+jmasinter,906,0,angular,jmasinter,3,1,1,joe.masinter@gmail.com,error
+kdough,906,0,angular,kdough,5,1,2,,error
+paulstay,906,0,angular,paulstay,5,1,2,,error
+mariadosantos,906,0,angular,mariadosantos,3,1,1,,error
+jankur,906,0,angular,jankur,3,1,1,,error
+pedernofsky,906,0,angular,pedernofsky,3,1,1,,error
+sitaram,906,0,angular,sitaram,3,1,6,,error
+ratnavel123,906,0,angular,ratnavel123,3,1,1,,error
+nhillyer,906,0,angular,nhillyer,6,1,2,,error
+borbyu,906,0,angular,borbyu,7,1,4,jason@woys.org,error
+afmfreelance,906,0,angular,afmfreelance,2,1,1,,error
+TeKRunneR,906,0,angular,TeKRunneR,2,1,2,,error
+themiller,906,0,angular,themiller,2,1,7,,error
+danielnola,906,0,angular,danielnola,2,1,2,,error
+helloyou,906,0,angular,helloyou,2,1,1,,error
+demiurge,906,0,angular,demiurge,2,1,17,,error
+rudenko,906,0,angular,rudenko,2,1,1,,error
+k-n,906,0,angular,k-n,3,1,3,,error
+lucatironi,906,0,angular,lucatironi,67,1,43,luca.tironi@gmail.com,error
+mcintosh,906,0,angular,mcintosh,4,1,64,,error
+dksaarth,906,0,angular,dksaarth,3,1,1,,error
+geofftso,906,0,angular,geofftso,2,1,1,,error
+zord,906,0,angular,zord,2,1,1,,error
+neo-xx,906,0,angular,neo-xx,2,1,1,,error
+drford,906,0,angular,drford,3,1,1,,error
+ffahs,906,0,angular,ffahs,2,1,1,,error
+pakcusoft,906,0,angular,pakcusoft,2,1,10,,error
+tohki,906,0,angular,tohki,2,1,6,,error
+maru35s,906,0,angular,maru35s,2,1,1,,error
+Scott Purtan,169,2,asp.net-mvc-3,stevenjmyu,2,1,1,,Scott Purtan
+Max,606,28,python,hetappi,2,1,1,hetappi.pm (a) gmail.com,Max
+Max,797,1,flutter,hetappi,2,1,1,hetappi.pm (a) gmail.com,Max
+Max,3790,0,html,hetappi,2,1,1,hetappi.pm (a) gmail.com,Max
+Dave,15684,14,junit,therealtroll,2,1,1,,Dave
+Brian,10621,68,amazon-web-services,jsbournival,6,1,7,jsbournival@gmail.com,Brian
+Brian,25,0,html,jsbournival,6,1,7,jsbournival@gmail.com,Brian
+Glen,521,1,php,houzongming,2,1,1,,Glen
+Andrew Walker,39268,599,python,superpea,4,1,2,,Andrew Walker
+Andrew Walker,63,0,php,superpea,4,1,2,,Andrew Walker
+Daniel Costa,87,3,python,unodgs,6,1,10,unodgs@gmail.com,Daniel Costa
+Ryan,689,1,java,airefuerte,2,1,1,erwin.feser@gmail.com,Ryan
+Ryan,660,6,firebase,airefuerte,2,1,1,erwin.feser@gmail.com,Ryan
+Ryan,433,0,android,airefuerte,2,1,1,erwin.feser@gmail.com,Ryan
+Ryan,73,2,html,airefuerte,2,1,1,erwin.feser@gmail.com,Ryan
+Ryan,87,0,sql,airefuerte,2,1,1,erwin.feser@gmail.com,Ryan
+Jeffrey Chen,1561,29,android,jochu,57,1,10,,Jeffrey Chen
+Yan Zhang,341,0,python,lumpynose,2,1,60,rusty.wright@gmail.com,Yan Zhang
+Tomer,17457,246,java,marceldegraaf,67,1,101,mail@marceldegraaf.net,Tomer
+Matt,7813,3,javascript,emir-xx,2,1,1,,Matt
+Matt,6036,6,c#,emir-xx,2,1,1,,Matt
+DmitrySemenov,8268,288,python,kamme,2,1,1,,DmitrySemenov
+Suan,31735,4,git,songsta,2,1,1,zayne@zayne.co.za,Suan
+Caleb,453,0,reactjs,cheesytrees,2,1,1,,Caleb
+Astro,338,7,css,danushka,2,1,1,,Astro
+Hosam Hashem,45,2,python,wzinc,5,1,8,,Hosam Hashem
+Erik van de Ven,4408,0,node.js,duffman,6,1,94,,Erik van de Ven
+Christopher,1,0,uml,mgrosello,3,1,8,mgrosello@gmail.com,Christopher
+Christopher,1,0,uml,reknut,2,1,1,,Christopher
+Christopher,3329,30,laravel,mgrosello,3,1,8,mgrosello@gmail.com,Christopher
+Christopher,3329,30,laravel,reknut,2,1,1,,Christopher
+Daniel,2429,127,c++,zenhip,5,1,1,zenhip@gmail.com,Daniel
+Daniel,201,0,c++,zenhip,5,1,1,zenhip@gmail.com,Daniel
+Daniel,12290,172,reactjs,zenhip,5,1,1,zenhip@gmail.com,Daniel
+Daniel,2256,62,macos,zenhip,5,1,1,zenhip@gmail.com,Daniel
+ian,11613,616,ruby,zeiglar,1,1,3,,ian
+Andrew M,341,0,sql,khemit,4,1,3,,Andrew M
+toddmo,18935,760,c#,RheoDesign,2,1,3,,toddmo
+Chris Rose,15,0,javascript,jpcooper-zz,2,1,5,,Chris Rose
+Michael Boyer,975,51,opencl,mkbehr,6,1,8,,Michael Boyer
+Michael Boyer,975,51,opencl,thrawn,5,1,20,,Michael Boyer
+Oliver,33883,1444,github,qbert,2,1,12,cowahl@gmail.com,Oliver
+Oliver,1279,8,iphone,qbert,2,1,12,cowahl@gmail.com,Oliver
+Travis,2165,32,html,trails,3,1,1,,Travis
+Andrew Wu,3,5,.net,wan,7,1,9,,Andrew Wu
+Dima,3998,51,java,dimaka,1,1,1,quo@dimaka.org,Dima
+Rob,97,2,java,nelz9999,16,1,15,,Rob
+David Brown,2886,95,android,Ealireza,2,1,1,,David Brown
+Neesa,13,0,javascript,blueblade,2,1,5,,Neesa
+Phil,41054,0,docker,phillipgore,3,1,6,,Phil
+Chris Jones,2510,5,powershell,mic,6,1,10,,Chris Jones
+Michael Thrift,53,3,c#,mvdetsen,3,1,1,,Michael Thrift
+Christopher Causer,1184,0,tabs,joaorafael,3,1,2,,Christopher Causer
+Ganesh Somani,2095,59,ios,bingsuns,3,1,2,,Ganesh Somani
+zoro,57,1,django,malte,5,1,5,malte.euler@gmail.com,zoro
+zoro,57,1,django,malte,5,1,5,malte.euler@gmail.com,zoro
+Nick Wray,1,0,r,kentpilkington,2,1,1,kpilkington@highlandhomes.com,Nick Wray
+Ken,81,0,c++,khb,2,1,1,,Ken
+Matthew G.,1258,11,c++,Zimorodok,3,1,1,,Matthew G.
+Matthew G.,1258,11,c++,ibn,2,1,1,,Matthew G.
+Martin Carel,285,7,ruby-on-rails,jhoover667,3,1,1,,Martin Carel
+Kevin Yang,167,0,flutter,kevinwong,1,1,2,,Kevin Yang
+Kevin Yang,167,0,flutter,kevinwong,1,1,2,,Kevin Yang
+John ,721,9,c++,mgalves,19,1,14,mgalves@gmail.com,John 
+John ,721,7,c++,mgalves,19,1,14,mgalves@gmail.com,John 
+Ivan,31,0,security,ipenido,3,0,1,,Ivan
+Ivan,73,0,python,ipenido,3,0,1,,Ivan
+Ivan,6974,1,c++,ipenido,3,0,1,,Ivan
+Alex,67,0,python,eegs,0,0,1,,Alex
+Alex,178,0,python,eegs,0,0,1,,Alex
+Alex,73,2,c#,eegs,0,0,1,,Alex
+Alex,553,45,mysql,eegs,0,0,1,,Alex
+Alex,1107,2,r,eegs,0,0,1,,Alex
+Alex,535,31,javascript,eegs,0,0,1,,Alex
+Alex,43,0,python,eegs,0,0,1,,Alex
+Alex,45,0,java,eegs,0,0,1,,Alex
+Alex,26,1,python,eegs,0,0,1,,Alex
+Alex,235,0,angular-material,eegs,0,0,1,,Alex
+Alex,87,2,c#,eegs,0,0,1,,Alex
+Alex,40284,294,python,eegs,0,0,1,,Alex
+Alex,40284,294,python,eegs,0,0,1,,Alex
+Alex,908,1,php,eegs,0,0,1,,Alex
+Alex,908,1,php,eegs,0,0,1,,Alex
+Alex,29,0,regex,eegs,0,0,1,,Alex
+Alex,11,0,typescript,eegs,0,0,1,,Alex
+Alex,13,0,python,eegs,0,0,1,,Alex
+Alex,9902,172,bash,eegs,0,0,1,,Alex
+Alex,23,0,python,eegs,0,0,1,,Alex
+Alex,30546,64,git,eegs,0,0,1,,Alex
+Alex,30546,64,git,eegs,0,0,1,,Alex
+Alex,143,0,python,eegs,0,0,1,,Alex
+Alex,143,0,python,eegs,0,0,1,,Alex
+Alex,11,0,binding,eegs,0,0,1,,Alex
+Tom,15113,0,visual-studio,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Tom,285,4,python,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Tom,1233,0,c#,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Tom,2453,47,symfony,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Tom,6736,314,c++,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Tom,63,0,node.js,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Tom,6768,0,asp.net,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Tom,153,10,android-studio,Tunsworthy,4,0,15,mail@tomunsworth.net,Tom
+Anthony,41,0,javascript,openmoney,0,0,17,,Anthony
+Anthony,1603,24,c#,openmoney,0,0,17,,Anthony
+intra,13,0,python,sinatra,0,0,12,,intra
+Chris,21,0,airflow,ceball,37,0,72,,Chris
+Chris,25936,730,asp.net,ceball,37,0,72,,Chris
+Chris,1347,3,iphone,ceball,37,0,72,,Chris
+Chris,21,0,blazor-server-side,ceball,37,0,72,,Chris
+Chris,13,0,html,ceball,37,0,72,,Chris
+Chris,35,0,c#,ceball,37,0,72,,Chris
+Chris,775,5,c#,ceball,37,0,72,,Chris
+Chris,1291,26,flutter,ceball,37,0,72,,Chris
+Chris,244,6,macos,ceball,37,0,72,,Chris
+Chris,43,0,c#,ceball,37,0,72,,Chris
+Chris,769,1,jquery,ceball,37,0,72,,Chris
+Chris,3953,69,laravel,ceball,37,0,72,,Chris
+Chris,547,8,postgresql,ceball,37,0,72,,Chris
+Chris,13,0,python,ceball,37,0,72,,Chris
+Chris,25945,170,c#,ceball,37,0,72,,Chris
+David Ho,110,3,reactjs,dmholmes,1,0,2,dmholmes@gmail.com,David Ho
+David Ho,110,3,reactjs,highgroove,0,0,34,,David Ho
+Thomas,1121,8,python,tomaszskutnik,3,0,2,Tomasz.Skutnik@gmail.com,Thomas
+Thomas,95,0,tsql,tomaszskutnik,3,0,2,Tomasz.Skutnik@gmail.com,Thomas
+Thomas,13,0,regression,tomaszskutnik,3,0,2,Tomasz.Skutnik@gmail.com,Thomas
+Tiago Santos,21,0,android,netrunner-kubuntu-legacy,0,0,16,,Tiago Santos
+Luke,49,2,reactjs,stjohn,21,0,6,katherine.stjohn@hunter.cuny.edu,Luke
+Paul,23,0,regex,metaquark,0,0,16,,Paul
+Paul,89,2,javascript,metaquark,0,0,16,,Paul
+Paul,24962,1,git,metaquark,0,0,16,,Paul
+Paul,331,3,macos,metaquark,0,0,16,,Paul
+dave,115,1,python,abrcoelho,0,0,2,abrcoelho@gmail.com,dave
+Mark,51,0,python,karin,2,0,1,,Mark
+Mark,611,5,objective-c,karin,2,0,1,,Mark
+Mark,109,1,python-3.x,karin,2,0,1,,Mark
+Mark,2250,61,permissions,karin,2,0,1,,Mark
+Mark,5542,11,linux-kernel,karin,2,0,1,,Mark
+Mark,512,2,r,karin,2,0,1,,Mark
+KTM,848,0,php,bellroy,0,0,145,bellroy.github@bellroy.com,KTM
+Bastien,2823,126,r,ridcully,2,0,9,,Bastien
+Ron,367,0,python,rdamen,26,0,1,,Ron
+Ron,384,0,iphone,rdamen,26,0,1,,Ron
+errfree,906,0,angular,errfree,0,0,2,,error
+joe,906,0,angular,joe,13,0,4,,error
+perpet,906,0,angular,perpet,2,0,5,,error
+GLXSeries,906,0,angular,GLXSeries,1,0,3,,error
+liebling,906,0,angular,liebling,1,0,1,,error
+jackliddle,906,0,angular,jackliddle,1,0,2,,error
+seano288,906,0,angular,seano288,2,0,2,,error
+mtsuruta,906,0,angular,mtsuruta,1,0,1,,error
+cjsmessaert,906,0,angular,cjsmessaert,1,0,6,,error
+jkit,906,0,angular,jkit,4,0,13,,error
+mauve928,906,0,angular,mauve928,9,0,1,,error
+usman,906,0,angular,usman,3,0,1,,error
+davidwoodhouse,906,0,angular,davidwoodhouse,1,0,1,,error
+ellinghaus,906,0,angular,ellinghaus,1,0,1,,error
+fitz,906,0,angular,fitz,6,0,7,,error
+shodZ,906,0,angular,shodZ,2,0,3,,error
+bdecrem,906,0,angular,bdecrem,6,0,5,bdecrem@gmail.com,error
+rmorrell,906,0,angular,rmorrell,2,0,1,,error
+FloTuEuR,906,0,angular,FloTuEuR,2,0,1,,error
+crazoid,906,0,angular,crazoid,2,0,18,crazoid@gmail.com,error
+blandest,906,0,angular,blandest,2,0,5,,error
+daxpayne,906,0,angular,daxpayne,2,0,3,,error
+ALexanderLonsky,906,0,angular,ALexanderLonsky,6,0,5,,error
+FiReMaGe,906,0,angular,FiReMaGe,2,0,1,,error
+mgeimer,906,0,angular,mgeimer,2,0,1,,error
+rion,906,0,angular,rion,7,0,2,,error
+rander,906,0,angular,rander,2,0,6,,error
+jareCare,906,0,angular,jareCare,5,0,1,,error
+reversemerman,906,0,angular,reversemerman,2,0,2,,error
+Brandhor,906,0,angular,Brandhor,3,0,15,,error
+simianstyle,906,0,angular,simianstyle,2,0,5,,error
+kaidenvo,906,0,angular,kaidenvo,2,0,1,,error
+reval,906,0,angular,reval,3,0,1,,error
+johnt,906,0,angular,johnt,2,0,5,,error
+endrick-duplicate,906,0,angular,endrick-duplicate,1,0,1,,error
+endrick,906,0,angular,endrick,4,0,1,,error
+Dearon,906,0,angular,Dearon,3,0,21,,error
+nhe,906,0,angular,nhe,1,0,1,,error
+urbandirtbag,906,0,angular,urbandirtbag,1,0,2,,error
+superpeixeboi,906,0,angular,superpeixeboi,13,0,1,,error
+rogovskiy,906,0,angular,rogovskiy,1,0,11,,error
+poteri,906,0,angular,poteri,1,0,3,,error
+Phoemuex,906,0,angular,Phoemuex,2,0,1,,error
+gbesch,906,0,angular,gbesch,1,0,1,,error
+diegopolo,906,0,angular,diegopolo,1,0,1,,error
+khaosduke,906,0,angular,khaosduke,2,0,3,,error
+harish,906,0,angular,harish,5,0,3,,error
+carlsi,906,0,angular,carlsi,1,0,1,,error
+chuonthis,906,0,angular,chuonthis,2,0,4,,error
+willvr,906,0,angular,willvr,2,0,3,,error
+jolly-zz,906,0,angular,jolly-zz,1,0,1,,error
+steveaba,906,0,angular,steveaba,1,0,1,,error
+kiff100,906,0,angular,kiff100,1,0,1,,error
+callumbaillie,906,0,angular,callumbaillie,1,0,1,,error
+sanswork,906,0,angular,sanswork,0,0,1,,error
+DeeJay,906,0,angular,DeeJay,2,0,37,,error
+ografael,906,0,angular,ografael,0,0,4,,error
+tayohei,906,0,angular,tayohei,2,0,3,,error
+stormer,906,0,angular,stormer,1,0,2,,error
+bthendricks,906,0,angular,bthendricks,1,0,1,,error
+appleswim1,906,0,angular,appleswim1,1,0,2,,error
+mind-zz,906,0,angular,mind-zz,1,0,1,,error
+vitadewi,906,0,angular,vitadewi,4,0,5,,error
+radishs,906,0,angular,radishs,1,0,1,,error
+futileohm,906,0,angular,futileohm,2,0,1,,error
+sarpulhu,906,0,angular,sarpulhu,1,0,1,,error
+theaxion,906,0,angular,theaxion,1,0,1,,error
+ronniemuhadi,906,0,angular,ronniemuhadi,1,0,1,,error
+jamesmiller,906,0,angular,jamesmiller,1,0,1,,error
+lievenvanderheide,906,0,angular,lievenvanderheide,1,0,4,,error
+abramcookson,906,0,angular,abramcookson,1,0,1,,error
+ebald,906,0,angular,ebald,2,0,2,,error
+nabinrs,906,0,angular,nabinrs,1,0,2,,error
+koko,906,0,angular,koko,6,0,88,,error
+jhaemer,906,0,angular,jhaemer,1,0,1,,error
+dbraziel,906,0,angular,dbraziel,1,0,1,,error
+hides,906,0,angular,hides,1,0,1,,error
+wafa,906,0,angular,wafa,1,0,1,,error
+paulomonteiro,906,0,angular,paulomonteiro,1,0,1,,error
+shagstaphone,906,0,angular,shagstaphone,2,0,2,,error
+jgaleano,906,0,angular,jgaleano,1,0,5,,error
+houstonn,906,0,angular,houstonn,1,0,1,,error
+kaasu,906,0,angular,kaasu,1,0,4,,error
+heldercorreia,906,0,angular,heldercorreia,6,0,5,,error
+Instrument,906,0,angular,Instrument,0,0,34,,error
+mir,906,0,angular,mir,3,0,26,,error
+jdiepenmaat,906,0,angular,jdiepenmaat,5,0,1,joost@moneybird.com,error
+mattkammersell,906,0,angular,mattkammersell,3,0,4,,error
+rightclearing,906,0,angular,rightclearing,0,0,5,,error
+uniglam,906,0,angular,uniglam,0,0,4,,error
+edaugherty,906,0,angular,edaugherty,3,0,5,,error
+jurgen,906,0,angular,jurgen,1,0,1,,error
+shabs,906,0,angular,shabs,1,0,4,,error
+github,906,0,angular,github,0,0,433,,error
+esofomuso,906,0,angular,esofomuso,3,0,12,,error
+front-end,906,0,angular,front-end,0,0,1,,error
+himi,906,0,angular,himi,8,0,12,himi@meadowy.org,error
+elevation,906,0,angular,elevation,0,0,38,,error
+regetz,906,0,angular,regetz,3,0,1,,error
+bretm,906,0,angular,bretm,2,0,2,,error
+neno,906,0,angular,neno,6,0,42,neno@neno.ch,error
+scotty,906,0,angular,scotty,0,0,1,,error
+himitsu,906,0,angular,himitsu,2,0,2,,error
+bauersman,906,0,angular,bauersman,10,0,17,,error
+Auroness,906,0,angular,Auroness,2,0,4,,error
+Stephan,906,0,angular,Stephan,0,0,2,,error
+asari,906,0,angular,asari,2,0,2,,error
+sapo,906,0,angular,sapo,0,0,11,,error
+alipanick,906,0,angular,alipanick,2,0,1,alipanick@gmail.com,error
+secondrotation,906,0,angular,secondrotation,0,0,2,,error
+glennswanson,906,0,angular,glennswanson,2,0,8,glenn@oldenburghouse.com,error
+compaqbob,906,0,angular,compaqbob,5,0,2,,error
+benwalsh,906,0,angular,benwalsh,12,0,7,ben@dalymount.com,error
+joshmerchant,906,0,angular,joshmerchant,8,0,14,,error
+amcmanus,906,0,angular,amcmanus,8,0,1,,error
+reddit,906,0,angular,reddit,0,0,94,,error
+dwebb,906,0,angular,dwebb,2,0,9,,error
+Binaryzero,906,0,angular,Binaryzero,0,0,3,,error
+andr3w,906,0,angular,andr3w,2,0,5,,error
+invisible-hand,906,0,angular,invisible-hand,2,0,21,,error
+platform45,906,0,angular,platform45,0,0,25,hi@platform45.com,error
+jannostern,906,0,angular,jannostern,3,0,1,,error
+Khan,906,0,angular,Khan,0,0,456,,error
+goajunior,906,0,angular,goajunior,7,0,10,georgeainsworthjr@gmail.com,error
+Kellokes,906,0,angular,Kellokes,4,0,2,fih01@hotmail.com,error
+pac,906,0,angular,pac,0,0,89,,error
+doublethrow,906,0,angular,doublethrow,3,0,2,,error
+amackay11,906,0,angular,amackay11,3,0,1,amackay11@yahoo.com,error
+ajackson,906,0,angular,ajackson,41,0,1,,error
+rakoch,906,0,angular,rakoch,4,0,7,,error
+priyendra,906,0,angular,priyendra,6,0,10,,error
+AncaU,906,0,angular,AncaU,5,0,1,,error
+dud,906,0,angular,dud,5,0,1,eduardo.andrade@vtex.com.br,error
+simplificator,906,0,angular,simplificator,0,0,77,info@simplificator.com,error
+sjbyl,906,0,angular,sjbyl,3,0,1,sjbyl@hotmail.com,error
+ullmann,906,0,angular,ullmann,3,0,6,,error
+herle88,906,0,angular,herle88,3,0,3,,error
+morne,906,0,angular,morne,3,0,2,,error
+ljulliar,906,0,angular,ljulliar,5,0,14,laurent@moldus.org,error
+alexandrandronescu,906,0,angular,alexandrandronescu,2,0,5,,error
+lucidnz,906,0,angular,lucidnz,0,0,40,team@lucid.nz,error
+howardkao,906,0,angular,howardkao,4,0,2,,error
+acknet,906,0,angular,acknet,0,0,1,,error
+marcvandort,906,0,angular,marcvandort,2,0,1,marcvandort@gmail.com,error
+thenonsequitur,906,0,angular,thenonsequitur,7,0,7,thenonsequitur@gmail.com,error
+matzbar,906,0,angular,matzbar,3,0,3,matzbar@gmail.com,error
+trisignia,906,0,angular,trisignia,0,0,24,,error
+LewisW,906,0,angular,LewisW,0,0,118,,error
+priimak,906,0,angular,priimak,6,0,30,,error
+tfasciana,906,0,angular,tfasciana,2,0,1,,error
+dcg,1130,0,c#,desaperados,49,0,46,,dcg
+Alexandre Tavares,53,0,python,djl,27,0,51,,Alexandre Tavares
+Mohammad Ashraf,3,1,node.js,primary0,23,0,22,,Mohammad Ashraf
+Lindsay,69,1,html,antoxu,3,0,2,,Lindsay
+Glen,521,1,php,smart2128,4,0,30,,Glen
+Alexander Kalian,919,0,sql,dawidofed,3,0,8,dawid@federowicz.net,Alexander Kalian
+Jason,14598,67,html,f440,16,0,64,,Jason
+Jason,51,0,python,f440,16,0,64,,Jason
+Toy,6297,0,linq,tank157,8,0,7,boltcordandsphere@gmail.com,Toy
+Nicolas Degen,1219,74,swift,timc,2,0,3,,Nicolas Degen
+Matt,7813,3,javascript,mattt,0,0,74,,Matt
+Matt,6036,6,c#,mattt,0,0,74,,Matt
+Matthew Kwong,1999,109,reactjs,mattly,0,0,52,matthew@lyonheart.us,Matthew Kwong
+Christian ,47,1,apache-beam,intersect,0,0,5,,Christian 
+Christopher,1,0,uml,tannz,2,0,1,,Christopher
+Christopher,3329,30,laravel,tannz,2,0,1,,Christopher
+Daniel,2429,127,c++,PJJD,2,0,6,pieterjan.delaruelle@gmail.com,Daniel
+Daniel,201,0,c++,PJJD,2,0,6,pieterjan.delaruelle@gmail.com,Daniel
+Daniel,12290,172,reactjs,PJJD,2,0,6,pieterjan.delaruelle@gmail.com,Daniel
+Daniel,2256,62,macos,PJJD,2,0,6,pieterjan.delaruelle@gmail.com,Daniel
+Ben Saufley,3173,9,php,mirfanud,5,0,3,,Ben Saufley
+Eggy,490,6,android,wiwat,3,0,14,wruengmee@spoton.com,Eggy
+Andrew M,341,0,sql,codemonkeylabs,0,0,3,,Andrew M
+Linh Nguyen,2885,115,django,long,7,0,25,long.nguyen@rayburst.com,Linh Nguyen
+Mark Miller,2855,82,sparql,sargekennedy,2,0,1,,Mark Miller
+Homer Jay Simpson,802,1,r,jlewis,11,0,3,justin@instrument.com,Homer Jay Simpson
+Homer Jay Simpson,802,1,r,jlewis,11,0,3,justin@instrument.com,Homer Jay Simpson
+Jelly,776,0,java,brijbhasin,2,0,4,brijbhasin@gmail.com,Jelly
+Alex F,2893,3,dart,liwei,0,0,21,,Alex F
+powerseed,816,0,javascript,mpowered,0,0,28,,powerseed
+Lucas Pereira,527,1,python,ernie,464,0,58,ernie@ernie.io,Lucas Pereira
+Stephen,95,4,c#,broadstripes,0,0,14,admin@broadstripes.com,Stephen
+Chris Jones,2510,5,powershell,nleach,1,0,2,nleach@toplineconsulting.com,Chris Jones
+SebastianG,7163,26,angular,bastilian,84,0,73,,SebastianG
+Evgenii,35215,1043,swift,cutillo,5,0,11,,Evgenii
+Evgenii,35215,1043,swift,cutillo,5,0,11,,Evgenii
+David Powell,524,1,ibm-cloud,goodav,2,0,5,goodav@yahoo.com,David Powell
+Michael Mano,3224,41,laravel,yahoo,0,0,206,ospo@yahooinc.com,Michael Mano
+Joe,119084,7425,c#,mrluanma,355,36526,12,mrluanma@gmail.com,Zhao Xiaohong
+Roman Luštrik,67530,4867,r,nikolay,397,32667,37,pihati7989@ploneix.com,Nikolay Kolev
+Adam Rackis,81592,3750,javascript,tkersey,286,25736,20,pihati7989@ploneix.com,Tim Kersey
+Svish,147503,622,c#,arden,221,10335,338,arden@tujiao.com,arden
+Grundlefleck,120649,5663,bash,artob,439,10139,36,arto@aurora.dev,Arto Bendiken
+Abdennour TOUMI,79525,4341,javascript,charlenopires,428,9758,63,charleno@gmail.com,Charleno Pires
+Robert Koritnik,101379,2247,css,sbusso,95,9417,714,pihati7989@ploneix.com,Stéphane Busso
+mikemaccana,98497,1813,javascript,pepe,220,9084,176,josef.pospisil@laststar.eu,Josef Pospíšil
+Peter,122623,3438,git,program247365,80,8877,36,k@kbr.sh,Kevin Ridgway
+Alex B,79936,3124,c++,jonbaer,163,8830,291,jonbaer@gmail.com,Jon Baer
+Pedro Lobito,88335,2593,python,cheeaun,1359,8797,223,cheeaun@gmail.com,Chee Aun
+gman,94083,4175,webgl,souzaonofre,86,8481,122,souzaonofre@gmail.com,Onofre Souza
+Matt Joiner,108709,1606,c,hammer,899,8299,158,pihati7989@ploneix.com,Jeff Hammerbacher
+yegor256,98796,2334,java,frozzare,205,8152,295,pihati7989@ploneix.com,Fredrik Forsmo
+Misha Moroshko,159735,235,css,shuber,153,7631,48,github@shuber.io,Sean Huber
+Jason S,180029,1702,java,lgs,146,7482,1043,luca.soave@gmail.com,Luca G. Soave
+Martin Thoma,112253,4191,python,heracek,71,7287,124,tomas.horacek@gmail.com,Tomáš Horáček
+Remus Rusanu,283131,16633,sql-server,shaobin0604,168,6942,107,bin.shao0604@gmail.com,邵彬
+St&#233;phane Laurent,62998,3395,r,dmitry,79,6345,114,pihati7989@ploneix.com,Dmitry Polushkin
+Arun P Johny,379122,22180,jquery,andrew,3031,6170,307,pihati7989@ploneix.com,Andrew Nesbitt
+chrylis -cautiouslyoptimistic-,72885,5259,java,venliong,44,5669,369,wenliang.xu@gmail.com,Xu Wenliang
+Howard Hinnant,196419,17190,c++,fabien,59,5594,198,info@atelierfabien.be,Fabien Franzen
+Freewind,188136,30,java,stigkj,90,5311,260,from.github@nisgits.net,Stig Kleppe-Jørgensen
+benzado,79588,3389,macos,adulau,962,4789,142,a@foo.be,Alexandre Dulaunoy
+ThomasIsCoding,83849,6309,r,ericclemmons,947,4780,204,eric@smarterspam.com,Eric Clemmons
+einpoklum,106694,3765,c++,rgaidot,83,4460,233,rgaidot@gmail.com,Régis Gaidot
+einpoklum,106694,3764,c++,lodestone,68,4455,334,matt@kizmeta.com,Matt Petty
+inspectorG4dget,106093,5304,python,mindreframer,272,4110,268,pihati7989@ploneix.com,Roman Heinrich
+leora,180287,112,c#,mindreframer,272,4110,268,pihati7989@ploneix.com,Roman Heinrich
+leora,180287,112,c#,softprops,768,3710,438,d.tangren@gmail.com,Doug Tangren
+C. K. Young,215008,5383,java,rubiojr,352,3597,324,rubiojr@rbel.co,Sergio Rubio
+C. K. Young,215008,5381,java,igrigorik,8390,3592,75,ilya@igvita.com,Ilya Grigorik
+Milind Anantwar,80152,5311,jquery,vic,413,3574,337,vborja@apache.org,Victor Borja
+pts,73932,2870,macos,vic,413,3574,337,vborja@apache.org,Victor Borja
+pts,73932,2865,macos,btbytes,119,3439,392,pihati7989@ploneix.com,Pradeep Gowda
+Bojangles,96885,2130,html,slmingol,35,3430,392,github@lamolabs.org,Sam Mingo
+ripper234,215014,417,java,libin,110,3396,735,libinpan@gmail.com,Libin Pan
+creativecreatorormaybenot,98548,5692,dart,passy,2111,3372,445,pihati7989@ploneix.com,Pascal Hartig
+dustbuster,71844,4749,macos,hsbt,1147,3357,259,hsbt@ruby-lang.org,Hiroshi SHIBATA
+Brian R. Bondy,330156,8513,c++,kozo2,195,3181,327,pihati7989@ploneix.com,Kozo Nishida
+Blankman,251458,0,python,juliangruber,1482,3173,780,julian@juliangruber.com,Julian Gruber
+iammilind,65819,3620,c++,siuying,351,2983,418,francis@ignition.hk,Francis Chong
+Rabbid76,184677,4773,python,travisjeffery,1460,2847,221,tj@travisjeffery.com,Travis Jeffery
+ely,70653,4864,python,ivanoats,291,2732,358,pihati7989@ploneix.com,Ivan Storck
+GManNickG,482548,20038,c++,gbraad,339,2411,1249,me@gbraad.nl,Gerard Braad
+Theo,129532,1944,ruby,peterblazejewicz,170,2339,970,pihati7989@ploneix.com,Piotr Błażejewicz (Peter Blazejewicz)
+Greg Bacon,129693,6801,git,pfeilbr,40,2326,367,pihati7989@ploneix.com,Brian Pfeil
+Drew Noakes,289092,6757,.net,wuwx,75,2082,2119,wuweixin@gmail.com,wuweixin
+Seth Ladd,100689,4886,dart,simonw,3412,1945,561,swillison@gmail.com,Simon Willison
+Matthew Rankin,438314,24799,git,makevoid,338,1926,491,makevoid@gmail.com,Francesco 'makevoid' Canessa
